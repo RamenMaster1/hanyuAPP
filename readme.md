@@ -17,3 +17,26 @@
     1、sudo apt  install ffmpeg
     2、ffmpeg -i 1.mp4 -vcodec libx264 -acodec aac 1.mp4
 
+4. 遇到问题好像是目前的这个（ERROR:login:Health check failed: (pymysql.err.OperationalError) (1045, "Access denied for user 'appuser'@'172.20.0.6' (using password: YES)")）：
+    下面是解决方法：
+        1. 进入mysql容器：docker exec -it mysql mysql -u root -proot
+        2. mysql中输入：
+            CREATE USER 'appuser'@'%' IDENTIFIED WITH mysql_native_password BY 'app_pass_123';
+            GRANT ALL PRIVILEGES ON users.* TO 'appuser'@'%';
+            FLUSH PRIVILEGES;
+            ALTER USER 'appuser'@'%' IDENTIFIED WITH mysql_native_password BY 'app_pass_123';
+            FLUSH PRIVILEGES;
+        3. 退出mysql容器，进入到login_server_1：
+            docker exec -it login_server_1 bash
+            apt update && apt install -y mysql-client
+            mysql -h mysql -u appuser -papp_pass_123 users  #测试login_server_1能否登录到mysql
+        4. 重启login_server_1：
+            docker compose up -d --build app_login
+        5. 重启nginx：
+            docker compose up -d --build nginx
+
+
+
+
+
+
