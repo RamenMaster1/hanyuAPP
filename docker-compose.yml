@@ -1,0 +1,107 @@
+version: "3.9"
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: mysql
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: users
+    ports:
+      - "127.0.0.0:3306:3306"
+    volumes:
+      - ./mysql_data:/var/lib/mysql
+    networks:
+      - backend_network
+
+  redis:
+    image: redis:7-alpine
+    container_name: redis
+    restart: always
+    ports:
+      - "6379:6379"
+    command: redis-server --appendonly yes --maxmemory 200mb --maxmemory-policy allkeys-lru
+    volumes:
+      - ./redis_data:/data
+    networks:
+      - backend_network
+
+
+  app_register:
+    build: ./login_reg_server/register_server
+    container_name: register_server_1
+    restart: always
+    depends_on:
+      - mysql
+    environment:
+      DATABASE_URL: "mysql+pymysql://root:root@mysql:3306/users"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sSf http://localhost:8000/health || exit 1"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 15s
+    networks:
+      - backend_network
+
+  app_login:
+    build: ./login_reg_server/login_server
+    container_name: login_server_1
+    restart: always
+    depends_on:
+      - mysql
+      - redis
+    environment:
+      DATABASE_URL: "mysql+pymysql://root:root@mysql:3306/users"
+      REDIS_URL: "redis://redis:6379"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sSf http://localhost:8000/health || exit 1"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 15s
+    networks:
+      - backend_network
+
+  kanatara:
+    build: ./Kanatara
+    container_name: Kanatara
+    restart: always
+    ports:
+      - "3000:3000"
+    environment:
+      NODE_ENV: development
+    command: sh -c "npm install && npm run dev"
+    volumes:
+      - ./Kanatara:/app
+      - /app/node_modules
+    networks:
+      - backend_network
+
+
+  nginx:
+    image: nginx:1.23
+    container_name: nginx
+    restart: always
+    ports:
+      - "80:80"
+    volumes:
+      - ./nginx/nginx.conf:/etc/nginx/nginx.conf:ro
+    depends_on:
+      app_register:
+        condition: service_healthy
+      app_login:
+        condition: service_healthy
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sSf http://localhost || exit 1"]
+      interval: 5s
+      timeout: 3s
+      retries: 10
+      start_period: 15s
+    networks:
+      - backend_network
+
+networks:
+  backend_network:
+    driver: bridge

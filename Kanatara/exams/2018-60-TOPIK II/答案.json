@@ -1,0 +1,412 @@
+{
+  "exam_info": {
+    "year": "2018",
+    "session": "60",
+    "level": "TOPIK II",
+    "type": "B-홀수형"
+  },
+  "listening_answers": [
+    {
+      "question_number": 1,
+      "answer": 1
+    },
+    {
+      "question_number": 2,
+      "answer": 3
+    },
+    {
+      "question_number": 3,
+      "answer": 4
+    },
+    {
+      "question_number": 4,
+      "answer": 4
+    },
+    {
+      "question_number": 5,
+      "answer": 3
+    },
+    {
+      "question_number": 6,
+      "answer": 3
+    },
+    {
+      "question_number": 7,
+      "answer": 4
+    },
+    {
+      "question_number": 8,
+      "answer": 4
+    },
+    {
+      "question_number": 9,
+      "answer": 2
+    },
+    {
+      "question_number": 10,
+      "answer": 2
+    },
+    {
+      "question_number": 11,
+      "answer": 1
+    },
+    {
+      "question_number": 12,
+      "answer": 2
+    },
+    {
+      "question_number": 13,
+      "answer": 2
+    },
+    {
+      "question_number": 14,
+      "answer": 3
+    },
+    {
+      "question_number": 15,
+      "answer": 1
+    },
+    {
+      "question_number": 16,
+      "answer": ""
+    },
+    {
+      "question_number": 17,
+      "answer": 2
+    },
+    {
+      "question_number": 18,
+      "answer": 1
+    },
+    {
+      "question_number": 19,
+      "answer": 4
+    },
+    {
+      "question_number": 20,
+      "answer": 2
+    },
+    {
+      "question_number": 21,
+      "answer": 2
+    },
+    {
+      "question_number": 22,
+      "answer": 3
+    },
+    {
+      "question_number": 23,
+      "answer": 1
+    },
+    {
+      "question_number": 24,
+      "answer": ""
+    },
+    {
+      "question_number": 25,
+      "answer": 3
+    },
+    {
+      "question_number": 26,
+      "answer": 1
+    },
+    {
+      "question_number": 27,
+      "answer": 1
+    },
+    {
+      "question_number": 28,
+      "answer": 1
+    },
+    {
+      "question_number": 29,
+      "answer": 1
+    },
+    {
+      "question_number": 30,
+      "answer": 2
+    },
+    {
+      "question_number": 31,
+      "answer": 4
+    },
+    {
+      "question_number": 32,
+      "answer": 1
+    },
+    {
+      "question_number": 33,
+      "answer": 3
+    },
+    {
+      "question_number": 34,
+      "answer": 4
+    },
+    {
+      "question_number": 35,
+      "answer": 3
+    },
+    {
+      "question_number": 36,
+      "answer": 4
+    },
+    {
+      "question_number": 37,
+      "answer": 1
+    },
+    {
+      "question_number": 38,
+      "answer": 4
+    },
+    {
+      "question_number": 39,
+      "answer": 1
+    },
+    {
+      "question_number": 40,
+      "answer": 2
+    },
+    {
+      "question_number": 41,
+      "answer": ""
+    },
+    {
+      "question_number": 42,
+      "answer": ""
+    },
+    {
+      "question_number": 43,
+      "answer": 2
+    },
+    {
+      "question_number": 44,
+      "answer": ""
+    },
+    {
+      "question_number": 45,
+      "answer": ""
+    },
+    {
+      "question_number": 46,
+      "answer": 4
+    },
+    {
+      "question_number": 47,
+      "answer": 2
+    },
+    {
+      "question_number": 48,
+      "answer": 4
+    },
+    {
+      "question_number": 49,
+      "answer": 1
+    },
+    {
+      "question_number": 50,
+      "answer": 2
+    }
+  ],
+    "reading_answers": [
+    {
+      "question_number": 1,
+      "answer": 2
+    },
+    {
+      "question_number": 2,
+      "answer": 1
+    },
+    {
+      "question_number": 3,
+      "answer": 3
+    },
+    {
+      "question_number": 4,
+      "answer": 4
+    },
+    {
+      "question_number": 5,
+      "answer": 3
+    },
+    {
+      "question_number": 6,
+      "answer": 4
+    },
+    {
+      "question_number": 7,
+      "answer": 3
+    },
+    {
+      "question_number": 8,
+      "answer": 2
+    },
+    {
+      "question_number": 9,
+      "answer": 1
+    },
+    {
+      "question_number": 10,
+      "answer": 1
+    },
+    {
+      "question_number": 11,
+      "answer": ""
+    },
+    {
+      "question_number": 12,
+      "answer": 1
+    },
+    {
+      "question_number": 13,
+      "answer": 2
+    },
+    {
+      "question_number": 14,
+      "answer": 3
+    },
+    {
+      "question_number": 15,
+      "answer": 4
+    },
+    {
+      "question_number": 16,
+      "answer": 1
+    },
+    {
+      "question_number": 17,
+      "answer": 2
+    },
+    {
+      "question_number": 18,
+      "answer": 3
+    },
+    {
+      "question_number": 19,
+      "answer": 3
+    },
+    {
+      "question_number": 20,
+      "answer": 3
+    },
+    {
+      "question_number": 21,
+      "answer": 4
+    },
+    {
+      "question_number": 22,
+      "answer": 3
+    },
+    {
+      "question_number": 23,
+      "answer": 4
+    },
+    {
+      "question_number": 24,
+      "answer": ""
+    },
+    {
+      "question_number": 25,
+      "answer": 1
+    },
+    {
+      "question_number": 26,
+      "answer": 1
+    },
+    {
+      "question_number": 27,
+      "answer": 2
+    },
+    {
+      "question_number": 28,
+      "answer": 2
+    },
+    {
+      "question_number": 29,
+      "answer": 4
+    },
+    {
+      "question_number": 30,
+      "answer": 2
+    },
+    {
+      "question_number": 31,
+      "answer": 1
+    },
+    {
+      "question_number": 32,
+      "answer": 3
+    },
+    {
+      "question_number": 33,
+      "answer": 3
+    },
+    {
+      "question_number": 34,
+      "answer": ""
+    },
+    {
+      "question_number": 35,
+      "answer": 3
+    },
+    {
+      "question_number": 36,
+      "answer": 2
+    },
+    {
+      "question_number": 37,
+      "answer": 4
+    },
+    {
+      "question_number": 38,
+      "answer": 4
+    },
+    {
+      "question_number": 39,
+      "answer": 1
+    },
+    {
+      "question_number": 40,
+      "answer": 1
+    },
+    {
+      "question_number": 41,
+      "answer": 4
+    },
+    {
+      "question_number": 42,
+      "answer": 2
+    },
+    {
+      "question_number": 43,
+      "answer": 4
+    },
+    {
+      "question_number": 44,
+      "answer": 4
+    },
+    {
+      "question_number": 45,
+      "answer": 2
+    },
+    {
+      "question_number": 46,
+      "answer": 1
+    },
+    {
+      "question_number": 47,
+      "answer": 1
+    },
+    {
+      "question_number": 48,
+      "answer": 2
+    },
+    {
+      "question_number": 49,
+      "answer": 1
+    },
+    {
+      "question_number": 50,
+      "answer": 4
+    }
+  ]
+}
