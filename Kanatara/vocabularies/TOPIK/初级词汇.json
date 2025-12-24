@@ -1,0 +1,5874 @@
+[
+  {
+    "id": 1,
+    "word": "가게",
+    "type": "名",
+    "meaning": "店铺",
+    "memory_aid": "来自中文词“假家”,所谓“假家”指的是临时搭建的房屋,人们在里面做小生意。",
+    "related": "[名] 옷가게(n. 服装店)"
+  },
+  {
+    "id": 2,
+    "word": "가격",
+    "type": "名",
+    "meaning": "价格",
+    "memory_aid": "来自中文词“价格”"
+  },
+  {
+    "id": 3,
+    "word": "가구",
+    "type": "名",
+    "meaning": "家具",
+    "memory_aid": "来自中文词“家具”"
+  },
+  {
+    "id": 4,
+    "word": "가깝다",
+    "type": "形",
+    "meaning": "近,不远",
+    "related": "[反] 멀다(adj.远)"
+  },
+  {
+    "id": 5,
+    "word": "가끔",
+    "type": "副",
+    "meaning": "偶尔、有时,表示时间和空间上有一定间隔",
+    "related": "[同] 종종",
+    "example": "김선생은 요즘도 가끔 술을 마신다. 金老师最近也偶尔喝酒。"
+  },
+  {
+    "id": 6,
+    "word": "가다",
+    "type": "动",
+    "meaning": "去",
+    "related": "[派] 갔습니다(가다的过去时)"
+  },
+  {
+    "id": 7,
+    "word": "가르치다",
+    "type": "动",
+    "meaning": "教",
+    "example": "저는 영어를 가르쳐요. 我教英语"
+  },
+  {
+    "id": 8,
+    "word": "가방",
+    "type": "名",
+    "meaning": "包"
+  },
+  {
+    "id": 9,
+    "word": "가볍다",
+    "type": "形",
+    "meaning": "轻",
+    "related": "[反] 무겁다"
+  },
+  {
+    "id": 10,
+    "word": "가수",
+    "type": "名",
+    "meaning": "歌手",
+    "memory_aid": "来自于中文“歌手”"
+  },
+  {
+    "id": 11,
+    "word": "가운데",
+    "type": "名",
+    "meaning": "当中、中间、中",
+    "example": "강 가운데 배가 떠있다. 江中间有一艘船"
+  },
+  {
+    "id": 12,
+    "word": "가을",
+    "type": "名",
+    "meaning": "秋天",
+    "related": "[派] 가을 운동회 (n. 秋季运动会)",
+    "example": "늦은 가을이 되면 서늘한 바람이 불고 나뭇잎이 떨어진다. 到了晚秋会吹起凉爽的风,树叶会掉落下来。"
+  },
+  {
+    "id": 13,
+    "word": "가재",
+    "type": "名",
+    "meaning": "小龙虾"
+  },
+  {
+    "id": 14,
+    "word": "가족",
+    "type": "名",
+    "meaning": "家庭成员,家族",
+    "memory_aid": "来自中文词“家族”"
+  },
+  {
+    "id": 15,
+    "word": "가죽 장갑",
+    "type": "名",
+    "meaning": "皮手套",
+    "memory_aid": "由两个单词가죽(皮)和장갑(手套)组成"
+  },
+  {
+    "id": 16,
+    "word": "간단하다",
+    "type": "形",
+    "meaning": "简单",
+    "memory_aid": "来自中文词“简单”",
+    "related": "[反] 복잡하다(adj.复杂的)",
+    "example": "간단한 절차를 밟다. 经过了简单的程序"
+  },
+  {
+    "id": 17,
+    "word": "간호사",
+    "type": "名",
+    "meaning": "护士",
+    "memory_aid": "来自中文词“监护师”"
+  },
+  {
+    "id": 18,
+    "word": "갈비",
+    "type": "名",
+    "meaning": "排骨"
+  },
+  {
+    "id": 19,
+    "word": "갈아타다",
+    "type": "动",
+    "meaning": "换乘",
+    "memory_aid": "타다(vt.乘坐)"
+  },
+  {
+    "id": 20,
+    "word": "감기",
+    "type": "名",
+    "meaning": "感冒",
+    "memory_aid": "来自中文“感气”"
+  },
+  {
+    "id": 21,
+    "word": "감사",
+    "type": "名",
+    "meaning": "感谢",
+    "related": "[派] 감사해요/감사합니다(vt. 谢谢)"
+  },
+  {
+    "id": 22,
+    "word": "감자튀김",
+    "type": "名",
+    "meaning": "炸薯条",
+    "memory_aid": "由两个单词감자(土豆)和튀김(油炸物)组成"
+  },
+  {
+    "id": 23,
+    "word": "갑자기",
+    "type": "副",
+    "meaning": "突然",
+    "example": "갑자기 날씨가 추워지다.天气突然变冷"
+  },
+  {
+    "id": 24,
+    "word": "값",
+    "type": "名",
+    "meaning": "价格",
+    "related": "[同] 가격",
+    "note": "区别: 값一般指的是商品买卖时的价格,而가격则是用金钱衡量的商品价值"
+  },
+  {
+    "id": 25,
+    "word": "갔다오다",
+    "type": "动",
+    "meaning": "去过",
+    "related": "[同] 다녀오다"
+  },
+  {
+    "id": 26,
+    "word": "강",
+    "type": "名",
+    "meaning": "江,河",
+    "memory_aid": "来自中文词“江”",
+    "related": "[派] 한강(n. 汉江)"
+  },
+  {
+    "id": 27,
+    "word": "강아지",
+    "type": "名",
+    "meaning": "小狗"
+  },
+  {
+    "id": 28,
+    "word": "같다",
+    "type": "形",
+    "meaning": "一样",
+    "related": "[派] 같이 (adv.一起)",
+    "example": "모두 같이 갑시다. 大家一起去吧"
+  },
+  {
+    "id": 29,
+    "word": "개",
+    "type": "名",
+    "meaning": "狗、个(数)"
+  },
+  {
+    "id": 30,
+    "word": "개최",
+    "type": "名",
+    "meaning": "举行,举办",
+    "memory_aid": "来自中文词“开催”",
+    "related": "[派] 개최되다(vi.举办)",
+    "example": "1. 전시회가 개최되다. 举办展览会。 2. 동창회를 개최하다. 举行同窗会。"
+  },
+  {
+    "id": 31,
+    "word": "거울",
+    "type": "名",
+    "meaning": "镜子"
+  },
+  {
+    "id": 32,
+    "word": "걱정",
+    "type": "名",
+    "meaning": "担心、操心、忧虑",
+    "related": "[派] 걱정하다(vt. 担心)",
+    "example": "그는 학비 때문에 걱정이 많다. 他很担心学费"
+  },
+  {
+    "id": 33,
+    "word": "건강",
+    "type": "名",
+    "meaning": "健康",
+    "memory_aid": "来自中文词“健康”",
+    "related": "[派] 건강하다(adj.健康的)"
+  },
+  {
+    "id": 34,
+    "word": "걸다",
+    "type": "动",
+    "meaning": "挂上,打电话",
+    "example": "전화를 걸다. 전화를 하다 均是“打电话”"
+  },
+  {
+    "id": 35,
+    "word": "걸리다",
+    "type": "动",
+    "meaning": "花费(时间)",
+    "example": "시간이 오래 걸리다: 花了很长时间"
+  },
+  {
+    "id": 36,
+    "word": "게으르다",
+    "type": "形",
+    "meaning": "懒惰",
+    "related": "[派] 게으름 (n. 懒惰)"
+  },
+  {
+    "id": 37,
+    "word": "겨울",
+    "type": "名",
+    "meaning": "冬天"
+  },
+  {
+    "id": 38,
+    "word": "결석",
+    "type": "名",
+    "meaning": "缺席",
+    "memory_aid": "来自中文词“缺席”"
+  },
+  {
+    "id": 39,
+    "word": "결혼",
+    "type": "名",
+    "meaning": "结婚",
+    "memory_aid": "来自中文词“结婚”",
+    "related": "[派] 결혼하다(vi. 结婚)"
+  },
+  {
+    "id": 40,
+    "word": "경제",
+    "type": "名",
+    "meaning": "经济",
+    "memory_aid": "来自中文词“经济”"
+  },
+  {
+    "id": 41,
+    "word": "경주",
+    "type": "名",
+    "meaning": "庆州,韩国城市"
+  },
+  {
+    "id": 42,
+    "word": "경찰서",
+    "type": "名",
+    "meaning": "警察署",
+    "memory_aid": "来自中文词“警察署”"
+  },
+  {
+    "id": 43,
+    "word": "경험",
+    "type": "名",
+    "meaning": "经验"
+  },
+  {
+    "id": 44,
+    "word": "계단",
+    "type": "名",
+    "meaning": "楼梯",
+    "memory_aid": "来自中文词“阶段”"
+  },
+  {
+    "id": 45,
+    "word": "계속",
+    "type": "副",
+    "meaning": "继续,一直",
+    "memory_aid": "来自中文词“继续”"
+  },
+  {
+    "id": 46,
+    "word": "계절",
+    "type": "名",
+    "meaning": "季节",
+    "memory_aid": "来自中文词“季节”",
+    "related": "[派] 사계절 (n. 四季)"
+  },
+  {
+    "id": 47,
+    "word": "계획",
+    "type": "名",
+    "meaning": "计划",
+    "memory_aid": "来自中文词“计划”",
+    "related": "[派] 계획하다(vt. 计划)"
+  },
+  {
+    "id": 48,
+    "word": "고기",
+    "type": "名",
+    "meaning": "肉",
+    "related": "[派] 물고기 (n.鱼); 불고기(n. 烤肉)"
+  },
+  {
+    "id": 49,
+    "word": "고등학교",
+    "type": "名",
+    "meaning": "高中",
+    "memory_aid": "来自中文词“高等学校”",
+    "related": "[派] 고등학생 (n. 高中学生)"
+  },
+  {
+    "id": 50,
+    "word": "고맙습니다",
+    "type": "动",
+    "meaning": "谢谢"
+  },
+  {
+    "id": 51,
+    "word": "고민",
+    "type": "名",
+    "meaning": "苦恼",
+    "memory_aid": "来自中文词“苦闷”"
+  },
+  {
+    "id": 52,
+    "word": "고속버스",
+    "type": "名",
+    "meaning": "高速公交车",
+    "memory_aid": "中文词“高速”和英文“bus”的结合"
+  },
+  {
+    "id": 53,
+    "word": "고을",
+    "type": "名",
+    "meaning": "古时的州、府、郡、县的统称"
+  },
+  {
+    "id": 54,
+    "word": "고프다",
+    "type": "形",
+    "meaning": "饿",
+    "example": "배가 고프다.肚子饿"
+  },
+  {
+    "id": 55,
+    "word": "고향",
+    "type": "名",
+    "meaning": "故乡",
+    "memory_aid": "来自中文词“故乡”",
+    "related": "[派] 고향 친구(n. 故乡朋友、老乡)"
+  },
+  {
+    "id": 56,
+    "word": "곳",
+    "type": "名",
+    "meaning": "地方,地点"
+  },
+  {
+    "id": 57,
+    "word": "공기",
+    "type": "名",
+    "meaning": "空气",
+    "memory_aid": "来自中文词“空气”",
+    "example": "공기가 맑다.空气新鲜"
+  },
+  {
+    "id": 58,
+    "word": "공기밥",
+    "type": "名",
+    "meaning": "(放在小碗里的)米饭"
+  },
+  {
+    "id": 59,
+    "word": "공사",
+    "type": "名",
+    "meaning": "(韩国的)国有企业,施工",
+    "memory_aid": "来自中文词“工事”",
+    "related": "[派] 공사중 (n.施工中)"
+  },
+  {
+    "id": 60,
+    "word": "공연",
+    "type": "名",
+    "meaning": "演出",
+    "memory_aid": "来自“公演”"
+  },
+  {
+    "id": 61,
+    "word": "공원",
+    "type": "名",
+    "meaning": "公园"
+  },
+  {
+    "id": 62,
+    "word": "공책",
+    "type": "名",
+    "meaning": "记事本,笔记本",
+    "memory_aid": "来自“功册”(做功课的本子)"
+  },
+  {
+    "id": 63,
+    "word": "공항",
+    "type": "名",
+    "meaning": "机场",
+    "memory_aid": "来自“空港”",
+    "related": "[派] 공항 이용료(n.机场使用费)"
+  },
+  {
+    "id": 64,
+    "word": "과일",
+    "type": "名",
+    "meaning": "水果",
+    "related": "[派] 과일 가게 (n. 水果摊)"
+  },
+  {
+    "id": 65,
+    "word": "과자",
+    "type": "名",
+    "meaning": "饼干,点心"
+  },
+  {
+    "id": 66,
+    "word": "관광",
+    "type": "名",
+    "meaning": "观光",
+    "memory_aid": "来自“观光”",
+    "related": "[派] 관광객(n.游客,观光客)"
+  },
+  {
+    "id": 67,
+    "word": "관심",
+    "type": "名",
+    "meaning": "关心"
+  },
+  {
+    "id": 68,
+    "word": "광고",
+    "type": "名",
+    "meaning": "广告",
+    "memory_aid": "来自“广告”"
+  },
+  {
+    "id": 69,
+    "word": "괜찮다",
+    "type": "形",
+    "meaning": "不错,没关系",
+    "related": "[派] 괜찮습니다 (adj. 没关系)"
+  },
+  {
+    "id": 70,
+    "word": "교실",
+    "type": "名",
+    "meaning": "教室",
+    "memory_aid": "来自“教室”"
+  },
+  {
+    "id": 71,
+    "word": "교통",
+    "type": "名",
+    "meaning": "交通",
+    "memory_aid": "来自“交通”",
+    "related": "[派] 교통사고(n. 交通事故)"
+  },
+  {
+    "id": 72,
+    "word": "구간",
+    "type": "名",
+    "meaning": "区间",
+    "memory_aid": "来自“区间”"
+  },
+  {
+    "id": 73,
+    "word": "구경",
+    "type": "名",
+    "meaning": "观看",
+    "memory_aid": "来自“观景”"
+  },
+  {
+    "id": 74,
+    "word": "구두",
+    "type": "名",
+    "meaning": "皮鞋"
+  },
+  {
+    "id": 75,
+    "word": "구입",
+    "type": "名",
+    "meaning": "购入",
+    "memory_aid": "来自“购入”"
+  },
+  {
+    "id": 76,
+    "word": "구하다",
+    "type": "动",
+    "meaning": "拯救",
+    "memory_aid": "“救+하다”的结构"
+  },
+  {
+    "id": 77,
+    "word": "국내",
+    "type": "名",
+    "meaning": "国内",
+    "memory_aid": "来自“国内”",
+    "related": "[派] 국내선(n.国内航线); 국내 우표(n. 国内邮票)"
+  },
+  {
+    "id": 78,
+    "word": "군",
+    "type": "名",
+    "meaning": "郡,是一个行政单位"
+  },
+  {
+    "id": 79,
+    "word": "급",
+    "type": "名",
+    "meaning": "鞋跟"
+  },
+  {
+    "id": 80,
+    "word": "권",
+    "type": "名",
+    "meaning": "(书的量词)册",
+    "memory_aid": "来自“卷”"
+  },
+  {
+    "id": 81,
+    "word": "그 동안",
+    "type": "名",
+    "meaning": "在那期间"
+  },
+  {
+    "id": 82,
+    "word": "그냥",
+    "type": "副",
+    "meaning": "仍旧"
+  },
+  {
+    "id": 83,
+    "word": "그래서",
+    "type": "连",
+    "meaning": "因此,所以"
+  },
+  {
+    "id": 84,
+    "word": "그러니까",
+    "type": "副",
+    "meaning": "所以",
+    "note": "比그래서更正式,可以用于书面文章"
+  },
+  {
+    "id": 85,
+    "word": "그러면",
+    "type": "副",
+    "meaning": "那么(then),既然...就(if so, in that case)",
+    "note": "非正式的用法、只能用于口语"
+  },
+  {
+    "id": 86,
+    "word": "그런",
+    "type": "名",
+    "meaning": "那样的(such, like that)"
+  },
+  {
+    "id": 87,
+    "word": "그런데",
+    "type": "连",
+    "meaning": "但是",
+    "related": "[同] 그렇지만, 그러나"
+  },
+  {
+    "id": 88,
+    "word": "그럼",
+    "type": "副",
+    "meaning": "那么",
+    "note": "只能用于口语"
+  },
+  {
+    "id": 89,
+    "word": "그렇지만",
+    "type": "连",
+    "meaning": "但是",
+    "related": "[同] 그런데, 그러나"
+  },
+  {
+    "id": 90,
+    "word": "그릇",
+    "type": "名",
+    "meaning": "盘子"
+  },
+  {
+    "id": 91,
+    "word": "그리고",
+    "type": "连",
+    "meaning": "还,然后"
+  },
+  {
+    "id": 92,
+    "word": "그리다",
+    "type": "动",
+    "meaning": "画画",
+    "related": "[派] 그림(n.画)"
+  },
+  {
+    "id": 93,
+    "word": "그저께",
+    "type": "名",
+    "meaning": "前天"
+  },
+  {
+    "id": 94,
+    "word": "그치다",
+    "type": "动",
+    "meaning": "停止"
+  },
+  {
+    "id": 95,
+    "word": "극장",
+    "type": "名",
+    "meaning": "剧场",
+    "memory_aid": "来自“剧场”"
+  },
+  {
+    "id": 96,
+    "word": "근처",
+    "type": "名",
+    "meaning": "附近",
+    "memory_aid": "来自“近处”"
+  },
+  {
+    "id": 97,
+    "word": "글",
+    "type": "名",
+    "meaning": "文字",
+    "related": "[派] 한글(n. 韩国语)"
+  },
+  {
+    "id": 98,
+    "word": "금년",
+    "type": "名",
+    "meaning": "今年",
+    "memory_aid": "来自“今年”"
+  },
+  {
+    "id": 99,
+    "word": "금방",
+    "type": "副",
+    "meaning": "刚刚",
+    "memory_aid": "来自“今方”"
+  },
+  {
+    "id": 100,
+    "word": "금액",
+    "type": "名",
+    "meaning": "金额",
+    "memory_aid": "来自“金额”"
+  },
+  {
+    "id": 101,
+    "word": "금요일",
+    "type": "名",
+    "meaning": "星期五"
+  },
+  {
+    "id": 102,
+    "word": "금지",
+    "type": "名",
+    "meaning": "禁止",
+    "memory_aid": "来自“禁止”",
+    "related": "[派] 금지하다(vt. 禁止)"
+  },
+  {
+    "id": 103,
+    "word": "급하다",
+    "type": "形",
+    "meaning": "急",
+    "memory_aid": "급来自“急”"
+  },
+  {
+    "id": 104,
+    "word": "기간",
+    "type": "名",
+    "meaning": "期间",
+    "memory_aid": "来自“期间”"
+  },
+  {
+    "id": 105,
+    "word": "기념품",
+    "type": "名",
+    "meaning": "纪念品"
+  },
+  {
+    "id": 106,
+    "word": "기대",
+    "type": "名",
+    "meaning": "期待",
+    "memory_aid": "来自“期待”",
+    "related": "[派] 기대하다(vt. 期待)"
+  },
+  {
+    "id": 107,
+    "word": "기본",
+    "type": "名",
+    "meaning": "基本",
+    "memory_aid": "来自“基本”"
+  },
+  {
+    "id": 108,
+    "word": "기분",
+    "type": "名",
+    "meaning": "心情,气氛",
+    "memory_aid": "来自“气氛”",
+    "example": "기분이 좋다. 心情好。"
+  },
+  {
+    "id": 109,
+    "word": "기뻐하다",
+    "type": "动",
+    "meaning": "开心"
+  },
+  {
+    "id": 110,
+    "word": "기숙사",
+    "type": "名",
+    "meaning": "宿舍",
+    "memory_aid": "来自“寄宿社”",
+    "related": "[派] 기숙사 안내 (n. 宿舍向导/宿舍规定)"
+  },
+  {
+    "id": 111,
+    "word": "기억",
+    "type": "名",
+    "meaning": "记忆"
+  },
+  {
+    "id": 112,
+    "word": "기온",
+    "type": "名",
+    "meaning": "气温",
+    "memory_aid": "来自“气温”"
+  },
+  {
+    "id": 113,
+    "word": "기차",
+    "type": "名",
+    "meaning": "火车",
+    "memory_aid": "来自“汽车”,即蒸汽车",
+    "related": "[派] 기차역 (n.火车站) 기차표(n. 火车票)"
+  },
+  {
+    "id": 114,
+    "word": "기침",
+    "type": "名",
+    "meaning": "咳嗽",
+    "memory_aid": "来自“气喘”"
+  },
+  {
+    "id": 115,
+    "word": "길",
+    "type": "名",
+    "meaning": "路"
+  },
+  {
+    "id": 116,
+    "word": "길다",
+    "type": "形",
+    "meaning": "长",
+    "related": "[反] 짧다(adj.短)"
+  },
+  {
+    "id": 117,
+    "word": "김밥",
+    "type": "名",
+    "meaning": "紫菜饭"
+  },
+  {
+    "id": 118,
+    "word": "김치",
+    "type": "名",
+    "meaning": "泡菜",
+    "related": "[派] 김치찌개(n. 泡菜汤)"
+  },
+  {
+    "id": 119,
+    "word": "깊다",
+    "type": "形",
+    "meaning": "深",
+    "related": "[反] 얕다(adj.浅)"
+  },
+  {
+    "id": 120,
+    "word": "까만색",
+    "type": "名",
+    "meaning": "黑色",
+    "example": "까만 모자(n.黑色帽子); 까만색 치마(n.黑色裙子)"
+  },
+  {
+    "id": 121,
+    "word": "깜짝 놀라다",
+    "type": "词组",
+    "meaning": "吓一跳"
+  },
+  {
+    "id": 122,
+    "word": "깨끗하다",
+    "type": "形",
+    "meaning": "干净",
+    "related": "[反] 더럽다(adj.脏)"
+  },
+  {
+    "id": 123,
+    "word": "꼬리",
+    "type": "名",
+    "meaning": "尾巴"
+  },
+  {
+    "id": 124,
+    "word": "꼭",
+    "type": "副",
+    "meaning": "一定"
+  },
+  {
+    "id": 125,
+    "word": "꽃",
+    "type": "名",
+    "meaning": "花",
+    "example": "꽃가게(n. 鲜花店); 꽃 열 송이(n.十朵花); 꽃밭(n.花园)"
+  },
+  {
+    "id": 126,
+    "word": "끄다",
+    "type": "动",
+    "meaning": "关(灯,蜡烛等)"
+  },
+  {
+    "id": 127,
+    "word": "끝나다",
+    "type": "动",
+    "meaning": "结束",
+    "related": "[派] 끝(n.结束)"
+  },
+  {
+    "id": 128,
+    "word": "끼다",
+    "type": "动",
+    "meaning": "笼罩,弥漫"
+  },
+  {
+    "id": 129,
+    "word": "나",
+    "type": "代",
+    "meaning": "我",
+    "related": "[谦] 저(n.鄙人)"
+  },
+  {
+    "id": 130,
+    "word": "나라",
+    "type": "名",
+    "meaning": "国家",
+    "memory_aid": "张娜拉的名字为“장나라”"
+  },
+  {
+    "id": 131,
+    "word": "나무",
+    "type": "名",
+    "meaning": "树木"
+  },
+  {
+    "id": 132,
+    "word": "나빠요",
+    "type": "形",
+    "meaning": "坏,不好",
+    "related": "[反] 좋아요(adj.好)"
+  },
+  {
+    "id": 133,
+    "word": "나쁘다",
+    "type": "形",
+    "meaning": "不好、坏",
+    "related": "[派] 나빠지다(vt.变坏)"
+  },
+  {
+    "id": 134,
+    "word": "나오다",
+    "type": "动",
+    "meaning": "出来"
+  },
+  {
+    "id": 135,
+    "word": "나이",
+    "type": "名",
+    "meaning": "年龄",
+    "related": "[同] 연령(n.年龄); [敬] 연세(n.年龄)"
+  },
+  {
+    "id": 136,
+    "word": "나중에",
+    "type": "副",
+    "meaning": "最后"
+  },
+  {
+    "id": 137,
+    "word": "낚시",
+    "type": "名",
+    "meaning": "钓钩"
+  },
+  {
+    "id": 138,
+    "word": "날마다",
+    "type": "副",
+    "meaning": "日复一日"
+  },
+  {
+    "id": 139,
+    "word": "날씨",
+    "type": "名",
+    "meaning": "天气",
+    "example": "변덕스러운 날씨 (n. 变化多端的天气、鬼天气); 나쁜 날씨(n.坏天气、鬼天气)"
+  },
+  {
+    "id": 140,
+    "word": "날짜",
+    "type": "名",
+    "meaning": "日子、日期"
+  },
+  {
+    "id": 141,
+    "word": "남",
+    "type": "名",
+    "meaning": "男",
+    "memory_aid": "来自“男”",
+    "related": "[反] 여자"
+  },
+  {
+    "id": 142,
+    "word": "남대문",
+    "type": "名",
+    "meaning": "南大门"
+  },
+  {
+    "id": 143,
+    "word": "남동생",
+    "type": "名",
+    "meaning": "弟弟",
+    "memory_aid": "“男”+“同生”"
+  },
+  {
+    "id": 144,
+    "word": "남산",
+    "type": "名",
+    "meaning": "南山"
+  },
+  {
+    "id": 145,
+    "word": "남성복",
+    "type": "名",
+    "meaning": "男装",
+    "memory_aid": "来自“男性服”"
+  },
+  {
+    "id": 146,
+    "word": "남자",
+    "type": "名",
+    "meaning": "男性、男人"
+  },
+  {
+    "id": 147,
+    "word": "남쪽",
+    "type": "名",
+    "meaning": "南边",
+    "memory_aid": "“南”+“边”",
+    "related": "[反] 북쪽(n.北边)"
+  },
+  {
+    "id": 148,
+    "word": "남해",
+    "type": "名",
+    "meaning": "南海",
+    "memory_aid": "来自“南海”"
+  },
+  {
+    "id": 149,
+    "word": "낮",
+    "type": "名",
+    "meaning": "白天",
+    "related": "[反] 밤(n.晚)"
+  },
+  {
+    "id": 150,
+    "word": "내년",
+    "type": "名",
+    "meaning": "明年",
+    "memory_aid": "来自“来年”"
+  },
+  {
+    "id": 151,
+    "word": "내리다",
+    "type": "动",
+    "meaning": "下(雨)",
+    "example": "비가 내리다; 下雨"
+  },
+  {
+    "id": 152,
+    "word": "내용",
+    "type": "名",
+    "meaning": "内容",
+    "memory_aid": "来自“内容”"
+  },
+  {
+    "id": 153,
+    "word": "내일",
+    "type": "名",
+    "meaning": "明天",
+    "memory_aid": "来自“来日”"
+  },
+  {
+    "id": 154,
+    "word": "냉면",
+    "type": "名",
+    "meaning": "冷面"
+  },
+  {
+    "id": 155,
+    "word": "냉장고",
+    "type": "名",
+    "meaning": "冰箱",
+    "memory_aid": "来自“冷藏库”"
+  },
+  {
+    "id": 156,
+    "word": "너무",
+    "type": "副",
+    "meaning": "太(too)"
+  },
+  {
+    "id": 157,
+    "word": "넓다",
+    "type": "形",
+    "meaning": "宽",
+    "related": "[反] 좁다(adj.窄)"
+  },
+  {
+    "id": 158,
+    "word": "네",
+    "type": "名",
+    "meaning": "(回答的时候)是"
+  },
+  {
+    "id": 159,
+    "word": "년",
+    "type": "名",
+    "meaning": "年",
+    "memory_aid": "来自“年”"
+  },
+  {
+    "id": 160,
+    "word": "노란색",
+    "type": "名",
+    "meaning": "黄色"
+  },
+  {
+    "id": 161,
+    "word": "노래",
+    "type": "名",
+    "meaning": "歌曲",
+    "related": "[派] 노래방(n.练歌房,KTV)",
+    "example": "노래를 부르다. 唱歌"
+  },
+  {
+    "id": 162,
+    "word": "노인",
+    "type": "名",
+    "meaning": "老人",
+    "memory_aid": "来自“老人”"
+  },
+  {
+    "id": 163,
+    "word": "놀라다",
+    "type": "动",
+    "meaning": "惊讶"
+  },
+  {
+    "id": 164,
+    "word": "농구",
+    "type": "名",
+    "meaning": "篮球",
+    "memory_aid": "来自“笼球”",
+    "related": "[派] 농구장(n.篮球场)"
+  },
+  {
+    "id": 165,
+    "word": "농원",
+    "type": "名",
+    "meaning": "农场",
+    "memory_aid": "来自“农园”"
+  },
+  {
+    "id": 166,
+    "word": "높다",
+    "type": "形",
+    "meaning": "高",
+    "related": "[反] 낮다(adj.低)"
+  },
+  {
+    "id": 167,
+    "word": "놓다",
+    "type": "动",
+    "meaning": "放下"
+  },
+  {
+    "id": 168,
+    "word": "누구",
+    "type": "代",
+    "meaning": "谁(who)"
+  },
+  {
+    "id": 169,
+    "word": "누나",
+    "type": "名",
+    "meaning": "姐姐(男称女)",
+    "note": "언니(女称女)"
+  },
+  {
+    "id": 170,
+    "word": "눈",
+    "type": "名",
+    "meaning": "雪,眼睛"
+  },
+  {
+    "id": 171,
+    "word": "눈물",
+    "type": "名",
+    "meaning": "眼泪"
+  },
+  {
+    "id": 172,
+    "word": "눈사람",
+    "type": "名",
+    "meaning": "雪人",
+    "memory_aid": "눈사람(n. 人)"
+  },
+  {
+    "id": 173,
+    "word": "느낌",
+    "type": "名",
+    "meaning": "感觉"
+  },
+  {
+    "id": 174,
+    "word": "늦다",
+    "type": "形",
+    "meaning": "晚",
+    "related": "[派] 늦게 (adv.晚地); 늦잠(n.懒觉); [反] 이르다 (adj.早的)"
+  },
+  {
+    "id": 175,
+    "word": "다르다",
+    "type": "形",
+    "meaning": "不同",
+    "related": "[反] 같다(adj.一样)"
+  },
+  {
+    "id": 176,
+    "word": "다리",
+    "type": "名",
+    "meaning": "桥,腿"
+  },
+  {
+    "id": 177,
+    "word": "다시",
+    "type": "副",
+    "meaning": "再,重新"
+  },
+  {
+    "id": 178,
+    "word": "다양하다",
+    "type": "形",
+    "meaning": "多种多样的",
+    "memory_aid": "다양来自“多样”"
+  },
+  {
+    "id": 179,
+    "word": "다음",
+    "type": "名",
+    "meaning": "然后"
+  },
+  {
+    "id": 180,
+    "word": "단가",
+    "type": "名",
+    "meaning": "单价",
+    "memory_aid": "来自“单价”"
+  },
+  {
+    "id": 181,
+    "word": "단어",
+    "type": "名",
+    "meaning": "单词",
+    "memory_aid": "来自“单语”"
+  },
+  {
+    "id": 182,
+    "word": "단풍",
+    "type": "名",
+    "meaning": "枫叶",
+    "memory_aid": "来自“丹枫”"
+  },
+  {
+    "id": 183,
+    "word": "닫다",
+    "type": "动",
+    "meaning": "关",
+    "related": "[反] 열다(vt.打开)"
+  },
+  {
+    "id": 184,
+    "word": "달",
+    "type": "名",
+    "meaning": "月亮",
+    "memory_aid": "해(n. 太阳)"
+  },
+  {
+    "id": 185,
+    "word": "달라요",
+    "type": "形",
+    "meaning": "不同"
+  },
+  {
+    "id": 186,
+    "word": "달력",
+    "type": "名",
+    "meaning": "月历",
+    "memory_aid": "달(n.月)+력(n.历)"
+  },
+  {
+    "id": 187,
+    "word": "달아요",
+    "type": "形",
+    "meaning": "甜",
+    "related": "[派] 来自 달다(adj.甜)"
+  },
+  {
+    "id": 188,
+    "word": "닮다",
+    "type": "形",
+    "meaning": "(长得)像"
+  },
+  {
+    "id": 189,
+    "word": "담배",
+    "type": "名",
+    "meaning": "(香)烟"
+  },
+  {
+    "id": 190,
+    "word": "답장",
+    "type": "名",
+    "meaning": "回信",
+    "memory_aid": "来自“答状”"
+  },
+  {
+    "id": 191,
+    "word": "대리",
+    "type": "名",
+    "meaning": "代理",
+    "note": "韩企里的一种职位头衔,一般工作经验2年就可以自动成为代理,是比新职员高一级的职位"
+  },
+  {
+    "id": 192,
+    "word": "대사관",
+    "type": "名",
+    "meaning": "大使馆",
+    "memory_aid": "대사(n. 大使)"
+  },
+  {
+    "id": 193,
+    "word": "대표",
+    "type": "名",
+    "meaning": "代表",
+    "memory_aid": "来自“代表”"
+  },
+  {
+    "id": 194,
+    "word": "대학 생활",
+    "type": "词组",
+    "meaning": "大学生活",
+    "memory_aid": "来自“大学生活”"
+  },
+  {
+    "id": 195,
+    "word": "대학교",
+    "type": "名",
+    "meaning": "大学",
+    "related": "[派] 대학생 (n. 大学生); 대학원 (n. 研究生院); 대학로 (n. 大学路)"
+  },
+  {
+    "id": 196,
+    "word": "대화",
+    "type": "名",
+    "meaning": "对话",
+    "memory_aid": "来自“对话”"
+  },
+  {
+    "id": 197,
+    "word": "덥다",
+    "type": "形",
+    "meaning": "热",
+    "related": "[反] 춥다(adj.冷)"
+  },
+  {
+    "id": 198,
+    "word": "도",
+    "type": "名",
+    "meaning": "道",
+    "note": "朝鲜半岛由8个道组成,类似于中国的省"
+  },
+  {
+    "id": 199,
+    "word": "도서관",
+    "type": "名",
+    "meaning": "图书馆",
+    "memory_aid": "도서 (n. 图书)+관(n.馆)"
+  },
+  {
+    "id": 200,
+    "word": "도시",
+    "type": "名",
+    "meaning": "城市",
+    "memory_aid": "来自“都市”"
+  }，
+  {
+    "id": 201,
+    "word": "도와주다",
+    "type": "动",
+    "meaning": "帮忙,指帮别人",
+    "example": "여러 사람이 돈을 내서 도와주다. 众人筹钱帮忙"
+  },
+  {
+    "id": 202,
+    "word": "도착",
+    "type": "名",
+    "meaning": "到达",
+    "memory_aid": "来自“到达”"
+  },
+  {
+    "id": 203,
+    "word": "돈",
+    "type": "名",
+    "meaning": "钱"
+  },
+  {
+    "id": 204,
+    "word": "돌",
+    "type": "名",
+    "meaning": "石头"
+  },
+  {
+    "id": 205,
+    "word": "돌려주다",
+    "type": "动",
+    "meaning": "退还",
+    "memory_aid": "돌리다(vt.转) + 주다(n.给)"
+  },
+  {
+    "id": 206,
+    "word": "돌아오다",
+    "type": "动",
+    "meaning": "回来",
+    "memory_aid": "오다(vi.来)"
+  },
+  {
+    "id": 207,
+    "word": "동대문 시장",
+    "type": "名",
+    "meaning": "东大门市场"
+  },
+  {
+    "id": 208,
+    "word": "동물",
+    "type": "名",
+    "meaning": "动物",
+    "related": "[派] 동물원 (n. 动物园)"
+  },
+  {
+    "id": 209,
+    "word": "동생",
+    "type": "名",
+    "meaning": "弟弟(남동생)、妹妹(여동생)",
+    "memory_aid": "来自“同生”"
+  },
+  {
+    "id": 210,
+    "word": "동안",
+    "type": "名",
+    "meaning": "期间"
+  },
+  {
+    "id": 211,
+    "word": "된장찌개",
+    "type": "名",
+    "meaning": "大酱汤",
+    "memory_aid": "된장(n. 大酱) + 찌개 (n.汤)"
+  },
+  {
+    "id": 212,
+    "word": "두시",
+    "type": "名",
+    "meaning": "两点"
+  },
+  {
+    "id": 213,
+    "word": "둘째",
+    "type": "名",
+    "meaning": "第二"
+  },
+  {
+    "id": 214,
+    "word": "뒤",
+    "type": "名",
+    "meaning": "后面",
+    "related": "[反] 앞(n.前)"
+  },
+  {
+    "id": 215,
+    "word": "드라마",
+    "type": "名",
+    "meaning": "电视剧",
+    "memory_aid": "来自drama"
+  },
+  {
+    "id": 216,
+    "word": "드라이",
+    "type": "名",
+    "meaning": "烘干",
+    "memory_aid": "来自dry"
+  },
+  {
+    "id": 217,
+    "word": "듣다",
+    "type": "动",
+    "meaning": "听",
+    "related": "[派] 들었다(vt.听到)"
+  },
+  {
+    "id": 218,
+    "word": "들어가다",
+    "type": "动",
+    "meaning": "进去"
+  },
+  {
+    "id": 219,
+    "word": "등산",
+    "type": "名",
+    "meaning": "登山",
+    "memory_aid": "등산화(n.登山鞋)"
+  },
+  {
+    "id": 220,
+    "word": "따뜻하다",
+    "type": "形",
+    "meaning": "暖和"
+  },
+  {
+    "id": 221,
+    "word": "딸",
+    "type": "名",
+    "meaning": "女儿",
+    "memory_aid": "一起记 아들(n. 儿子)"
+  },
+  {
+    "id": 222,
+    "word": "땅",
+    "type": "名",
+    "meaning": "地,土地"
+  },
+  {
+    "id": 223,
+    "word": "때때로",
+    "type": "副",
+    "meaning": "间或、有时",
+    "memory_aid": "때(n.时候)",
+    "example": "사람들은 때때로 이 점을 소홀히 한다:人们往往忽略这一点"
+  },
+  {
+    "id": 224,
+    "word": "떡",
+    "type": "名",
+    "meaning": "糕点"
+  },
+  {
+    "id": 225,
+    "word": "똑바로",
+    "type": "副",
+    "meaning": "端正地"
+  },
+  {
+    "id": 226,
+    "word": "뛰다",
+    "type": "动",
+    "meaning": "跑"
+  },
+  {
+    "id": 227,
+    "word": "뜻",
+    "type": "名",
+    "meaning": "意思"
+  },
+  {
+    "id": 228,
+    "word": "라디오",
+    "type": "名",
+    "meaning": "收音机",
+    "memory_aid": "来自 radio"
+  },
+  {
+    "id": 229,
+    "word": "러시아",
+    "type": "名",
+    "meaning": "俄罗斯",
+    "memory_aid": "来自 Russia"
+  },
+  {
+    "id": 230,
+    "word": "마리",
+    "type": "名",
+    "meaning": "(动物量词)只,可以用在绝大多数动物上(包括鸟类、鱼类和昆虫)"
+  },
+  {
+    "id": 231,
+    "word": "마시다",
+    "type": "动",
+    "meaning": "喝"
+  },
+  {
+    "id": 232,
+    "word": "마음",
+    "type": "名",
+    "meaning": "心灵,心情",
+    "example": "마음에 들다.满意,符合心意"
+  },
+  {
+    "id": 233,
+    "word": "마이클",
+    "type": "人名",
+    "meaning": "迈克",
+    "memory_aid": "来自Michael"
+  },
+  {
+    "id": 234,
+    "word": "마침내",
+    "type": "副",
+    "meaning": "终于",
+    "example": "그는 마침내 성공했다 他终于成功了"
+  },
+  {
+    "id": 235,
+    "word": "만원",
+    "type": "名",
+    "meaning": "1万元;韩语中的“一”往往省略"
+  },
+  {
+    "id": 236,
+    "word": "만나다",
+    "type": "动",
+    "meaning": "见面"
+  },
+  {
+    "id": 237,
+    "word": "만들다",
+    "type": "动",
+    "meaning": "制造"
+  },
+  {
+    "id": 238,
+    "word": "만화",
+    "type": "名",
+    "meaning": "漫画",
+    "memory_aid": "来自“漫画”"
+  },
+  {
+    "id": 239,
+    "word": "많다",
+    "type": "形",
+    "meaning": "多",
+    "related": "[反] 적다(adj.少)"
+  },
+  {
+    "id": 240,
+    "word": "말씀",
+    "type": "名",
+    "meaning": "话,言语",
+    "note": "这个单词是”말”的敬语; 말(n.话)"
+  },
+  {
+    "id": 241,
+    "word": "맑다",
+    "type": "形",
+    "meaning": "天气晴朗,(水)清澈"
+  },
+  {
+    "id": 242,
+    "word": "맛",
+    "type": "名",
+    "meaning": "味道"
+  },
+  {
+    "id": 243,
+    "word": "맛없다",
+    "type": "形",
+    "meaning": "不好吃",
+    "memory_aid": "맛 없다(adj. 没有)"
+  },
+  {
+    "id": 244,
+    "word": "맛있다",
+    "type": "形",
+    "meaning": "好吃",
+    "memory_aid": "맛있다(adj.有)"
+  },
+  {
+    "id": 245,
+    "word": "맞습니다",
+    "type": "形",
+    "meaning": "对",
+    "memory_aid": "原型是 맞다(adj. 正确)"
+  },
+  {
+    "id": 246,
+    "word": "맞은편",
+    "type": "名",
+    "meaning": "对面",
+    "related": "[同] 건너편"
+  },
+  {
+    "id": 247,
+    "word": "매우",
+    "type": "副",
+    "meaning": "非常,十分"
+  },
+  {
+    "id": 248,
+    "word": "매워요",
+    "type": "形",
+    "meaning": "辣",
+    "memory_aid": "原型是 맵다(adj.辣)"
+  },
+  {
+    "id": 249,
+    "word": "매월",
+    "type": "名",
+    "meaning": "每月",
+    "memory_aid": "来自“每月”"
+  },
+  {
+    "id": 250,
+    "word": "매일",
+    "type": "名",
+    "meaning": "每天",
+    "memory_aid": "来自“每日”"
+  },
+  {
+    "id": 251,
+    "word": "매장",
+    "type": "名",
+    "meaning": "售货柜台、埋葬、每张",
+    "memory_aid": "来自“卖场、埋藏、每张”"
+  },
+  {
+    "id": 252,
+    "word": "매주",
+    "type": "名",
+    "meaning": "每周"
+  },
+  {
+    "id": 253,
+    "word": "맨발",
+    "type": "名",
+    "meaning": "赤脚"
+  },
+  {
+    "id": 254,
+    "word": "머리",
+    "type": "名",
+    "meaning": "头,头发",
+    "example": "머리가 좋다: 头脑聪明"
+  },
+  {
+    "id": 255,
+    "word": "먹다",
+    "type": "动",
+    "meaning": "吃"
+  },
+  {
+    "id": 256,
+    "word": "먼저",
+    "type": "副",
+    "meaning": "先(first),表示顺序"
+  },
+  {
+    "id": 257,
+    "word": "먼지",
+    "type": "名",
+    "meaning": "尘土、灰尘"
+  },
+  {
+    "id": 258,
+    "word": "멀다",
+    "type": "形",
+    "meaning": "远",
+    "related": "[反] 가깝다(adj.近)"
+  },
+  {
+    "id": 259,
+    "word": "멋있다",
+    "type": "形",
+    "meaning": "帅气、潇洒"
+  },
+  {
+    "id": 260,
+    "word": "메뉴",
+    "type": "名",
+    "meaning": "菜单",
+    "memory_aid": "来自 menu"
+  },
+  {
+    "id": 261,
+    "word": "며칠",
+    "type": "名",
+    "meaning": "几天"
+  },
+  {
+    "id": 262,
+    "word": "명동",
+    "type": "名",
+    "meaning": "明洞,首尔的一个繁华地区"
+  },
+  {
+    "id": 263,
+    "word": "몇",
+    "type": "冠",
+    "meaning": "几(后接量词)"
+  },
+  {
+    "id": 264,
+    "word": "모기",
+    "type": "名",
+    "meaning": "蚊子"
+  },
+  {
+    "id": 265,
+    "word": "모두",
+    "type": "副",
+    "meaning": "全部",
+    "related": "[同]다"
+  },
+  {
+    "id": 266,
+    "word": "모레",
+    "type": "名",
+    "meaning": "后天"
+  },
+  {
+    "id": 267,
+    "word": "모르다",
+    "type": "动",
+    "meaning": "不知道"
+  },
+  {
+    "id": 268,
+    "word": "모습",
+    "type": "名",
+    "meaning": "样子"
+  },
+  {
+    "id": 269,
+    "word": "모이다",
+    "type": "动",
+    "meaning": "聚集,收集",
+    "related": "[派] 모임 (n. 聚会)"
+  },
+  {
+    "id": 270,
+    "word": "모자",
+    "type": "名",
+    "meaning": "帽子"
+  },
+  {
+    "id": 271,
+    "word": "목",
+    "type": "名",
+    "meaning": "脖子",
+    "example": "목이 마르다; 口渴"
+  },
+  {
+    "id": 272,
+    "word": "목요일",
+    "type": "名",
+    "meaning": "星期四"
+  },
+  {
+    "id": 273,
+    "word": "목욕",
+    "type": "名",
+    "meaning": "洗澡",
+    "memory_aid": "来自“沐浴”"
+  },
+  {
+    "id": 274,
+    "word": "몰라요",
+    "type": "动",
+    "meaning": "不知道"
+  },
+  {
+    "id": 275,
+    "word": "몸",
+    "type": "名",
+    "meaning": "身体"
+  },
+  {
+    "id": 276,
+    "word": "못하다",
+    "type": "形",
+    "meaning": "不能、不及(cannot, be unable to)",
+    "example": "노래를 못하다: 唱得不好"
+  },
+  {
+    "id": 277,
+    "word": "무게",
+    "type": "名",
+    "meaning": "重量",
+    "related": "[派] 무겁다(adj.重)"
+  },
+  {
+    "id": 278,
+    "word": "무궁화",
+    "type": "名",
+    "meaning": "无穷花,木槿;无穷花是韩国国花"
+  },
+  {
+    "id": 279,
+    "word": "무료",
+    "type": "名",
+    "meaning": "免费",
+    "memory_aid": "来自“无料”"
+  },
+  {
+    "id": 280,
+    "word": "무섭다",
+    "type": "形",
+    "meaning": "可怕,恐怖"
+  },
+  {
+    "id": 281,
+    "word": "무슨",
+    "type": "冠",
+    "meaning": "什么"
+  },
+  {
+    "id": 282,
+    "word": "무엇",
+    "type": "名",
+    "meaning": "什么(what)"
+  },
+  {
+    "id": 283,
+    "word": "문",
+    "type": "名",
+    "meaning": "门"
+  },
+  {
+    "id": 284,
+    "word": "문구점",
+    "type": "名",
+    "meaning": "文具店",
+    "memory_aid": "来自中文“文具店”"
+  },
+  {
+    "id": 285,
+    "word": "문의",
+    "type": "名",
+    "meaning": "问询",
+    "memory_aid": "来自“问议”"
+  },
+  {
+    "id": 286,
+    "word": "문화",
+    "type": "名",
+    "meaning": "文化",
+    "memory_aid": "来自“文化”"
+  },
+  {
+    "id": 287,
+    "word": "물",
+    "type": "名",
+    "meaning": "水",
+    "memory_aid": "물을 마십니다: 喝水"
+  },
+  {
+    "id": 288,
+    "word": "물건",
+    "type": "名",
+    "meaning": "东西,物",
+    "memory_aid": "来自“物件”",
+    "related": "[派] 물건값(n. 物价)"
+  },
+  {
+    "id": 289,
+    "word": "물음",
+    "type": "名",
+    "meaning": "提问",
+    "example": "물음에 답하다: 回答问题"
+  },
+  {
+    "id": 290,
+    "word": "뭐든지",
+    "type": "副",
+    "meaning": "无论什么"
+  },
+  {
+    "id": 291,
+    "word": "뭘",
+    "type": "代",
+    "meaning": "什么, 무엇을的缩写"
+  },
+  {
+    "id": 292,
+    "word": "미국",
+    "type": "名",
+    "meaning": "美国"
+  },
+  {
+    "id": 293,
+    "word": "미리",
+    "type": "副",
+    "meaning": "事先,预先",
+    "example": "미리 눈치 채다. 预先看出来"
+  },
+  {
+    "id": 294,
+    "word": "미술관",
+    "type": "名",
+    "meaning": "美术馆",
+    "memory_aid": "来自“美术馆”"
+  },
+  {
+    "id": 295,
+    "word": "미안합니다",
+    "type": "动",
+    "meaning": "对不起"
+  },
+  {
+    "id": 296,
+    "word": "미용실",
+    "type": "名",
+    "meaning": "美容室"
+  },
+  {
+    "id": 297,
+    "word": "밑",
+    "type": "名",
+    "meaning": "底",
+    "related": "[同] 아래(n. 下面)"
+  },
+  {
+    "id": 298,
+    "word": "바나나",
+    "type": "名",
+    "meaning": "香蕉",
+    "memory_aid": "来自 banana"
+  },
+  {
+    "id": 299,
+    "word": "바다",
+    "type": "名",
+    "meaning": "大海",
+    "related": "[派] 바닷가 (n. 海边); 바닷물 (n. 海水)"
+  },
+  {
+    "id": 300,
+    "word": "바닥",
+    "type": "名",
+    "meaning": "底板,底部",
+    "example": "사무실 바닥을 청소하다;打扫办公室地板"
+  },
+  {
+    "id": 301,
+    "word": "바람",
+    "type": "名",
+    "meaning": "风",
+    "example": "바람이 불다:刮风"
+  },
+  {
+    "id": 302,
+    "word": "바로",
+    "type": "副",
+    "meaning": "正好"
+  },
+  {
+    "id": 303,
+    "word": "바쁘다",
+    "type": "形",
+    "meaning": "忙"
+  },
+  {
+    "id": 304,
+    "word": "바지",
+    "type": "名",
+    "meaning": "裤子"
+  },
+  {
+    "id": 305,
+    "word": "박물관",
+    "type": "名",
+    "meaning": "博物馆"
+  },
+  {
+    "id": 306,
+    "word": "밖",
+    "type": "名",
+    "meaning": "外",
+    "related": "[反] 안(n.里、里面)"
+  },
+  {
+    "id": 307,
+    "word": "반갑습니다",
+    "type": "形",
+    "meaning": "(见到你)很高兴"
+  },
+  {
+    "id": 308,
+    "word": "받다",
+    "type": "动",
+    "meaning": "收,接收",
+    "example": "전화를 받다. 接电话"
+  },
+  {
+    "id": 309,
+    "word": "발",
+    "type": "名",
+    "meaning": "脚"
+  },
+  {
+    "id": 310,
+    "word": "밝다",
+    "type": "形",
+    "meaning": "(天)亮的",
+    "example": "어느새 동녘이 밝아 왔다;不知不觉东边变亮了"
+  },
+  {
+    "id": 311,
+    "word": "밤",
+    "type": "名",
+    "meaning": "夜",
+    "related": "[反]낮(n.白天)"
+  },
+  {
+    "id": 312,
+    "word": "밥",
+    "type": "名",
+    "meaning": "饭",
+    "note": "对应的敬语是 진지",
+    "example": "아버지, 진지 잡수세요:爸爸,请用膳"
+  },
+  {
+    "id": 313,
+    "word": "방",
+    "type": "名",
+    "meaning": "房间",
+    "memory_aid": "来自“房”"
+  },
+  {
+    "id": 314,
+    "word": "방금",
+    "type": "副",
+    "meaning": "刚才",
+    "related": "[同] 조금 전"
+  },
+  {
+    "id": 315,
+    "word": "방법",
+    "type": "名",
+    "meaning": "方法",
+    "memory_aid": "来自“方法”"
+  },
+  {
+    "id": 316,
+    "word": "방송",
+    "type": "名",
+    "meaning": "广播,播放",
+    "memory_aid": "来自“放送”",
+    "related": "[派] 방송국(n.广播局)"
+  },
+  {
+    "id": 317,
+    "word": "방학",
+    "type": "名",
+    "meaning": "假期,放假",
+    "memory_aid": "来自“放学”",
+    "related": "[派] 방학 계획(n. 假期计划)"
+  },
+  {
+    "id": 318,
+    "word": "배",
+    "type": "名",
+    "meaning": "肚子,梨",
+    "example": "배가 아프다:肚子疼"
+  },
+  {
+    "id": 319,
+    "word": "배달",
+    "type": "名",
+    "meaning": "配送,发送",
+    "memory_aid": "来自“配达”"
+  },
+  {
+    "id": 320,
+    "word": "배우다",
+    "type": "动",
+    "meaning": "学习",
+    "example": "한글을 배우다. 学习韩语"
+  },
+  {
+    "id": 321,
+    "word": "백화점",
+    "type": "名",
+    "meaning": "百货店",
+    "memory_aid": "来自“百货店”"
+  },
+  {
+    "id": 322,
+    "word": "버스",
+    "type": "名",
+    "meaning": "大客车,公交车",
+    "memory_aid": "来自 bus",
+    "related": "[派] 버스 요금(n.公交车费用); 버스 정류장(n. 公交车站)"
+  },
+  {
+    "id": 323,
+    "word": "번역",
+    "type": "名",
+    "meaning": "翻译",
+    "memory_aid": "来自“翻译”"
+  },
+  {
+    "id": 324,
+    "word": "번호",
+    "type": "名",
+    "meaning": "号码",
+    "memory_aid": "来自“番号”"
+  },
+  {
+    "id": 325,
+    "word": "벌써",
+    "type": "副",
+    "meaning": "早就、已经"
+  },
+  {
+    "id": 326,
+    "word": "벗다",
+    "type": "动",
+    "meaning": "脱",
+    "related": "[反] 입다(vt.穿)"
+  },
+  {
+    "id": 327,
+    "word": "별로",
+    "type": "副",
+    "meaning": "不怎么、不很",
+    "example": "별로 좋지 않다; 不很好"
+  },
+  {
+    "id": 328,
+    "word": "병원",
+    "type": "名",
+    "meaning": "医院",
+    "memory_aid": "来自“病院”"
+  },
+  {
+    "id": 329,
+    "word": "보내다",
+    "type": "动",
+    "meaning": "送、派、递"
+  },
+  {
+    "id": 330,
+    "word": "보세요",
+    "type": "动",
+    "meaning": "请看"
+  },
+  {
+    "id": 331,
+    "word": "보여주다",
+    "type": "动",
+    "meaning": "给…看",
+    "memory_aid": "보이다(vt. 给看) + 주다(vt.给); 原型是보다"
+  },
+  {
+    "id": 332,
+    "word": "보통",
+    "type": "副",
+    "meaning": "普通地,通常",
+    "memory_aid": "来自“普通”"
+  },
+  {
+    "id": 333,
+    "word": "복",
+    "type": "名",
+    "meaning": "福",
+    "memory_aid": "来自“福”"
+  },
+  {
+    "id": 334,
+    "word": "복습",
+    "type": "名",
+    "meaning": "复习",
+    "memory_aid": "来自“复习”"
+  },
+  {
+    "id": 335,
+    "word": "볼펜",
+    "type": "名",
+    "meaning": "圆珠笔",
+    "memory_aid": "来自 ball pen"
+  },
+  {
+    "id": 336,
+    "word": "봄",
+    "type": "名",
+    "meaning": "春天",
+    "related": "[派] 봄날(n. 春天)"
+  },
+  {
+    "id": 337,
+    "word": "봉투",
+    "type": "名",
+    "meaning": "信封",
+    "memory_aid": "来自“封套”"
+  },
+  {
+    "id": 338,
+    "word": "봤어요",
+    "type": "动",
+    "meaning": "看过了",
+    "memory_aid": "보다的过去时"
+  },
+  {
+    "id": 339,
+    "word": "부르다",
+    "type": "动",
+    "meaning": "唱,喊"
+  },
+  {
+    "id": 340,
+    "word": "부모님",
+    "type": "名",
+    "meaning": "父母",
+    "memory_aid": "“父母” + 님"
+  },
+  {
+    "id": 341,
+    "word": "부부",
+    "type": "名",
+    "meaning": "夫妇",
+    "memory_aid": "来自“夫妇”"
+  },
+  {
+    "id": 342,
+    "word": "부산",
+    "type": "名",
+    "meaning": "釜山,釜山是韩国第二大城市,是港口城市"
+  },
+  {
+    "id": 343,
+    "word": "부엌",
+    "type": "名",
+    "meaning": "厨房"
+  },
+  {
+    "id": 344,
+    "word": "부지런하다",
+    "type": "形",
+    "meaning": "勤奋"
+  },
+  {
+    "id": 345,
+    "word": "부치다",
+    "type": "动",
+    "meaning": "邮寄"
+  },
+  {
+    "id": 346,
+    "word": "부탁",
+    "type": "名",
+    "meaning": "嘱托",
+    "memory_aid": "来自“付托”"
+  },
+  {
+    "id": 347,
+    "word": "불",
+    "type": "名",
+    "meaning": "火",
+    "related": "[反] 물(n.水)"
+  },
+  {
+    "id": 348,
+    "word": "불고기",
+    "type": "名",
+    "meaning": "烧烤,烤肉"
+  },
+  {
+    "id": 349,
+    "word": "불다",
+    "type": "动",
+    "meaning": "吹"
+  },
+  {
+    "id": 350,
+    "word": "불편하다",
+    "type": "形",
+    "meaning": "不方便",
+    "related": "[反] 편리하다(adj.方便)"
+  },
+  {
+    "id": 351,
+    "word": "붙이다",
+    "type": "动",
+    "meaning": "粘贴"
+  },
+  {
+    "id": 352,
+    "word": "브라질",
+    "type": "名",
+    "meaning": "巴西,Brazil"
+  },
+  {
+    "id": 353,
+    "word": "비",
+    "type": "名",
+    "meaning": "雨",
+    "example": "비가 오다;下雨"
+  },
+  {
+    "id": 354,
+    "word": "비누",
+    "type": "名",
+    "meaning": "肥皂"
+  },
+  {
+    "id": 355,
+    "word": "비디오",
+    "type": "名",
+    "meaning": "录像带",
+    "memory_aid": "来自 video"
+  },
+  {
+    "id": 356,
+    "word": "비빔밥",
+    "type": "名",
+    "meaning": "拌饭"
+  },
+  {
+    "id": 357,
+    "word": "비슷하다",
+    "type": "形",
+    "meaning": "相似",
+    "related": "[反] 다르다(adj.不同)"
+  }，
+  {
+    "id": 358,
+    "word": "비싸다",
+    "type": "形",
+    "meaning": "(价格)贵",
+    "related": "[反] 싸다(adj.便宜)"
+  },
+  {
+    "id": 359,
+    "word": "비행기",
+    "type": "名",
+    "meaning": "飞机",
+    "memory_aid": "来自“飞行器”",
+    "related": "[派] 비행기 예약; 预约飞机票"
+  },
+  {
+    "id": 360,
+    "word": "빌딩",
+    "type": "名",
+    "meaning": "大厦",
+    "memory_aid": "来自building"
+  },
+  {
+    "id": 361,
+    "word": "빌리다",
+    "type": "动",
+    "meaning": "借,从别人处借来",
+    "related": "[派] 빌려주다(vt. 借出)"
+  },
+  {
+    "id": 362,
+    "word": "빨간 색",
+    "type": "名",
+    "meaning": "红色"
+  },
+  {
+    "id": 363,
+    "word": "빨래",
+    "type": "名",
+    "meaning": "(需要洗的)脏衣服"
+  },
+  {
+    "id": 364,
+    "word": "빨리",
+    "type": "副",
+    "meaning": "快",
+    "memory_aid": "빨리빨리(adv. 快点快点)"
+  },
+  {
+    "id": 365,
+    "word": "빵집",
+    "type": "名",
+    "meaning": "面包店",
+    "memory_aid": "빵(n.面包)+집(n.家、房子)"
+  },
+  {
+    "id": 366,
+    "word": "뿔",
+    "type": "名",
+    "meaning": "(动物的)角"
+  },
+  {
+    "id": 367,
+    "word": "사계절",
+    "type": "名",
+    "meaning": "四季",
+    "memory_aid": "来自“四季节”"
+  },
+  {
+    "id": 368,
+    "word": "사고",
+    "type": "名",
+    "meaning": "事故,思考",
+    "memory_aid": "来自“事故,思考”"
+  },
+  {
+    "id": 369,
+    "word": "사과",
+    "type": "名",
+    "meaning": "道歉,苹果",
+    "memory_aid": "来自“谢过”"
+  },
+  {
+    "id": 370,
+    "word": "사귀다",
+    "type": "动",
+    "meaning": "结交"
+  },
+  {
+    "id": 371,
+    "word": "사다",
+    "type": "动",
+    "meaning": "购买",
+    "related": "[反] 팔다(vt.卖)"
+  },
+  {
+    "id": 372,
+    "word": "사람",
+    "type": "名",
+    "meaning": "人"
+  },
+  {
+    "id": 373,
+    "word": "사람들",
+    "type": "名",
+    "meaning": "人们",
+    "memory_aid": "들表示的是“一群”"
+  },
+  {
+    "id": 374,
+    "word": "사랑하다",
+    "type": "动",
+    "meaning": "爱",
+    "related": "[派] 사랑해요(vt. 我爱你); [反] 원망하다(vt. 怨恨)"
+  },
+  {
+    "id": 375,
+    "word": "사무실",
+    "type": "名",
+    "meaning": "办公室",
+    "memory_aid": "来自“事务室”"
+  },
+  {
+    "id": 376,
+    "word": "사이",
+    "type": "名",
+    "meaning": "中间、间隔"
+  },
+  {
+    "id": 377,
+    "word": "사장(님)",
+    "type": "名",
+    "meaning": "社长,老板",
+    "memory_aid": "来自“社长”"
+  },
+  {
+    "id": 378,
+    "word": "사전",
+    "type": "名",
+    "meaning": "词典"
+  },
+  {
+    "id": 379,
+    "word": "사진",
+    "type": "名",
+    "meaning": "照片",
+    "memory_aid": "来自“写真”",
+    "related": "[派] 사진관 (n. 照相馆); 사진기 (n. 照相机)",
+    "example": "사진을 찍다 照相"
+  },
+  {
+    "id": 380,
+    "word": "사회학과",
+    "type": "名",
+    "meaning": "社会学科",
+    "memory_aid": "사회(社会) + 학과(学科)"
+  },
+  {
+    "id": 381,
+    "word": "산",
+    "type": "名",
+    "meaning": "山"
+  },
+  {
+    "id": 382,
+    "word": "산책",
+    "type": "名",
+    "meaning": "散步",
+    "memory_aid": "来自“散策”",
+    "related": "[派] 산책하다(vt.散步)"
+  },
+  {
+    "id": 383,
+    "word": "삼",
+    "type": "数",
+    "meaning": "三"
+  },
+  {
+    "id": 384,
+    "word": "삼계탕",
+    "type": "名",
+    "meaning": "参鸡汤",
+    "memory_aid": "来自“参鸡汤”"
+  },
+  {
+    "id": 385,
+    "word": "상품",
+    "type": "名",
+    "meaning": "商品",
+    "memory_aid": "来自“商品”"
+  },
+  {
+    "id": 386,
+    "word": "새",
+    "type": "冠",
+    "meaning": "新"
+  },
+  {
+    "id": 387,
+    "word": "새롭다",
+    "type": "形",
+    "meaning": "新颖"
+  },
+  {
+    "id": 388,
+    "word": "새해",
+    "type": "名",
+    "meaning": "新年",
+    "example": "새해 인사;新年祝福"
+  },
+  {
+    "id": 389,
+    "word": "색",
+    "type": "名",
+    "meaning": "颜色",
+    "memory_aid": "来自“色”"
+  },
+  {
+    "id": 390,
+    "word": "색깔",
+    "type": "名",
+    "meaning": "色彩"
+  },
+  {
+    "id": 391,
+    "word": "생각",
+    "type": "名",
+    "meaning": "想法"
+  },
+  {
+    "id": 392,
+    "word": "생기다",
+    "type": "动",
+    "meaning": "产生"
+  },
+  {
+    "id": 393,
+    "word": "생선",
+    "type": "名",
+    "meaning": "海鲜,新鲜的鱼",
+    "memory_aid": "来自“生鲜”",
+    "related": "[派] 생선찌개 (n. 海鲜汤)"
+  },
+  {
+    "id": 394,
+    "word": "생일",
+    "type": "名",
+    "meaning": "生日",
+    "related": "[派] 생일 선물(n. 生日礼物); 생일 파티 (n. 生日聚会); 생신 (n. 生辰 - 敬语)"
+  },
+  {
+    "id": 395,
+    "word": "생일 초대 메모",
+    "type": "名",
+    "meaning": "生日邀请便笺",
+    "memory_aid": "来自“生日邀请便笺”,메모 来自 memo",
+    "related": "[派] 초대장 (n. 邀请函)"
+  },
+  {
+    "id": 396,
+    "word": "생활",
+    "type": "名",
+    "meaning": "生活",
+    "memory_aid": "来自“生活”"
+  },
+  {
+    "id": 397,
+    "word": "서리",
+    "type": "名",
+    "meaning": "霜",
+    "example": "서리가 내리다: 下霜"
+  },
+  {
+    "id": 398,
+    "word": "서부",
+    "type": "名",
+    "meaning": "西部",
+    "memory_aid": "来自“西部”"
+  },
+  {
+    "id": 399,
+    "word": "서울",
+    "type": "名",
+    "meaning": "首尔",
+    "memory_aid": "英文 Seoul",
+    "related": "[派] 서울시(n. 首尔市); 서울 은행(n. 首尔银行); 서울극장(n. 首尔剧场)"
+  },
+  {
+    "id": 400,
+    "word": "서점",
+    "type": "名",
+    "meaning": "书店",
+    "memory_aid": "来自“书店”"
+  },
+  {
+    "id": 401,
+    "word": "선물",
+    "type": "名",
+    "meaning": "礼物",
+    "memory_aid": "来自“膳物”"
+  },
+  {
+    "id": 402,
+    "word": "선배",
+    "type": "名",
+    "meaning": "前辈",
+    "memory_aid": "来自“先辈”"
+  },
+  {
+    "id": 403,
+    "word": "선생님",
+    "type": "名",
+    "meaning": "老师",
+    "memory_aid": "来自“先生”"
+  },
+  {
+    "id": 404,
+    "word": "선풍기",
+    "type": "名",
+    "meaning": "电风扇",
+    "memory_aid": "来自“扇风机”"
+  },
+  {
+    "id": 405,
+    "word": "설거지",
+    "type": "名",
+    "meaning": "洗碗,指饭后收拾饭桌"
+  },
+  {
+    "id": 406,
+    "word": "설날",
+    "type": "名",
+    "meaning": "新年,元旦"
+  },
+  {
+    "id": 407,
+    "word": "설렁탕",
+    "type": "名",
+    "meaning": "杂烩汤,牛杂汤"
+  },
+  {
+    "id": 408,
+    "word": "설악산",
+    "type": "名",
+    "meaning": "雪岳山(韩国名山)",
+    "note": "在江原道,是金刚山的延续。海拔1708米,主峰白青峰"
+  },
+  {
+    "id": 409,
+    "word": "설탕",
+    "type": "名",
+    "meaning": "白糖",
+    "memory_aid": "来自“雪糖”"
+  },
+  {
+    "id": 410,
+    "word": "성격",
+    "type": "名",
+    "meaning": "性格",
+    "memory_aid": "来自“性格”"
+  },
+  {
+    "id": 411,
+    "word": "성인",
+    "type": "名",
+    "meaning": "成年人",
+    "memory_aid": "来自“成人”"
+  },
+  {
+    "id": 412,
+    "word": "세",
+    "type": "数",
+    "meaning": "三(用于量词前),岁(年龄)",
+    "related": "[派] 세번(n. 三次)"
+  },
+  {
+    "id": 413,
+    "word": "세상",
+    "type": "名",
+    "meaning": "世界,天下",
+    "memory_aid": "来自“世上”"
+  },
+  {
+    "id": 414,
+    "word": "세우다",
+    "type": "动",
+    "meaning": "建立"
+  },
+  {
+    "id": 415,
+    "word": "세탁",
+    "type": "名",
+    "meaning": "洗涤",
+    "memory_aid": "来自“洗涤”",
+    "related": "[派] 세탁실 (n.洗涤室)"
+  },
+  {
+    "id": 416,
+    "word": "소개",
+    "type": "名",
+    "meaning": "介绍",
+    "memory_aid": "来自“绍介”"
+  },
+  {
+    "id": 417,
+    "word": "소금",
+    "type": "名",
+    "meaning": "盐"
+  },
+  {
+    "id": 418,
+    "word": "소설책",
+    "type": "名",
+    "meaning": "小说(指书,不指小说本身)",
+    "memory_aid": "小说+책(n.书)"
+  },
+  {
+    "id": 419,
+    "word": "소식",
+    "type": "名",
+    "meaning": "消息"
+  },
+  {
+    "id": 420,
+    "word": "소포",
+    "type": "名",
+    "meaning": "包裹",
+    "memory_aid": "来自“小包”"
+  },
+  {
+    "id": 421,
+    "word": "소풍",
+    "type": "名",
+    "meaning": "兜风,散步",
+    "memory_aid": "来自“逍风”"
+  },
+  {
+    "id": 422,
+    "word": "손님",
+    "type": "名",
+    "meaning": "客人"
+  },
+  {
+    "id": 423,
+    "word": "손대지 마세요",
+    "type": "句",
+    "meaning": "请勿用手触摸"
+  },
+  {
+    "id": 424,
+    "word": "손자",
+    "type": "名",
+    "meaning": "孙子",
+    "memory_aid": "来自“孙子”"
+  },
+  {
+    "id": 425,
+    "word": "솜씨",
+    "type": "名",
+    "meaning": "才艺,能力"
+  },
+  {
+    "id": 426,
+    "word": "쇼핑",
+    "type": "名",
+    "meaning": "购物",
+    "memory_aid": "来自 shopping"
+  },
+  {
+    "id": 427,
+    "word": "수량",
+    "type": "名",
+    "meaning": "数量",
+    "memory_aid": "来自“数量”"
+  },
+  {
+    "id": 428,
+    "word": "수업",
+    "type": "名",
+    "meaning": "上课",
+    "memory_aid": "来自“授业”",
+    "example": "한국어 수업은 9시에 시작합니다. 韩国语课程9点开始。"
+  },
+  {
+    "id": 429,
+    "word": "수영",
+    "type": "名",
+    "meaning": "游泳",
+    "memory_aid": "来自“水泳”",
+    "related": "[派] 수영장(n.游泳池)"
+  },
+  {
+    "id": 430,
+    "word": "수요일",
+    "type": "名",
+    "meaning": "星期三"
+  },
+  {
+    "id": 431,
+    "word": "수집",
+    "type": "名",
+    "meaning": "收集,收藏",
+    "memory_aid": "来自“收集”"
+  },
+  {
+    "id": 432,
+    "word": "수첩",
+    "type": "名",
+    "meaning": "手册",
+    "memory_aid": "来自“手册”"
+  },
+  {
+    "id": 433,
+    "word": "숙이다",
+    "type": "动",
+    "meaning": "(把头)低下"
+  },
+  {
+    "id": 434,
+    "word": "숟가락",
+    "type": "名",
+    "meaning": "勺子",
+    "memory_aid": "절가락(n.筷子); 수저(n.勺子和筷子)"
+  },
+  {
+    "id": 435,
+    "word": "술",
+    "type": "名",
+    "meaning": "酒"
+  },
+  {
+    "id": 436,
+    "word": "쉬다",
+    "type": "动",
+    "meaning": "休息"
+  },
+  {
+    "id": 437,
+    "word": "쉬워요",
+    "type": "形",
+    "meaning": "容易",
+    "memory_aid": "[原] 쉽다(adj.容易)",
+    "related": "[反] 어려워요(adj.难)"
+  },
+  {
+    "id": 438,
+    "word": "슈퍼마켓",
+    "type": "名",
+    "meaning": "超市",
+    "memory_aid": "来自 supermarket"
+  },
+  {
+    "id": 439,
+    "word": "스물세 살",
+    "type": "名",
+    "meaning": "23岁"
+  },
+  {
+    "id": 440,
+    "word": "스키장",
+    "type": "名",
+    "meaning": "滑雪场",
+    "memory_aid": "스키 (n. 滑雪、ski) + 장(场)"
+  },
+  {
+    "id": 441,
+    "word": "스트레스",
+    "type": "名",
+    "meaning": "(工作或生活带来的精神上的)压力",
+    "memory_aid": "来自 stress"
+  },
+  {
+    "id": 442,
+    "word": "스포츠 용품",
+    "type": "名",
+    "meaning": "体育用品",
+    "memory_aid": "스포츠 (sports) + 용품(用品)"
+  },
+  {
+    "id": 443,
+    "word": "슬프다",
+    "type": "形",
+    "meaning": "悲伤、悲哀、悲痛"
+  },
+  {
+    "id": 444,
+    "word": "슬픈 영화",
+    "type": "名",
+    "meaning": "悲伤的电影"
+  },
+  {
+    "id": 445,
+    "word": "시간",
+    "type": "名",
+    "meaning": "时间",
+    "memory_aid": "来自“时间”"
+  },
+  {
+    "id": 446,
+    "word": "시계",
+    "type": "名",
+    "meaning": "表",
+    "memory_aid": "来自“时计”(计算时间)"
+  },
+  {
+    "id": 447,
+    "word": "시골",
+    "type": "名",
+    "meaning": "乡下,农村",
+    "related": "[派] 시골생활(n. 乡村生活)"
+  },
+  {
+    "id": 448,
+    "word": "시끄럽다",
+    "type": "形",
+    "meaning": "吵闹的"
+  },
+  {
+    "id": 449,
+    "word": "시내",
+    "type": "名",
+    "meaning": "市内(繁华地段)"
+  },
+  {
+    "id": 450,
+    "word": "시원하다",
+    "type": "形",
+    "meaning": "凉爽"
+  },
+  {
+    "id": 451,
+    "word": "시작",
+    "type": "名",
+    "meaning": "开始"
+  },
+  {
+    "id": 452,
+    "word": "시장",
+    "type": "名",
+    "meaning": "市场,市长"
+  },
+  {
+    "id": 453,
+    "word": "시청",
+    "type": "名",
+    "meaning": "市政府",
+    "memory_aid": "시청역 (n. 市政府站)"
+  },
+  {
+    "id": 454,
+    "word": "시험",
+    "type": "名",
+    "meaning": "考试",
+    "memory_aid": "来自“试验”"
+  },
+  {
+    "id": 455,
+    "word": "식당",
+    "type": "名",
+    "meaning": "食堂、餐厅",
+    "memory_aid": "来自“食堂”"
+  },
+  {
+    "id": 456,
+    "word": "식물",
+    "type": "名",
+    "meaning": "植物",
+    "memory_aid": "来自“植物”",
+    "related": "[派] 식물원(n.植物园)"
+  },
+  {
+    "id": 457,
+    "word": "식사",
+    "type": "名",
+    "meaning": "吃饭",
+    "memory_aid": "来自“食事”",
+    "example": "식사를 하다 吃饭"
+  },
+  {
+    "id": 458,
+    "word": "식탁",
+    "type": "名",
+    "meaning": "餐桌",
+    "memory_aid": "来自“食桌”"
+  },
+  {
+    "id": 459,
+    "word": "신다",
+    "type": "动",
+    "meaning": "穿(鞋)"
+  },
+  {
+    "id": 460,
+    "word": "신문",
+    "type": "名",
+    "meaning": "报纸",
+    "memory_aid": "来自“新闻”",
+    "related": "[派] 신문사(n.报社)"
+  },
+  {
+    "id": 461,
+    "word": "신발",
+    "type": "名",
+    "meaning": "鞋",
+    "memory_aid": "신(n.鞋)+발(n.脚)"
+  },
+  {
+    "id": 462,
+    "word": "실례",
+    "type": "名",
+    "meaning": "失礼",
+    "memory_aid": "来自失礼",
+    "related": "[派] 실례합니다: 对不起(作为客套话使用,同 excuse me)"
+  },
+  {
+    "id": 463,
+    "word": "실수",
+    "type": "名",
+    "meaning": "失误",
+    "memory_aid": "来自“失手”"
+  },
+  {
+    "id": 464,
+    "word": "싫어하다",
+    "type": "形",
+    "meaning": "不喜欢",
+    "related": "[反] 좋아하다(adj. 喜欢)"
+  },
+  {
+    "id": 465,
+    "word": "심심하다",
+    "type": "形",
+    "meaning": "无聊"
+  },
+  {
+    "id": 466,
+    "word": "싱거워요",
+    "type": "形",
+    "meaning": "淡(与咸对应),(人的行为)浅薄唐突",
+    "memory_aid": "[原] 싱겁다",
+    "related": "[反] 짜다(adj.咸)"
+  },
+  {
+    "id": 467,
+    "word": "싸다",
+    "type": "形",
+    "meaning": "便宜",
+    "related": "[反] 비싸다(adj.贵)"
+  },
+  {
+    "id": 468,
+    "word": "쓰다",
+    "type": "动",
+    "meaning": "写"
+  },
+  {
+    "id": 469,
+    "word": "쓸쓸하다",
+    "type": "形",
+    "meaning": "孤独的,凄凉的"
+  },
+  {
+    "id": 470,
+    "word": "아까",
+    "type": "副",
+    "meaning": "刚才"
+  },
+  {
+    "id": 471,
+    "word": "아내",
+    "type": "名",
+    "meaning": "妻子",
+    "related": "[反] 남편(n. 丈夫)"
+  },
+  {
+    "id": 472,
+    "word": "아니다",
+    "type": "形",
+    "meaning": "不是",
+    "related": "[反] 옳다(adj.是、正确)"
+  },
+  {
+    "id": 473,
+    "word": "아동복",
+    "type": "名",
+    "meaning": "童装",
+    "memory_aid": "来自“儿童服”"
+  },
+  {
+    "id": 474,
+    "word": "아들",
+    "type": "名",
+    "meaning": "儿子",
+    "related": "딸(n.女儿)"
+  },
+  {
+    "id": 475,
+    "word": "아래",
+    "type": "名",
+    "meaning": "下面",
+    "related": "[反] 위(n.上面)"
+  },
+  {
+    "id": 476,
+    "word": "아르바이트",
+    "type": "名",
+    "meaning": "兼职打工",
+    "memory_aid": "来自德语 arbeit"
+  },
+  {
+    "id": 477,
+    "word": "아름다운 추억",
+    "type": "名",
+    "meaning": "美丽的回忆",
+    "memory_aid": "추억来自“追忆”"
+  },
+  {
+    "id": 478,
+    "word": "아름답다",
+    "type": "形",
+    "meaning": "美丽"
+  },
+  {
+    "id": 479,
+    "word": "아리랑",
+    "type": "名",
+    "meaning": "阿里郎(著名民谣)",
+    "note": "有些人说阿里郎之语源是为“我离郎”,也有人说这是座山的名字,但并未被证实。"
+  },
+  {
+    "id": 480,
+    "word": "아마",
+    "type": "副",
+    "meaning": "可能"
+  },
+  {
+    "id": 481,
+    "word": "아버지",
+    "type": "名",
+    "meaning": "爸爸",
+    "memory_aid": "어머니 (n.妈妈)"
+  },
+  {
+    "id": 482,
+    "word": "아이",
+    "type": "名",
+    "meaning": "孩子"
+  },
+  {
+    "id": 483,
+    "word": "아이스크림",
+    "type": "名",
+    "meaning": "冰淇淋",
+    "memory_aid": "来自 ice cream"
+  },
+  {
+    "id": 484,
+    "word": "아저씨",
+    "type": "名",
+    "meaning": "大叔",
+    "memory_aid": "아주머니(大妈), 아주머니是아줌마的尊称"
+  },
+  {
+    "id": 485,
+    "word": "아주",
+    "type": "副",
+    "meaning": "非常"
+  },
+  {
+    "id": 486,
+    "word": "아주머니",
+    "type": "名",
+    "meaning": "大妈",
+    "memory_aid": "参考아저씨"
+  },
+  {
+    "id": 487,
+    "word": "아첨",
+    "type": "名",
+    "meaning": "阿谀奉承、拍马屁",
+    "memory_aid": "来自“阿谄”"
+  },
+  {
+    "id": 488,
+    "word": "아침",
+    "type": "名",
+    "meaning": "早晨",
+    "related": "[派] 아침 식사(n. 早餐)"
+  },
+  {
+    "id": 489,
+    "word": "아파트",
+    "type": "名",
+    "meaning": "小区,公寓",
+    "memory_aid": "来自 apartment",
+    "related": "[派] 아파트 주민(n. 小区居民)"
+  },
+  {
+    "id": 490,
+    "word": "아프다",
+    "type": "形",
+    "meaning": "疼"
+  },
+  {
+    "id": 491,
+    "word": "안",
+    "type": "名",
+    "meaning": "内",
+    "related": "[反] 밖(n.外)"
+  },
+  {
+    "id": 492,
+    "word": "안개",
+    "type": "名",
+    "meaning": "雾",
+    "example": "안개가 끼다 起雾"
+  },
+  {
+    "id": 493,
+    "word": "안경",
+    "type": "名",
+    "meaning": "眼镜",
+    "memory_aid": "来自“眼镜”",
+    "related": "[派] 안경점 (n. 眼镜店)",
+    "example": "안경을 쓰다: 戴眼镜"
+  },
+  {
+    "id": 494,
+    "word": "안내",
+    "type": "名",
+    "meaning": "带路、引导、向导、介绍、指南、服务、查询、陪同",
+    "memory_aid": "来自“案内”"
+  },
+  {
+    "id": 495,
+    "word": "안내대",
+    "type": "名",
+    "meaning": "接待部",
+    "memory_aid": "来自“案内台”"
+  },
+  {
+    "id": 496,
+    "word": "안녕히",
+    "type": "名",
+    "meaning": "再见",
+    "memory_aid": "来自“安宁”"
+  },
+  {
+    "id": 497,
+    "word": "안녕히 계세요",
+    "type": "动",
+    "meaning": "再见(客人对主人说的)"
+  },
+  {
+    "id": 498,
+    "word": "앉아요",
+    "type": "动",
+    "meaning": "坐吧"
+  },
+  {
+    "id": 499,
+    "word": "알아요",
+    "type": "动",
+    "meaning": "知道了",
+    "note": "传奇歌手徐太志(서태지) 1991年以一首《난 알아요》(我知道) 改变了韩国大众音乐的历史。他是第一个用韩语演唱摇滚的歌手,被誉为韩国的“音乐总统”。"
+  },
+  {
+    "id": 500,
+    "word": "앞",
+    "type": "名",
+    "meaning": "前",
+    "related": "[反]뒤(n.后)"
+  },
+  {
+    "id": 501,
+    "word": "앞으로",
+    "type": "副",
+    "meaning": "往后,从今往后"
+  },
+  {
+    "id": 502,
+    "word": "야외",
+    "type": "名",
+    "meaning": "野外",
+    "memory_aid": "来自“野外”"
+  },
+  {
+    "id": 503,
+    "word": "야자",
+    "type": "名",
+    "meaning": "椰子",
+    "memory_aid": "来自“椰子”"
+  },
+  {
+    "id": 504,
+    "word": "약",
+    "type": "名",
+    "meaning": "药",
+    "memory_aid": "来自“药”"
+  },
+  {
+    "id": 505,
+    "word": "약간",
+    "type": "副",
+    "meaning": "稍微"
+  },
+  {
+    "id": 506,
+    "word": "약국",
+    "type": "名",
+    "meaning": "药店",
+    "memory_aid": "来自“药局”"
+  },
+  {
+    "id": 507,
+    "word": "약사",
+    "type": "名",
+    "meaning": "药剂师",
+    "memory_aid": "来自“药师”"
+  },
+  {
+    "id": 508,
+    "word": "약속",
+    "type": "名",
+    "meaning": "约定,约会",
+    "memory_aid": "来自“约束”",
+    "related": "[派] 약속하다(vt.约定)"
+  },
+  {
+    "id": 509,
+    "word": "약하게",
+    "type": "副",
+    "meaning": "轻轻地"
+  },
+  {
+    "id": 510,
+    "word": "양말",
+    "type": "名",
+    "meaning": "袜子",
+    "memory_aid": "来自“洋袜”"
+  },
+  {
+    "id": 511,
+    "word": "양식당",
+    "type": "名",
+    "meaning": "西餐厅",
+    "memory_aid": "来自“洋食堂”, 레스토랑 (restaurant) 也指西餐厅"
+  },
+  {
+    "id": 512,
+    "word": "얘기",
+    "type": "名",
+    "meaning": "聊天,故事",
+    "memory_aid": "이야기的缩略形式"
+  },
+  {
+    "id": 513,
+    "word": "어느 나라",
+    "type": "名",
+    "meaning": "哪个国家",
+    "memory_aid": "어느 = which"
+  },
+  {
+    "id": 514,
+    "word": "어둡다",
+    "type": "形",
+    "meaning": "昏暗",
+    "related": "[反] 밝다(adj.明亮的)"
+  },
+  {
+    "id": 515,
+    "word": "어디",
+    "type": "代",
+    "meaning": "哪儿",
+    "memory_aid": "어디 = where"
+  },
+  {
+    "id": 516,
+    "word": "어떻게",
+    "type": "副",
+    "meaning": "怎么",
+    "memory_aid": "어떻게 = how"
+  },
+  {
+    "id": 517,
+    "word": "어렵다",
+    "type": "形",
+    "meaning": "困难",
+    "related": "[反] 쉽다(adj.容易)"
+  },
+  {
+    "id": 518,
+    "word": "어른",
+    "type": "名",
+    "meaning": "大人"
+  },
+  {
+    "id": 519,
+    "word": "어리다",
+    "type": "形",
+    "meaning": "年纪小,不成熟",
+    "related": "[派] 어린이 (n. 孩童)"
+  },
+  {
+    "id": 520,
+    "word": "어린이날",
+    "type": "名",
+    "meaning": "儿童节",
+    "memory_aid": "韩国的儿童节是5月5日"
+  },
+  {
+    "id": 521,
+    "word": "어머니",
+    "type": "名",
+    "meaning": "妈妈"
+  },
+  {
+    "id": 522,
+    "word": "어제",
+    "type": "名",
+    "meaning": "昨天"
+  },
+  {
+    "id": 523,
+    "word": "언니",
+    "type": "名",
+    "meaning": "姐姐(女性称呼女性)"
+  },
+  {
+    "id": 524,
+    "word": "언제",
+    "type": "副",
+    "meaning": "什么时候",
+    "memory_aid": "언제 = when"
+  },
+  {
+    "id": 525,
+    "word": "언제나",
+    "type": "副",
+    "meaning": "总是,习惯性地(always)",
+    "related": "[同] 항상(adv.总是); 자주(adv.常常)"
+  },
+  {
+    "id": 526,
+    "word": "얹어요",
+    "type": "动",
+    "meaning": "放上去吧",
+    "memory_aid": "[原] 얹다(vi.搁)"
+  },
+  {
+    "id": 527,
+    "word": "얼굴",
+    "type": "名",
+    "meaning": "脸"
+  },
+  {
+    "id": 528,
+    "word": "얼마",
+    "type": "名",
+    "meaning": "多少、若干",
+    "related": "[派] 얼마 동안(n. 多长时间); 얼마나(adv.多少,多么地)"
+  },
+  {
+    "id": 529,
+    "word": "엄마",
+    "type": "名",
+    "meaning": "妈妈",
+    "related": "[同] 어머니"
+  },
+  {
+    "id": 530,
+    "word": "없다",
+    "type": "形",
+    "meaning": "没有",
+    "related": "[反] 있다(adj.有)"
+  },
+  {
+    "id": 531,
+    "word": "에어컨",
+    "type": "名",
+    "meaning": "空调",
+    "memory_aid": "来自 air condition"
+  },
+  {
+    "id": 532,
+    "word": "엘리베이터",
+    "type": "名",
+    "meaning": "电梯",
+    "memory_aid": "来自 elevator,也可以使用승강기 (n. 升降机,电梯)"
+  },
+  {
+    "id": 533,
+    "word": "여",
+    "type": "名",
+    "meaning": "女"
+  },
+  {
+    "id": 534,
+    "word": "여기",
+    "type": "代",
+    "meaning": "这里"
+  },
+  {
+    "id": 535,
+    "word": "여덟",
+    "type": "数",
+    "meaning": "八"
+  },
+  {
+    "id": 536,
+    "word": "여동생",
+    "type": "名",
+    "meaning": "妹妹",
+    "memory_aid": "여동생(n. 弟弟或妹妹)"
+  },
+  {
+    "id": 537,
+    "word": "여러 가지",
+    "type": "名",
+    "meaning": "各种各样"
+  },
+  {
+    "id": 538,
+    "word": "여러분",
+    "type": "名",
+    "meaning": "各位"
+  },
+  {
+    "id": 539,
+    "word": "여름",
+    "type": "名",
+    "meaning": "夏天",
+    "memory_aid": "여름 캠프(n. 夏令营)"
+  },
+  {
+    "id": 540,
+    "word": "여보세요",
+    "type": "口",
+    "meaning": "喂(打电话时用做”你好”)"
+  },
+  {
+    "id": 541,
+    "word": "여섯",
+    "type": "数",
+    "meaning": "六"
+  },
+  {
+    "id": 542,
+    "word": "여성복",
+    "type": "名",
+    "meaning": "女装",
+    "memory_aid": "来自“女性装”"
+  },
+  {
+    "id": 543,
+    "word": "여우",
+    "type": "名",
+    "meaning": "狐狸"
+  },
+  {
+    "id": 544,
+    "word": "여유",
+    "type": "名",
+    "meaning": "闲暇",
+    "memory_aid": "来自“馀裕”"
+  },
+  {
+    "id": 545,
+    "word": "여자",
+    "type": "名",
+    "meaning": "女子"
+  },
+  {
+    "id": 546,
+    "word": "여자 친구",
+    "type": "名",
+    "meaning": "女朋友",
+    "memory_aid": "여자(n. 女子) + 친구(n.朋友)"
+  },
+  {
+    "id": 547,
+    "word": "여행",
+    "type": "名",
+    "meaning": "旅行",
+    "memory_aid": "来自“旅行”",
+    "related": "[派] 여행사(n. 旅行社); 여행지 (n. 旅行地); 여행 경험 (n. 旅行经验); 여행 계획(n. 旅行计划): 여행 목적(n. 旅行目的)",
+    "example": "여행을 가다: 去旅行"
+  },
+  {
+    "id": 548,
+    "word": "역사",
+    "type": "名",
+    "meaning": "历史",
+    "memory_aid": "来自“历史”"
+  },
+  {
+    "id": 549,
+    "word": "연락",
+    "type": "名",
+    "meaning": "联络",
+    "memory_aid": "来自“联络”"
+  },
+  {
+    "id": 550,
+    "word": "연락처",
+    "type": "名",
+    "meaning": "联络处"
+  },
+  {
+    "id": 551,
+    "word": "연필",
+    "type": "名",
+    "meaning": "铅笔",
+    "memory_aid": "来自“铅笔”"
+  },
+  {
+    "id": 552,
+    "word": "열다",
+    "type": "动",
+    "meaning": "打开",
+    "related": "[反] 닫다(vt.关)"
+  },
+  {
+    "id": 553,
+    "word": "열람실",
+    "type": "名",
+    "meaning": "阅览室"
+  },
+  {
+    "id": 554,
+    "word": "열심히",
+    "type": "副",
+    "meaning": "认真地",
+    "memory_aid": "来自“热心地”"
+  },
+  {
+    "id": 555,
+    "word": "열차",
+    "type": "名",
+    "meaning": "列车",
+    "memory_aid": "来自“列车”"
+  },
+  {
+    "id": 556,
+    "word": "엽서",
+    "type": "名",
+    "meaning": "明信片",
+    "memory_aid": "来自“叶书”"
+  },
+  {
+    "id": 557,
+    "word": "영국",
+    "type": "名",
+    "meaning": "英国"
+  },
+  {
+    "id": 558,
+    "word": "영상",
+    "type": "名",
+    "meaning": "零上",
+    "memory_aid": "来自“零上”"
+  },
+  {
+    "id": 559,
+    "word": "영어",
+    "type": "名",
+    "meaning": "英语",
+    "memory_aid": "来自“英语”"
+  },
+  {
+    "id": 560,
+    "word": "영업",
+    "type": "名",
+    "meaning": "营业,销售",
+    "memory_aid": "来自“营业”"
+  },
+  {
+    "id": 561,
+    "word": "영화",
+    "type": "名",
+    "meaning": "电影",
+    "memory_aid": "来自“映画”",
+    "related": "[派] 영화관 (n. 电影院); 영화표(n. 电影票)"
+  },
+  {
+    "id": 562,
+    "word": "옆",
+    "type": "名",
+    "meaning": "旁边",
+    "related": "[派] 옆집(n. 邻居,隔壁)"
+  },
+  {
+    "id": 563,
+    "word": "예금",
+    "type": "名",
+    "meaning": "订金,预存款",
+    "memory_aid": "来自“预金”"
+  },
+  {
+    "id": 564,
+    "word": "예매",
+    "type": "名",
+    "meaning": "预售",
+    "memory_aid": "来自“预卖”"
+  },
+  {
+    "id": 565,
+    "word": "예쁘다",
+    "type": "形",
+    "meaning": "漂亮"
+  }，
+  {
+    "id": 566,
+    "word": "예술",
+    "type": "名",
+    "meaning": "艺术",
+    "memory_aid": "来自“艺术”"
+  },
+  {
+    "id": 567,
+    "word": "예습",
+    "type": "名",
+    "meaning": "预习",
+    "memory_aid": "来自“预习”"
+  },
+  {
+    "id": 568,
+    "word": "예약",
+    "type": "名",
+    "meaning": "预约",
+    "memory_aid": "来自“预约”",
+    "related": "[派] 예약문의 (n. 预约咨询)"
+  },
+  {
+    "id": 569,
+    "word": "옛날",
+    "type": "名",
+    "meaning": "很久以前"
+  },
+  {
+    "id": 570,
+    "word": "오늘",
+    "type": "名",
+    "meaning": "今天",
+    "memory_aid": "어제 (n. 昨天); 내일 (n. 明天)"
+  },
+  {
+    "id": 571,
+    "word": "오래",
+    "type": "副",
+    "meaning": "久地",
+    "example": "시간이 오래 걸리다: 花了很长时间"
+  },
+  {
+    "id": 572,
+    "word": "오랜만",
+    "type": "副",
+    "meaning": "隔很长时间",
+    "memory_aid": "这是오래간만的缩略",
+    "example": "오랜만에 고향 사람을 만나자 너무 반가웠다. 见到久未谋面的乡亲非常高兴"
+  },
+  {
+    "id": 573,
+    "word": "오른쪽",
+    "type": "名",
+    "meaning": "右边",
+    "memory_aid": "왼쪽(n. 左边)"
+  },
+  {
+    "id": 574,
+    "word": "오리",
+    "type": "名",
+    "meaning": "鸭子"
+  },
+  {
+    "id": 575,
+    "word": "오빠",
+    "type": "名",
+    "meaning": "哥哥(女性称呼男性)"
+  },
+  {
+    "id": 576,
+    "word": "오세요",
+    "type": "动",
+    "meaning": "来吧",
+    "memory_aid": "오다시 + 어요"
+  },
+  {
+    "id": 577,
+    "word": "오이",
+    "type": "名",
+    "meaning": "黄瓜"
+  },
+  {
+    "id": 578,
+    "word": "오전",
+    "type": "名",
+    "meaning": "上午",
+    "memory_aid": "来自“午前”",
+    "related": "[反] 오후(n. 下午)"
+  },
+  {
+    "id": 579,
+    "word": "오후",
+    "type": "名",
+    "meaning": "下午",
+    "memory_aid": "来自“午后”"
+  },
+  {
+    "id": 580,
+    "word": "올라가다",
+    "type": "动",
+    "meaning": "上去"
+  },
+  {
+    "id": 581,
+    "word": "올림픽 경기장",
+    "type": "名",
+    "meaning": "奥运竞技场",
+    "memory_aid": "올림픽 = Olympic"
+  },
+  {
+    "id": 582,
+    "word": "올해",
+    "type": "名",
+    "meaning": "今年"
+  },
+  {
+    "id": 583,
+    "word": "옷",
+    "type": "名",
+    "meaning": "衣服",
+    "example": "옷을 입다 穿衣服"
+  },
+  {
+    "id": 584,
+    "word": "왜",
+    "type": "副",
+    "meaning": "为什么",
+    "memory_aid": "和英文 why发音近似,意思一样"
+  },
+  {
+    "id": 585,
+    "word": "왜냐하면",
+    "type": "副",
+    "meaning": "之所以"
+  },
+  {
+    "id": 586,
+    "word": "외국",
+    "type": "名",
+    "meaning": "外国",
+    "memory_aid": "来自“外国”",
+    "related": "[派] 외국어 (n. 外语); 외국 여행 (n. 海外旅行); 외국 영화(n. 外国电影); 외국 우표 (n. 外国邮票)"
+  },
+  {
+    "id": 587,
+    "word": "외출",
+    "type": "名",
+    "meaning": "外出",
+    "memory_aid": "来自“外出”"
+  },
+  {
+    "id": 588,
+    "word": "외할머니",
+    "type": "名",
+    "meaning": "外婆",
+    "memory_aid": "외할아버지(n. 外公)"
+  },
+  {
+    "id": 589,
+    "word": "왼쪽",
+    "type": "名",
+    "meaning": "左边",
+    "related": "[反] 오른쪽(n.右边)"
+  },
+  {
+    "id": 590,
+    "word": "요금",
+    "type": "名",
+    "meaning": "费用",
+    "memory_aid": "来自“料金”"
+  },
+  {
+    "id": 591,
+    "word": "요리",
+    "type": "名",
+    "meaning": "料理",
+    "memory_aid": "来自“料理”"
+  },
+  {
+    "id": 592,
+    "word": "요리사",
+    "type": "名",
+    "meaning": "厨师",
+    "memory_aid": "来自“料理师”"
+  },
+  {
+    "id": 593,
+    "word": "요일",
+    "type": "名",
+    "meaning": "星期"
+  },
+  {
+    "id": 594,
+    "word": "요즘",
+    "type": "副",
+    "meaning": "最近"
+  },
+  {
+    "id": 595,
+    "word": "우리",
+    "type": "名",
+    "meaning": "我们"
+  },
+  {
+    "id": 596,
+    "word": "우산",
+    "type": "名",
+    "meaning": "雨伞",
+    "memory_aid": "来自“雨伞”"
+  },
+  {
+    "id": 597,
+    "word": "우유",
+    "type": "名",
+    "meaning": "牛奶",
+    "memory_aid": "来自“牛乳”"
+  },
+  {
+    "id": 598,
+    "word": "우체국",
+    "type": "名",
+    "meaning": "邮局",
+    "memory_aid": "来自“邮递局”"
+  },
+  {
+    "id": 599,
+    "word": "우표",
+    "type": "名",
+    "meaning": "邮票",
+    "memory_aid": "来自“邮票”",
+    "related": "[派] 우표 수집(n.集邮,收集邮票)"
+  },
+  {
+    "id": 600,
+    "word": "운동",
+    "type": "名",
+    "meaning": "运动",
+    "memory_aid": "来自“运动”",
+    "related": "[派] 운동원(n. 运动员); 운동화(n. 运动鞋): 운동장(n. 运动场)"
+  },
+  {
+    "id": 601,
+    "word": "운임",
+    "type": "名",
+    "meaning": "运输",
+    "memory_aid": "来自“运赁”"
+  },
+  {
+    "id": 602,
+    "word": "운전",
+    "type": "名",
+    "meaning": "驾驶",
+    "memory_aid": "来自“运转”",
+    "related": "[派] 운전사(n.司机)"
+  },
+  {
+    "id": 603,
+    "word": "운항",
+    "type": "名",
+    "meaning": "运航",
+    "memory_aid": "来自“运航”"
+  },
+  {
+    "id": 604,
+    "word": "웃다",
+    "type": "动",
+    "meaning": "笑"
+  },
+  {
+    "id": 605,
+    "word": "월급",
+    "type": "名",
+    "meaning": "月薪",
+    "memory_aid": "来自“月给”"
+  },
+  {
+    "id": 606,
+    "word": "월요일",
+    "type": "名",
+    "meaning": "星期一"
+  },
+  {
+    "id": 607,
+    "word": "위",
+    "type": "名",
+    "meaning": "上面"
+  },
+  {
+    "id": 608,
+    "word": "위치",
+    "type": "名",
+    "meaning": "位置",
+    "memory_aid": "来自“位置”"
+  },
+  {
+    "id": 609,
+    "word": "위험",
+    "type": "名",
+    "meaning": "危险",
+    "memory_aid": "来自“危险”",
+    "related": "[派] 위험하다(adj.危险的)"
+  },
+  {
+    "id": 610,
+    "word": "유명하다",
+    "type": "形",
+    "meaning": "著名的",
+    "memory_aid": "来自“有名”"
+  },
+  {
+    "id": 611,
+    "word": "유월",
+    "type": "名",
+    "meaning": "六月"
+  },
+  {
+    "id": 612,
+    "word": "유지",
+    "type": "名",
+    "meaning": "维持",
+    "memory_aid": "来自“维持”"
+  },
+  {
+    "id": 613,
+    "word": "유학",
+    "type": "名",
+    "meaning": "留学",
+    "memory_aid": "来自“留学”",
+    "related": "[例] 유학생활(n. 留学生活); 유학준비 (n. 留学准备)"
+  },
+  {
+    "id": 614,
+    "word": "은행",
+    "type": "名",
+    "meaning": "银行",
+    "memory_aid": "来自“银行”"
+  },
+  {
+    "id": 615,
+    "word": "음료수",
+    "type": "名",
+    "meaning": "饮料",
+    "memory_aid": "来自“饮料水”"
+  },
+  {
+    "id": 616,
+    "word": "음식",
+    "type": "名",
+    "meaning": "食物",
+    "memory_aid": "来自“饮食”",
+    "related": "[派] 음식물(n.食物,食品)"
+  },
+  {
+    "id": 617,
+    "word": "음악",
+    "type": "名",
+    "meaning": "音乐",
+    "memory_aid": "来自“音乐”",
+    "related": "[派] 음악회 (n.音乐会)"
+  },
+  {
+    "id": 618,
+    "word": "의사",
+    "type": "名",
+    "meaning": "医生",
+    "memory_aid": "来自“医师”"
+  },
+  {
+    "id": 619,
+    "word": "의자",
+    "type": "名",
+    "meaning": "椅子"
+  },
+  {
+    "id": 620,
+    "word": "이것",
+    "type": "名",
+    "meaning": "这个"
+  },
+  {
+    "id": 621,
+    "word": "이것저것",
+    "type": "名",
+    "meaning": "这个那个"
+  },
+  {
+    "id": 622,
+    "word": "이따가",
+    "type": "名",
+    "meaning": "过一会儿、以后"
+  },
+  {
+    "id": 623,
+    "word": "이름",
+    "type": "名",
+    "meaning": "姓名"
+  },
+  {
+    "id": 624,
+    "word": "이메일",
+    "type": "名",
+    "meaning": "电子邮件,E-mail"
+  },
+  {
+    "id": 625,
+    "word": "이모",
+    "type": "名",
+    "meaning": "姨妈",
+    "memory_aid": "来自“姨母”"
+  },
+  {
+    "id": 626,
+    "word": "이모부",
+    "type": "名",
+    "meaning": "姨夫",
+    "memory_aid": "来自“姨母(丈)夫”"
+  },
+  {
+    "id": 627,
+    "word": "이번",
+    "type": "名",
+    "meaning": "这次",
+    "memory_aid": "来自“这番”"
+  },
+  {
+    "id": 628,
+    "word": "이사",
+    "type": "名",
+    "meaning": "搬家",
+    "memory_aid": "来自“移徙”"
+  },
+  {
+    "id": 629,
+    "word": "이상",
+    "type": "名",
+    "meaning": "以上",
+    "memory_aid": "来自“以上”"
+  },
+  {
+    "id": 630,
+    "word": "이야기",
+    "type": "名",
+    "meaning": "故事"
+  },
+  {
+    "id": 631,
+    "word": "이용",
+    "type": "名",
+    "meaning": "利用",
+    "memory_aid": "来自“利用”",
+    "related": "[派] 이용하다(vt. 利用)"
+  },
+  {
+    "id": 632,
+    "word": "이웃",
+    "type": "名",
+    "meaning": "邻居"
+  },
+  {
+    "id": 633,
+    "word": "이유",
+    "type": "名",
+    "meaning": "理由"
+  },
+  {
+    "id": 634,
+    "word": "이인분",
+    "type": "名",
+    "meaning": "两份",
+    "memory_aid": "来自“两人份”"
+  },
+  {
+    "id": 635,
+    "word": "이자",
+    "type": "名",
+    "meaning": "利息",
+    "memory_aid": "来自“利子”"
+  },
+  {
+    "id": 636,
+    "word": "이전",
+    "type": "名",
+    "meaning": "以前",
+    "memory_aid": "来自“以前”"
+  },
+  {
+    "id": 637,
+    "word": "이제부터",
+    "type": "副",
+    "meaning": "从今开始"
+  },
+  {
+    "id": 638,
+    "word": "이틀",
+    "type": "名",
+    "meaning": "两天",
+    "memory_aid": "하루(n.一天); 이틀(n. 两天); 사흘 (n. 三天)"
+  },
+  {
+    "id": 639,
+    "word": "이해",
+    "type": "名",
+    "meaning": "理解"
+  },
+  {
+    "id": 640,
+    "word": "인기",
+    "type": "名",
+    "meaning": "人气",
+    "example": "인기가 많습니다: 人气很高"
+  },
+  {
+    "id": 641,
+    "word": "인사",
+    "type": "名",
+    "meaning": "问候",
+    "memory_aid": "来自“人事”",
+    "related": "[派] 인사말(n. 问候语); 인사하다(vi. 请安)"
+  },
+  {
+    "id": 642,
+    "word": "인삼",
+    "type": "名",
+    "meaning": "人参",
+    "memory_aid": "来自“人参”",
+    "related": "[派] 인삼 축제 (n. 人参节); 인삼차(n. 人参茶)"
+  },
+  {
+    "id": 643,
+    "word": "인천",
+    "type": "名",
+    "meaning": "仁川(地名)"
+  },
+  {
+    "id": 644,
+    "word": "인터넷",
+    "type": "名",
+    "meaning": "因特网",
+    "memory_aid": "来自Internet",
+    "related": "[派] 인터넷 서점(n. 网上书店)"
+  },
+  {
+    "id": 645,
+    "word": "인형",
+    "type": "名",
+    "meaning": "洋娃娃,玩偶",
+    "memory_aid": "来自“人形”"
+  },
+  {
+    "id": 646,
+    "word": "일",
+    "type": "名",
+    "meaning": "事情"
+  },
+  {
+    "id": 647,
+    "word": "일곱",
+    "type": "数",
+    "meaning": "七"
+  },
+  {
+    "id": 648,
+    "word": "일기예보",
+    "type": "名",
+    "meaning": "天气预报",
+    "memory_aid": "来自“日气预报”"
+  },
+  {
+    "id": 649,
+    "word": "일본",
+    "type": "名",
+    "meaning": "日本",
+    "memory_aid": "来自“日本”",
+    "related": "[派] 일본어 (n. 日语): 일본돈(n.日元,日本钱)"
+  },
+  {
+    "id": 650,
+    "word": "일요일",
+    "type": "名",
+    "meaning": "星期日"
+  },
+  {
+    "id": 651,
+    "word": "일주일",
+    "type": "名",
+    "meaning": "一周"
+  },
+  {
+    "id": 652,
+    "word": "일찍",
+    "type": "副",
+    "meaning": "早地",
+    "related": "[反] 늦게 (adv.晚地)"
+  },
+  {
+    "id": 653,
+    "word": "읽다",
+    "type": "动",
+    "meaning": "阅读(书或报纸等)"
+  },
+  {
+    "id": 654,
+    "word": "잃어버리다",
+    "type": "动",
+    "meaning": "丢失"
+  },
+  {
+    "id": 655,
+    "word": "입원",
+    "type": "名",
+    "meaning": "住院",
+    "memory_aid": "来自“入院”"
+  },
+  {
+    "id": 656,
+    "word": "입장료",
+    "type": "名",
+    "meaning": "入场费,门票",
+    "memory_aid": "来自“入场料”"
+  },
+  {
+    "id": 657,
+    "word": "자기",
+    "type": "名",
+    "meaning": "自己",
+    "memory_aid": "来自“自己”",
+    "related": "[派] 자기 소개(n. 自我介绍)"
+  },
+  {
+    "id": 658,
+    "word": "자다",
+    "type": "动",
+    "meaning": "睡觉"
+  },
+  {
+    "id": 659,
+    "word": "자동차",
+    "type": "名",
+    "meaning": "汽车",
+    "memory_aid": "来自“自动车”"
+  },
+  {
+    "id": 660,
+    "word": "자료",
+    "type": "名",
+    "meaning": "资料",
+    "memory_aid": "来自“资料”"
+  },
+  {
+    "id": 661,
+    "word": "자리",
+    "type": "名",
+    "meaning": "座位,位置"
+  },
+  {
+    "id": 662,
+    "word": "자전거",
+    "type": "名",
+    "meaning": "自行车",
+    "memory_aid": "来自“自转车”",
+    "example": "자전거를 타다: 骑自行车"
+  },
+  {
+    "id": 663,
+    "word": "자주",
+    "type": "副",
+    "meaning": "经常"
+  },
+  {
+    "id": 664,
+    "word": "작년",
+    "type": "名",
+    "meaning": "去年",
+    "memory_aid": "금년(n. 今年): 내년 (n. 明年)"
+  },
+  {
+    "id": 665,
+    "word": "작다",
+    "type": "形",
+    "meaning": "小",
+    "related": "[反] 크다(adj.大)"
+  },
+  {
+    "id": 666,
+    "word": "작품",
+    "type": "名",
+    "meaning": "作品",
+    "memory_aid": "来自“作品”"
+  },
+  {
+    "id": 667,
+    "word": "잘못했어요",
+    "type": "动",
+    "meaning": "(我)错了"
+  },
+  {
+    "id": 668,
+    "word": "잘했습니다",
+    "type": "动",
+    "meaning": "做得好"
+  },
+  {
+    "id": 669,
+    "word": "잠",
+    "type": "名",
+    "meaning": "觉(sleep)"
+  },
+  {
+    "id": 670,
+    "word": "잠깐만",
+    "type": "副",
+    "meaning": "片刻"
+  },
+  {
+    "id": 671,
+    "word": "잡수다",
+    "type": "动",
+    "meaning": "吃(敬语)"
+  },
+  {
+    "id": 672,
+    "word": "잡지",
+    "type": "名",
+    "meaning": "杂志",
+    "memory_aid": "来自“杂志”"
+  },
+  {
+    "id": 673,
+    "word": "장갑",
+    "type": "名",
+    "meaning": "手套",
+    "memory_aid": "来自“掌匣/掌甲”"
+  },
+  {
+    "id": 674,
+    "word": "장마철",
+    "type": "名",
+    "meaning": "雨季"
+  },
+  {
+    "id": 675,
+    "word": "장미꽃",
+    "type": "名",
+    "meaning": "玫瑰",
+    "memory_aid": "来自“蔷薇花”"
+  },
+  {
+    "id": 676,
+    "word": "장소",
+    "type": "名",
+    "meaning": "场所",
+    "memory_aid": "来自“场所”"
+  },
+  {
+    "id": 677,
+    "word": "재미있다",
+    "type": "形",
+    "meaning": "有趣、有意思",
+    "example": "재미있는 방학(有趣的假期); 재미있는 영화(有趣的电影)"
+  },
+  {
+    "id": 678,
+    "word": "저",
+    "type": "谦",
+    "meaning": "我"
+  },
+  {
+    "id": 679,
+    "word": "저녁",
+    "type": "名",
+    "meaning": "晚上"
+  },
+  {
+    "id": 680,
+    "word": "저희",
+    "type": "谦",
+    "meaning": "我们"
+  },
+  {
+    "id": 681,
+    "word": "적다",
+    "type": "形",
+    "meaning": "少"
+  },
+  {
+    "id": 682,
+    "word": "전공",
+    "type": "名",
+    "meaning": "(大学)专业",
+    "memory_aid": "来自“专攻”"
+  },
+  {
+    "id": 683,
+    "word": "전기 요금 청구서",
+    "type": "名",
+    "meaning": "电费通知单",
+    "memory_aid": "来自“电子料金请求书”"
+  },
+  {
+    "id": 684,
+    "word": "전자 사전",
+    "type": "名",
+    "meaning": "电子词典"
+  },
+  {
+    "id": 685,
+    "word": "전통 놀이",
+    "type": "名",
+    "meaning": "传统游戏"
+  },
+  {
+    "id": 686,
+    "word": "전화",
+    "type": "名",
+    "meaning": "电话",
+    "related": "[派] 전화하다(vt. 打电话)"
+  },
+  {
+    "id": 687,
+    "word": "전화기",
+    "type": "名",
+    "meaning": "电话机",
+    "memory_aid": "来自“电话器”"
+  },
+  {
+    "id": 688,
+    "word": "전화번호",
+    "type": "名",
+    "meaning": "电话号码",
+    "memory_aid": "来自“电话番号”"
+  },
+  {
+    "id": 689,
+    "word": "전후",
+    "type": "名",
+    "meaning": "前后"
+  },
+  {
+    "id": 690,
+    "word": "점심",
+    "type": "名",
+    "meaning": "中午",
+    "related": "[派] 점심 시간(n.午饭时间)"
+  },
+  {
+    "id": 691,
+    "word": "젓가락",
+    "type": "名",
+    "meaning": "筷子"
+  },
+  {
+    "id": 692,
+    "word": "정보",
+    "type": "名",
+    "meaning": "信息,情报",
+    "memory_aid": "来自“情报”"
+  },
+  {
+    "id": 693,
+    "word": "정식",
+    "type": "名",
+    "meaning": "正餐",
+    "memory_aid": "来自“正食”"
+  },
+  {
+    "id": 694,
+    "word": "제일",
+    "type": "名",
+    "meaning": "最...,第一",
+    "memory_aid": "来自“第一”",
+    "related": "[同] 가장"
+  },
+  {
+    "id": 695,
+    "word": "제주도",
+    "type": "名",
+    "meaning": "济州岛",
+    "note": "济州岛也称三多岛(삼다도),三多是指“风多,石头多,女人多”"
+  },
+  {
+    "id": 696,
+    "word": "조심",
+    "type": "名",
+    "meaning": "小心",
+    "memory_aid": "来自“操心”",
+    "example": "조심해서 운전하십시오;请小心驾驶"
+  },
+  {
+    "id": 697,
+    "word": "조용하다",
+    "type": "形",
+    "meaning": "安静"
+  },
+  {
+    "id": 698,
+    "word": "조카",
+    "type": "名",
+    "meaning": "侄子"
+  },
+  {
+    "id": 699,
+    "word": "졸업",
+    "type": "名",
+    "meaning": "毕业",
+    "memory_aid": "来自“结业”",
+    "related": "[派] 졸업식(n. 毕业典礼); 졸업생 (n. 毕业生)"
+  },
+  {
+    "id": 700,
+    "word": "좀",
+    "type": "副",
+    "meaning": "稍微"
+  },
+  {
+    "id": 701,
+    "word": "좁다",
+    "type": "形",
+    "meaning": "窄"
+  },
+  {
+    "id": 702,
+    "word": "종로",
+    "type": "地名",
+    "meaning": "钟路"
+  },
+  {
+    "id": 703,
+    "word": "좋다",
+    "type": "形",
+    "meaning": "好"
+  },
+  {
+    "id": 704,
+    "word": "좌석",
+    "type": "名",
+    "meaning": "座位",
+    "memory_aid": "来自“坐席”"
+  },
+  {
+    "id": 705,
+    "word": "죄송합니다",
+    "type": "动",
+    "meaning": "对不起",
+    "memory_aid": "来自“罪悚”"
+  },
+  {
+    "id": 706,
+    "word": "주",
+    "type": "名",
+    "meaning": "周(一周)",
+    "memory_aid": "来自“周”",
+    "related": "[派] 주말(n. 周末)"
+  },
+  {
+    "id": 707,
+    "word": "주로",
+    "type": "副",
+    "meaning": "主要"
+  },
+  {
+    "id": 708,
+    "word": "주문",
+    "type": "名",
+    "meaning": "订阅,预订",
+    "memory_aid": "来自“注文”"
+  },
+  {
+    "id": 709,
+    "word": "주소",
+    "type": "名",
+    "meaning": "地址",
+    "memory_aid": "来自“住所”"
+  },
+  {
+    "id": 710,
+    "word": "주스",
+    "type": "名",
+    "meaning": "果汁",
+    "memory_aid": "来自juice"
+  },
+  {
+    "id": 711,
+    "word": "주식회사",
+    "type": "名",
+    "meaning": "股份公司",
+    "memory_aid": "来自“株式会社”"
+  },
+  {
+    "id": 712,
+    "word": "주유소",
+    "type": "名",
+    "meaning": "加油站",
+    "memory_aid": "来自“注油所”"
+  },
+  {
+    "id": 713,
+    "word": "주의 사항",
+    "type": "名",
+    "meaning": "注意事项",
+    "memory_aid": "来自“注意事项”"
+  },
+  {
+    "id": 714,
+    "word": "주인",
+    "type": "名",
+    "meaning": "主人",
+    "memory_aid": "来自“主人”"
+  },
+  {
+    "id": 715,
+    "word": "주차",
+    "type": "名",
+    "meaning": "停车",
+    "memory_aid": "来自“驻车”",
+    "related": "[派] 주차장(n. 停车场)"
+  },
+  {
+    "id": 716,
+    "word": "준비",
+    "type": "名",
+    "meaning": "准备",
+    "memory_aid": "来自“准备”"
+  }，
+  {
+    "id": 717,
+    "word": "중국",
+    "type": "名",
+    "meaning": "中国",
+    "memory_aid": "来自“中国”",
+    "related": "[派] 중국어 (n.中文); 중국사람(n. 中国人)"
+  },
+  {
+    "id": 718,
+    "word": "중심 내용",
+    "type": "名",
+    "meaning": "中心内容"
+  },
+  {
+    "id": 719,
+    "word": "중요하다",
+    "type": "形",
+    "meaning": "重要"
+  },
+  {
+    "id": 720,
+    "word": "줬어요",
+    "type": "动",
+    "meaning": "给过了(过去式)",
+    "memory_aid": "[原] 주다"
+  },
+  {
+    "id": 721,
+    "word": "즐겁다",
+    "type": "形",
+    "meaning": "愉快"
+  },
+  {
+    "id": 722,
+    "word": "지각",
+    "type": "名",
+    "meaning": "迟到",
+    "memory_aid": "来自“迟刻”"
+  },
+  {
+    "id": 723,
+    "word": "지갑",
+    "type": "名",
+    "meaning": "钱包",
+    "memory_aid": "来自“纸匣”"
+  },
+  {
+    "id": 724,
+    "word": "지금",
+    "type": "名",
+    "meaning": "现在",
+    "memory_aid": "来自“只今”,表明当前",
+    "related": "[派] 지금까지(目前为止)"
+  },
+  {
+    "id": 725,
+    "word": "지난해",
+    "type": "名",
+    "meaning": "去年"
+  },
+  {
+    "id": 726,
+    "word": "지도",
+    "type": "名",
+    "meaning": "地图",
+    "memory_aid": "来自“地图”"
+  },
+  {
+    "id": 727,
+    "word": "지하철",
+    "type": "名",
+    "meaning": "地铁",
+    "memory_aid": "来自“地下铁”",
+    "related": "[派] 지하철역(n. 地铁站)",
+    "example": "지하철을 타다: 坐地铁"
+  },
+  {
+    "id": 728,
+    "word": "직업",
+    "type": "名",
+    "meaning": "职业",
+    "memory_aid": "来自“职业”"
+  },
+  {
+    "id": 729,
+    "word": "직장",
+    "type": "名",
+    "meaning": "职场",
+    "memory_aid": "来自“职场”"
+  },
+  {
+    "id": 730,
+    "word": "직장인",
+    "type": "名",
+    "meaning": "上班族",
+    "memory_aid": "来自“职场人”"
+  },
+  {
+    "id": 731,
+    "word": "진심",
+    "type": "名",
+    "meaning": "真心",
+    "memory_aid": "来自“真心”"
+  },
+  {
+    "id": 732,
+    "word": "질문",
+    "type": "名",
+    "meaning": "提问,质问",
+    "memory_aid": "来自“质问”"
+  },
+  {
+    "id": 733,
+    "word": "짐",
+    "type": "名",
+    "meaning": "行李"
+  },
+  {
+    "id": 734,
+    "word": "집",
+    "type": "名",
+    "meaning": "家",
+    "related": "[派] 집안일 (n.家务)"
+  },
+  {
+    "id": 735,
+    "word": "집안일",
+    "type": "名",
+    "meaning": "家务事"
+  },
+  {
+    "id": 736,
+    "word": "짜다",
+    "type": "形",
+    "meaning": "咸",
+    "related": "[反] 싱겁다(adj.淡)"
+  },
+  {
+    "id": 737,
+    "word": "짧다",
+    "type": "形",
+    "meaning": "短",
+    "related": "[反] 길다(adj.长)"
+  },
+  {
+    "id": 738,
+    "word": "찍다",
+    "type": "动",
+    "meaning": "拍(照),(用刀或斧子)砍",
+    "example": "사진을 찍다; 照相"
+  },
+  {
+    "id": 739,
+    "word": "차",
+    "type": "名",
+    "meaning": "车,茶"
+  },
+  {
+    "id": 740,
+    "word": "차다",
+    "type": "形",
+    "meaning": "凉",
+    "related": "[反] 뜨겁다(adj.热)"
+  },
+  {
+    "id": 741,
+    "word": "참",
+    "type": "副",
+    "meaning": "真是地",
+    "example": "불고기는 참 맛있다: 烤肉真好吃"
+  },
+  {
+    "id": 742,
+    "word": "참가비",
+    "type": "名",
+    "meaning": "参加费"
+  },
+  {
+    "id": 743,
+    "word": "창문",
+    "type": "名",
+    "meaning": "窗户",
+    "memory_aid": "来自“窗门”"
+  },
+  {
+    "id": 744,
+    "word": "찾다",
+    "type": "动",
+    "meaning": "寻找"
+  },
+  {
+    "id": 745,
+    "word": "책",
+    "type": "名",
+    "meaning": "书",
+    "memory_aid": "来自“册”",
+    "related": "[派] 책꽂이 (n. 书架); 책방(n. 书房); 책상(n.书桌)",
+    "example": "책을 사다 买书; 책을 읽다 读书"
+  },
+  {
+    "id": 746,
+    "word": "처음",
+    "type": "名",
+    "meaning": "初次,第一次"
+  },
+  {
+    "id": 747,
+    "word": "천",
+    "type": "数",
+    "meaning": "千(数量词)"
+  },
+  {
+    "id": 748,
+    "word": "천원",
+    "type": "名",
+    "meaning": "(一)千元"
+  },
+  {
+    "id": 749,
+    "word": "천천히",
+    "type": "副",
+    "meaning": "慢慢地",
+    "example": "천천히 가십시오:请慢走"
+  },
+  {
+    "id": 750,
+    "word": "첫째",
+    "type": "名",
+    "meaning": "第一"
+  },
+  {
+    "id": 751,
+    "word": "청소",
+    "type": "名",
+    "meaning": "打扫",
+    "memory_aid": "来自“清扫”",
+    "related": "[派] 청소기(n.清洁器,吸尘器): 청소부(n. 保洁员,清扫工)"
+  },
+  {
+    "id": 752,
+    "word": "초대",
+    "type": "名",
+    "meaning": "招待",
+    "memory_aid": "来自“招待”"
+  },
+  {
+    "id": 753,
+    "word": "초록 버스",
+    "type": "名",
+    "meaning": "绿色公交车"
+  },
+  {
+    "id": 754,
+    "word": "최저",
+    "type": "名",
+    "meaning": "最低",
+    "memory_aid": "来自“最低”",
+    "related": "[派] 최저 기온(n. 最低温度)"
+  },
+  {
+    "id": 755,
+    "word": "축구",
+    "type": "名",
+    "meaning": "足球",
+    "memory_aid": "来自“蹴球”",
+    "related": "[派] 축구장(n.足球场)"
+  },
+  {
+    "id": 756,
+    "word": "축제",
+    "type": "名",
+    "meaning": "庆祝仪式",
+    "memory_aid": "来自“祝祭”"
+  },
+  {
+    "id": 757,
+    "word": "축하",
+    "type": "名",
+    "meaning": "祝贺",
+    "memory_aid": "来自“祝贺”"
+  },
+  {
+    "id": 758,
+    "word": "춘천역",
+    "type": "名",
+    "meaning": "春川站,春川是一个地名"
+  },
+  {
+    "id": 759,
+    "word": "출근",
+    "type": "名",
+    "meaning": "上班",
+    "memory_aid": "来自“出勤”"
+  },
+  {
+    "id": 760,
+    "word": "출발",
+    "type": "名",
+    "meaning": "出发",
+    "memory_aid": "来自“出发”",
+    "related": "[派] 출발시간(n. 出发时间)"
+  },
+  {
+    "id": 761,
+    "word": "출장",
+    "type": "名",
+    "meaning": "出差",
+    "memory_aid": "来自“出张”"
+  },
+  {
+    "id": 762,
+    "word": "춤",
+    "type": "名",
+    "meaning": "舞蹈"
+  },
+  {
+    "id": 763,
+    "word": "취미",
+    "type": "名",
+    "meaning": "兴趣",
+    "memory_aid": "来自“趣味”"
+  },
+  {
+    "id": 764,
+    "word": "취소",
+    "type": "名",
+    "meaning": "取消",
+    "memory_aid": "来自“取消”"
+  },
+  {
+    "id": 765,
+    "word": "취직",
+    "type": "名",
+    "meaning": "就业",
+    "memory_aid": "来自“就职”"
+  },
+  {
+    "id": 766,
+    "word": "층",
+    "type": "名",
+    "meaning": "层",
+    "memory_aid": "来自“层”"
+  },
+  {
+    "id": 767,
+    "word": "치마",
+    "type": "名",
+    "meaning": "裙子"
+  },
+  {
+    "id": 768,
+    "word": "친구",
+    "type": "名",
+    "meaning": "朋友",
+    "memory_aid": "来自“亲旧”"
+  },
+  {
+    "id": 769,
+    "word": "친절하다",
+    "type": "形",
+    "meaning": "和蔼的,亲切的",
+    "memory_aid": "来自“亲切”"
+  },
+  {
+    "id": 770,
+    "word": "친척",
+    "type": "名",
+    "meaning": "亲戚",
+    "memory_aid": "来自“亲戚”"
+  },
+  {
+    "id": 771,
+    "word": "친하다",
+    "type": "形",
+    "meaning": "亲密的"
+  },
+  {
+    "id": 772,
+    "word": "칠판",
+    "type": "名",
+    "meaning": "黑板",
+    "memory_aid": "来自“漆板”"
+  },
+  {
+    "id": 773,
+    "word": "침대",
+    "type": "名",
+    "meaning": "床",
+    "memory_aid": "来自“寝台”"
+  },
+  {
+    "id": 774,
+    "word": "칫솔",
+    "type": "名",
+    "meaning": "牙刷",
+    "memory_aid": "来自“齿刷”"
+  },
+  {
+    "id": 775,
+    "word": "카드",
+    "type": "名",
+    "meaning": "卡片",
+    "memory_aid": "来自 card"
+  },
+  {
+    "id": 776,
+    "word": "카메라",
+    "type": "名",
+    "meaning": "照相机,摄影机",
+    "memory_aid": "来自camera"
+  },
+  {
+    "id": 777,
+    "word": "캐나다",
+    "type": "名",
+    "meaning": "加拿大",
+    "memory_aid": "来自 Canada"
+  },
+  {
+    "id": 778,
+    "word": "캠프",
+    "type": "名",
+    "meaning": "野炊",
+    "memory_aid": "来自 camp"
+  },
+  {
+    "id": 779,
+    "word": "커요",
+    "type": "形",
+    "meaning": "大",
+    "memory_aid": "[原] 크다(adj.大)"
+  },
+  {
+    "id": 780,
+    "word": "커피",
+    "type": "名",
+    "meaning": "咖啡",
+    "memory_aid": "来自coffee",
+    "related": "[派] 커피숍(n.咖啡厅, coffee shop)"
+  },
+  {
+    "id": 781,
+    "word": "컴퓨터",
+    "type": "名",
+    "meaning": "电脑",
+    "memory_aid": "来自computer",
+    "related": "[派] 컴퓨터실(n. 电脑室)"
+  },
+  {
+    "id": 782,
+    "word": "컵",
+    "type": "名",
+    "meaning": "杯子",
+    "memory_aid": "来自 cup"
+  },
+  {
+    "id": 783,
+    "word": "케이크",
+    "type": "名",
+    "meaning": "蛋糕",
+    "memory_aid": "来自cake"
+  },
+  {
+    "id": 784,
+    "word": "켜다",
+    "type": "动",
+    "meaning": "开,启动"
+  },
+  {
+    "id": 785,
+    "word": "코트",
+    "type": "名",
+    "meaning": "外套",
+    "memory_aid": "来自 coat"
+  },
+  {
+    "id": 786,
+    "word": "콜라",
+    "type": "名",
+    "meaning": "可乐",
+    "memory_aid": "来自cola"
+  },
+  {
+    "id": 787,
+    "word": "콧물",
+    "type": "名",
+    "meaning": "鼻涕"
+  },
+  {
+    "id": 788,
+    "word": "크다",
+    "type": "形",
+    "meaning": "大",
+    "related": "[反] 작다(adj.小)"
+  },
+  {
+    "id": 789,
+    "word": "키",
+    "type": "名",
+    "meaning": "身高,钥匙",
+    "memory_aid": "来自 key"
+  },
+  {
+    "id": 790,
+    "word": "킬로그램",
+    "type": "名",
+    "meaning": "公斤",
+    "memory_aid": "来自kilogram"
+  },
+  {
+    "id": 791,
+    "word": "타워",
+    "type": "名",
+    "meaning": "塔",
+    "memory_aid": "来自 tower"
+  },
+  {
+    "id": 792,
+    "word": "탁자",
+    "type": "名",
+    "meaning": "桌子",
+    "memory_aid": "来自“卓子”"
+  },
+  {
+    "id": 793,
+    "word": "탈",
+    "type": "名",
+    "meaning": "面具"
+  },
+  {
+    "id": 794,
+    "word": "태권도",
+    "type": "名",
+    "meaning": "跆拳道",
+    "memory_aid": "来自“跆拳道”"
+  },
+  {
+    "id": 795,
+    "word": "택시",
+    "type": "名",
+    "meaning": "出租车",
+    "memory_aid": "来自 taxi"
+  },
+  {
+    "id": 796,
+    "word": "터미널",
+    "type": "名",
+    "meaning": "始发站",
+    "memory_aid": "来自 terminal"
+  },
+  {
+    "id": 797,
+    "word": "털",
+    "type": "名",
+    "meaning": "毛"
+  },
+  {
+    "id": 798,
+    "word": "테니스",
+    "type": "名",
+    "meaning": "网球",
+    "memory_aid": "来自 tennis",
+    "related": "[派] 테니스장(n. 网球场)"
+  },
+  {
+    "id": 799,
+    "word": "토요일",
+    "type": "名",
+    "meaning": "星期六"
+  },
+  {
+    "id": 800,
+    "word": "통화 중",
+    "type": "名",
+    "meaning": "通话中、占线"
+  },
+  {
+    "id": 801,
+    "word": "퇴원",
+    "type": "名",
+    "meaning": "出院",
+    "memory_aid": "来自“退院”"
+  },
+  {
+    "id": 802,
+    "word": "특별히",
+    "type": "副",
+    "meaning": "特别地"
+  },
+  {
+    "id": 803,
+    "word": "티셔츠",
+    "type": "名",
+    "meaning": "T恤",
+    "memory_aid": "来自T-Shirt"
+  },
+  {
+    "id": 804,
+    "word": "파란색",
+    "type": "名",
+    "meaning": "蓝色"
+  },
+  {
+    "id": 805,
+    "word": "파랑 버스",
+    "type": "名",
+    "meaning": "蓝色公交车"
+  },
+  {
+    "id": 806,
+    "word": "파랗다",
+    "type": "形",
+    "meaning": "蓝的"
+  },
+  {
+    "id": 807,
+    "word": "파티",
+    "type": "名",
+    "meaning": "聚会",
+    "memory_aid": "来自 party"
+  },
+  {
+    "id": 808,
+    "word": "판매",
+    "type": "名",
+    "meaning": "销售",
+    "memory_aid": "来自“贩卖”"
+  },
+  {
+    "id": 809,
+    "word": "팔",
+    "type": "名",
+    "meaning": "胳膊,八(数字)"
+  },
+  {
+    "id": 810,
+    "word": "팔년전",
+    "type": "名",
+    "meaning": "八年前"
+  },
+  {
+    "id": 811,
+    "word": "팔다",
+    "type": "动",
+    "meaning": "卖",
+    "related": "[反] 사다(vt.买)"
+  },
+  {
+    "id": 812,
+    "word": "편리하다",
+    "type": "形",
+    "meaning": "方便",
+    "memory_aid": "来自“便利”"
+  },
+  {
+    "id": 813,
+    "word": "편안",
+    "type": "名",
+    "meaning": "舒服",
+    "memory_aid": "来自“便安”"
+  },
+  {
+    "id": 814,
+    "word": "편지",
+    "type": "名",
+    "meaning": "信件",
+    "memory_aid": "来自“便纸”"
+  },
+  {
+    "id": 815,
+    "word": "포도",
+    "type": "名",
+    "meaning": "葡萄",
+    "memory_aid": "来自“葡萄”"
+  },
+  {
+    "id": 816,
+    "word": "표",
+    "type": "名",
+    "meaning": "票,各种票据"
+  },
+  {
+    "id": 817,
+    "word": "푹",
+    "type": "副",
+    "meaning": "充分地",
+    "example": "푹 자고 싶어요; 想好好睡一觉"
+  },
+  {
+    "id": 818,
+    "word": "풀",
+    "type": "名",
+    "meaning": "草"
+  },
+  {
+    "id": 819,
+    "word": "프랑스",
+    "type": "名",
+    "meaning": "法国",
+    "related": "[派] 프랑스어 (n. 法语)"
+  },
+  {
+    "id": 820,
+    "word": "프로그램",
+    "type": "名",
+    "meaning": "电脑程序",
+    "memory_aid": "来自 program"
+  },
+  {
+    "id": 821,
+    "word": "피곤",
+    "type": "名",
+    "meaning": "疲劳,疲倦",
+    "memory_aid": "来自“疲困”",
+    "related": "[派] 피곤하다(adj.疲倦)"
+  },
+  {
+    "id": 822,
+    "word": "피아노",
+    "type": "名",
+    "meaning": "钢琴",
+    "memory_aid": "来自 piano"
+  },
+  {
+    "id": 823,
+    "word": "필요",
+    "type": "名",
+    "meaning": "必要",
+    "memory_aid": "来自“必要”"
+  },
+  {
+    "id": 824,
+    "word": "하늘",
+    "type": "名",
+    "meaning": "天空"
+  },
+  {
+    "id": 825,
+    "word": "하루",
+    "type": "名",
+    "meaning": "一天"
+  },
+  {
+    "id": 826,
+    "word": "하세요",
+    "type": "动",
+    "meaning": "请做",
+    "memory_aid": "[原] 하다"
+  },
+  {
+    "id": 827,
+    "word": "하숙집",
+    "type": "名",
+    "meaning": "租房(租赁的房子)",
+    "memory_aid": "来自“下宿+家”"
+  },
+  {
+    "id": 828,
+    "word": "하지만",
+    "type": "连",
+    "meaning": "可是"
+  },
+  {
+    "id": 829,
+    "word": "학교",
+    "type": "名",
+    "meaning": "学校",
+    "memory_aid": "来自“学校”"
+  },
+  {
+    "id": 830,
+    "word": "학생",
+    "type": "名",
+    "meaning": "学生",
+    "memory_aid": "来自“学生”",
+    "related": "[派] 학생회 (n. 学生会)"
+  },
+  {
+    "id": 831,
+    "word": "한강 공원",
+    "type": "名",
+    "meaning": "汉江公园"
+  },
+  {
+    "id": 832,
+    "word": "한국",
+    "type": "名",
+    "meaning": "韩国",
+    "related": "[派] 한국말(n. 韩国话): 한국어 (n. 韩国语)"
+  },
+  {
+    "id": 833,
+    "word": "한라산",
+    "type": "名",
+    "meaning": "韩拿山(也叫汉拏山),在济州岛中部"
+  },
+  {
+    "id": 834,
+    "word": "한복",
+    "type": "名",
+    "meaning": "韩服",
+    "memory_aid": "来自“韩服”"
+  },
+  {
+    "id": 835,
+    "word": "한식당",
+    "type": "名",
+    "meaning": "韩食馆",
+    "memory_aid": "한식(n. 韩餐)"
+  },
+  {
+    "id": 836,
+    "word": "한식집",
+    "type": "名",
+    "meaning": "韩餐馆"
+  },
+  {
+    "id": 837,
+    "word": "할머니",
+    "type": "名",
+    "meaning": "奶奶",
+    "memory_aid": "할아버지 (n. 爷爷)"
+  },
+  {
+    "id": 838,
+    "word": "할인",
+    "type": "名",
+    "meaning": "折扣",
+    "memory_aid": "来自“割引”"
+  },
+  {
+    "id": 839,
+    "word": "함께",
+    "type": "副",
+    "meaning": "一起",
+    "related": "[同] 같이 (adv.一起)"
+  },
+  {
+    "id": 840,
+    "word": "항상",
+    "type": "副",
+    "meaning": "向来,常常",
+    "related": "[同] 자주, 늘"
+  },
+  {
+    "id": 841,
+    "word": "햄버거",
+    "type": "名",
+    "meaning": "汉堡包",
+    "memory_aid": "来自 hamburger"
+  },
+  {
+    "id": 842,
+    "word": "행복",
+    "type": "名",
+    "meaning": "幸福",
+    "memory_aid": "来自“幸福”",
+    "related": "[派] 행복하다(adj. 幸福)"
+  },
+  {
+    "id": 843,
+    "word": "행사",
+    "type": "名",
+    "meaning": "活动,一般指公开的活动",
+    "memory_aid": "来自“行事”"
+  },
+  {
+    "id": 844,
+    "word": "형제",
+    "type": "名",
+    "meaning": "兄弟姐妹",
+    "memory_aid": "来自“兄弟”, 형(n.哥)"
+  },
+  {
+    "id": 845,
+    "word": "호수",
+    "type": "名",
+    "meaning": "湖",
+    "memory_aid": "来自“湖水”"
+  },
+  {
+    "id": 846,
+    "word": "호주",
+    "type": "名",
+    "meaning": "澳洲",
+    "memory_aid": "来自“濠州”,这是日语中对澳大利亚的称呼,韩语音译了日语"
+  },
+  {
+    "id": 847,
+    "word": "호텔",
+    "type": "名",
+    "meaning": "宾馆",
+    "memory_aid": "来自 hotel"
+  },
+  {
+    "id": 848,
+    "word": "혼자",
+    "type": "副",
+    "meaning": "单独地、独自地"
+  },
+  {
+    "id": 849,
+    "word": "홍콩",
+    "type": "名",
+    "meaning": "香港",
+    "memory_aid": "Hong Kong 的音译"
+  },
+  {
+    "id": 850,
+    "word": "화장실",
+    "type": "名",
+    "meaning": "洗手间,厕所",
+    "memory_aid": "来自“化妆室”"
+  },
+  {
+    "id": 851,
+    "word": "화장품",
+    "type": "名",
+    "meaning": "化妆品",
+    "memory_aid": "来自“化妆品”"
+  },
+  {
+    "id": 852,
+    "word": "환자",
+    "type": "名",
+    "meaning": "患者",
+    "memory_aid": "来自“患者”"
+  },
+  {
+    "id": 853,
+    "word": "회관",
+    "type": "名",
+    "meaning": "会馆",
+    "memory_aid": "来自“会馆”"
+  },
+  {
+    "id": 854,
+    "word": "회사",
+    "type": "名",
+    "meaning": "公司",
+    "memory_aid": "来自“公司”",
+    "related": "[派] 회사 사장(n. 公司社长,公司老板),회사(직)원(n. 公司职员)",
+    "example": "회사에 다니다: 在公司上班"
+  },
+  {
+    "id": 855,
+    "word": "회사원",
+    "type": "名",
+    "meaning": "公司职员"
+  },
+  {
+    "id": 856,
+    "word": "회원",
+    "type": "名",
+    "meaning": "会员"
+  },
+  {
+    "id": 857,
+    "word": "회의",
+    "type": "名",
+    "meaning": "会议",
+    "memory_aid": "来自“会议”"
+  },
+  {
+    "id": 858,
+    "word": "후식",
+    "type": "名",
+    "meaning": "甜点",
+    "memory_aid": "来自“后食”,也就是饭后吃的食物"
+  },
+  {
+    "id": 859,
+    "word": "훨씬",
+    "type": "副",
+    "meaning": "(程度)更"
+  },
+  {
+    "id": 860,
+    "word": "휴가",
+    "type": "名",
+    "meaning": "休假",
+    "memory_aid": "来自“休假”"
+  },
+  {
+    "id": 861,
+    "word": "휴대전화",
+    "type": "名",
+    "meaning": "手机",
+    "memory_aid": "来自“携带电话”,手机更多使用 핸드폰(hand phone)"
+  },
+  {
+    "id": 862,
+    "word": "휴일",
+    "type": "名",
+    "meaning": "休息日",
+    "memory_aid": "来自“休日”"
+  },
+  {
+    "id": 863,
+    "word": "휴지",
+    "type": "名",
+    "meaning": "废纸",
+    "memory_aid": "来自“休纸”"
+  },
+  {
+    "id": 864,
+    "word": "흐렸다",
+    "type": "形",
+    "meaning": "(天气阴,(水质)浑浊",
+    "memory_aid": "[原] 흐리다(adj.浑浊)"
+  },
+  {
+    "id": 865,
+    "word": "희망",
+    "type": "名",
+    "meaning": "希望"
+  },
+  {
+    "id": 866,
+    "word": "흰색",
+    "type": "名",
+    "meaning": "白色"
+  },
+  {
+    "id": 867,
+    "word": "힘",
+    "type": "名",
+    "meaning": "力气,力量",
+    "related": "[派] 힘들다(adj.困难,吃力)"
+  }
+]

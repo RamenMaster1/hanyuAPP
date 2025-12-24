@@ -8,6 +8,7 @@ import uuid
 import os
 from typing import Optional
 import logging
+import hashlib
 
 # 配置日志
 logging.basicConfig(level=logging.INFO)
@@ -41,6 +42,10 @@ app = FastAPI()
 class LoginForm(BaseModel):
     email: str
     password: str
+
+def hash_password(password: str) -> str:
+    """对密码进行 SHA-256 哈希"""
+    return hashlib.sha256(password.encode()).hexdigest()
 
 def get_current_user(session_id: Optional[str] = Cookie(None)):
     """从 Cookie 中获取当前用户"""
@@ -79,13 +84,21 @@ def health():
 def login_user(data: LoginForm, response: Response):
     """用户登录"""
     try:
-        with engine.begin() as conn:  # 使用 begin() 自动管理事务
+        # 先查询用户
+        with engine.begin() as conn:
             user = conn.execute(
-                text("SELECT id, email FROM users WHERE email=:email AND password=:password"),
-                {"email": data.email, "password": data.password}
+                text("SELECT id, email, password FROM users WHERE email=:email"),
+                {"email": data.email}
             ).fetchone()
         
         if not user:
+            logger.warning(f"Login failed: user not found for email {data.email}")
+            raise HTTPException(status_code=400, detail="Invalid email or password")
+        
+        # 验证密码哈希
+        password_hash = hash_password(data.password)
+        if user.password != password_hash:
+            logger.warning(f"Login failed: wrong password for email {data.email}")
             raise HTTPException(status_code=400, detail="Invalid email or password")
         
         # 生成 session ID
@@ -108,9 +121,9 @@ def login_user(data: LoginForm, response: Response):
             value=session_id,
             max_age=SESSION_EXPIRE_SECONDS,
             path="/",
-            httponly=True,  # 防止 XSS 攻击
-            samesite="lax",  # CSRF 保护
-            secure=False  # 如果使用 HTTPS，设置为 True
+            httponly=True,
+            samesite="lax",
+            secure=False
         )
         
         logger.info(f"User {user.id} logged in successfully")

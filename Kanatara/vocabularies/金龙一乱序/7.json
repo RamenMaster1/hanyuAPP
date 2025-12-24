@@ -1,0 +1,683 @@
+{
+  "beginner_unit_14": [
+    {
+      "id": "0637",
+      "term": "실례하다",
+      "origin": "失禮",
+      "definition": "失礼, 冒犯, 打扰",
+      [cite_start]"example": "실례합니다. 숭례문까지 어떻게 가요? / 打扰一下，到崇礼门怎么走？ [cite: 1457]"
+    },
+    {
+      "id": "0638",
+      "term": "설악산",
+      "origin": "雪嶽山",
+      "definition": "雪岳山",
+      "example": "친구랑 같이 설악산에 갔습니다. [cite_start]/ 跟朋友一起去了雪岳山。 [cite: 1457]"
+    },
+    {
+      "id": "0639",
+      "term": "안다",
+      "definition": "抱",
+      "example": "그는 아이를 품에 안고 있었습니다. [cite_start]/ 她把孩子抱在怀里。 [cite: 1457]"
+    },
+    {
+      "id": "0640",
+      "term": "보다",
+      "definition": "观看, 看",
+      "example": "영화를 보다가 잠들었습니다. [cite_start]/ 看电影看睡着了。 [cite: 1457]"
+    },
+    {
+      "id": "0641",
+      "term": "세우다",
+      "definition": "竖立 (서다的使动形), 停(车)",
+      "example": "여기에 차를 세울 수 있습니까? [cite_start]/ 可以在这里停车吗？ [cite: 1457]"
+    },
+    {
+      "id": "0642",
+      "term": "다",
+      "definition": "全部",
+      "example": "종류별로 다 샀어요. / 按种类全买了。",
+      [cite_start]"synonym": "모두, 전부 (全部) [cite: 1457]"
+    },
+    {
+      "id": "0643",
+      "term": "틀다",
+      "definition": "拧, 开(电器)",
+      "example": "나사를 틀어 보세요. [cite_start]/ 请拧一下螺丝。 [cite: 1457]"
+    },
+    {
+      "id": "0644",
+      "term": "아주",
+      "definition": "非常",
+      "example": "강의가 아주 재미있었습니다. / 课讲得很有意思。",
+      [cite_start]"synonym": "무척 (非常) [cite: 1457]"
+    },
+    {
+      "id": "0645",
+      "term": "마시다",
+      "definition": "喝",
+      "example": "커피를 마시지 않는 사람들도 있습니다. [cite_start]/ 也有不喝咖啡的人。 [cite: 1457]"
+    },
+    {
+      "id": "0646",
+      "term": "인사하다",
+      "origin": "人事",
+      "definition": "打招呼, 问候",
+      "example": "어른들에게 깍듯이 인사를 했습니다. [cite_start]/ 对大人毕恭毕敬地行了礼。 [cite: 1457]"
+    },
+    {
+      "id": "0647",
+      "term": "학년",
+      "origin": "學年",
+      "definition": "年级",
+      "example": "저는 현재 사범대학 3학년인 재학생입니다. [cite_start]/ 我现在是师范大学三年级的在校生。 [cite: 1457]"
+    },
+    {
+      "id": "0648",
+      "term": "시키다",
+      "definition": "使唤, 点 (餐)",
+      "example": "다음부터 심부름을 시키지 마세요. / 以后别再让我跑腿了。; 음식이 모자랄 것 같은데 더 시킬까요? [cite_start]/ 菜好像不够，还要再点吗？ [cite: 1457, 1459, 1463]"
+    },
+    {
+      "id": "0649",
+      "term": "배탈",
+      "definition": "拉肚子",
+      "example": "음식을 잘못 먹어 배탈이 났어요. [cite_start]/ 吃坏了东西，闹肚子了。 [cite: 1464]"
+    },
+    {
+      "id": "0650",
+      "term": "수첩",
+      "origin": "手帖",
+      "definition": "手册, 记事本",
+      "example": "수첩과 볼펜을 항상 갖고 다닙니다. [cite_start]/ 总是随身携带记事本和圆珠笔。 [cite: 1464]"
+    },
+    {
+      "id": "0651",
+      "term": "반찬",
+      "origin": "飯饌",
+      "definition": "菜肴, 小菜",
+      "example": "반찬 더 주세요. [cite_start]/ 请再拿点小菜。 [cite: 1464]"
+    },
+    {
+      "id": "0652",
+      "term": "박물관",
+      "origin": "博物館",
+      "definition": "博物馆",
+      "example": "탈박물관에서 여러가지 탈을 봤습니다. [cite_start]/ 在面具博物馆看了各种面具。 [cite: 1464]"
+    },
+    {
+      "id": "0653",
+      "term": "들어가다",
+      "definition": "进去",
+      "example": "꽃밭에 들어가지 마세요. / 请勿入花坛。",
+      [cite_start]"antonym": "들어오다 (进来) [cite: 1464]"
+    },
+    {
+      "id": "0654",
+      "term": "하숙집",
+      "origin": "下宿",
+      "definition": "租住的房子, 寄宿房",
+      "example": "하숙집 아주머니가 음식솜씨도 좋고 아주 친절하십니다. [cite_start]/ 寄宿房的大妈厨艺好人也很亲切。 [cite: 1464]"
+    },
+    {
+      "id": "0655",
+      "term": "한자",
+      "origin": "漢字",
+      "definition": "汉字",
+      "example": "아이들은 재미있는 놀이로 한자를 배웁니다. [cite_start]/ 孩子们用有趣的游戏来学习汉字。 [cite: 1464]"
+    },
+    {
+      "id": "0656",
+      "term": "건물",
+      "origin": "建物",
+      "definition": "建筑物",
+      "example": "건물을 짓고 있는 중입니다. [cite_start]/ 正在盖建筑。 [cite: 1464]"
+    },
+    {
+      "id": "0657",
+      "term": "무릎",
+      "definition": "膝盖",
+      "example": "무릎을 굽힐 때마다 아파요. [cite_start]/ 每次弯下膝盖时都会疼。 [cite: 1464]"
+    },
+    {
+      "id": "0658",
+      "term": "휴지",
+      "origin": "休紙",
+      "definition": "废纸",
+      "example": "휴지를 아무데나 내버리지 마세요. [cite_start]/ 不要乱扔废纸。 [cite: 1464]"
+    },
+    {
+      "id": "0659",
+      "term": "프로그램",
+      "origin": "program",
+      "definition": "节目, 程序",
+      "example": "그는 다수의 프로그램에서 활약 중입니다. [cite_start]/ 他活跃在多数节目中。 [cite: 1464]"
+    },
+    {
+      "id": "0660",
+      "term": "화나다",
+      "definition": "生气, 发火",
+      "example": "아빠가 저 때문에 엄청 화나셨습니다. [cite_start]/ 爸爸因我而生气了。 [cite: 1464]"
+    },
+    {
+      "id": "0661",
+      "term": "고추",
+      "definition": "辣椒",
+      "example": "고추를 넣으면 더 맛있어요. / 放点辣椒更好吃。",
+      [cite_start]"related": "고추장 (辣椒酱) [cite: 1464]"
+    },
+    {
+      "id": "0662",
+      "term": "어둡다",
+      "definition": "昏暗",
+      "example": "밖이 어두워서 앞이 잘 보이지 않습니다. / 外边太黑了，看不清前方。",
+      [cite_start]"antonym": "환하다 (明亮) [cite: 1468, 1469, 1470]"
+    },
+    {
+      "id": "0663",
+      "term": "아래",
+      "definition": "下面",
+      "example": "우산이 의자 아래에 있어요. / 雨伞在椅子下面。",
+      [cite_start]"antonym": "위 (上面) [cite: 1470]"
+    },
+    {
+      "id": "0664",
+      "term": "고속버스",
+      "origin": "高速bus",
+      "definition": "高速大巴",
+      "example": "고속버스를 타고 여수로 갑니다. [cite_start]/ 坐高速大巴去丽水。 [cite: 1470]"
+    },
+    {
+      "id": "0665",
+      "term": "채소",
+      "origin": "菜蔬",
+      "definition": "蔬菜",
+      "example": "채소를 직접 길러서 먹습니다. [cite_start]/ 亲自种菜吃。 [cite: 1470]"
+    },
+    {
+      "id": "0666",
+      "term": "부지런하다",
+      "definition": "勤快",
+      "example": "그녀는 매우 부지런한 사람입니다. [cite_start]/ 她是个非常勤快的人。 [cite: 1470]"
+    },
+    {
+      "id": "0667",
+      "term": "잡지",
+      "origin": "雜誌",
+      "definition": "杂志",
+      "example": "이 잡지는 창간된 뒤, 지금까지 계속 발간되고 있습니다. / 该杂志创刊以来，一直发行到现在。",
+      [cite_start]"related": "잡지사 (杂志社) [cite: 1470]"
+    },
+    {
+      "id": "0668",
+      "term": "종이",
+      "definition": "纸",
+      "example": "종이컵은 씻지 않아도 되기 때문에 간편하게 사용할 수 있습니다. [cite_start]/ 纸杯可以不用清洗，所以使用起来很方便。 [cite: 1470]"
+    },
+    {
+      "id": "0669",
+      "term": "자다",
+      "definition": "睡觉",
+      "example": "잠을 자다 깼습니다. [cite_start]/ 睡了又醒了。 [cite: 1470]"
+    },
+    {
+      "id": "0670",
+      "term": "곱다",
+      "definition": "漂亮",
+      "example": "노랗고 빨간 단풍이 정말 곱습니다. [cite_start]/ 又黄又红的枫叶真好看。 [cite: 1470]"
+    },
+    {
+      "id": "0671",
+      "term": "자리",
+      "definition": "座位, 位子",
+      "example": "지금 자리에 안 계십니다. [cite_start]/ 现在不在位子上。 [cite: 1470]"
+    },
+    {
+      "id": "0672",
+      "term": "방",
+      "origin": "房",
+      "definition": "房间",
+      "example": "빈 방이 있나요? [cite_start]/ 有空房间吗？ [cite: 1470]"
+    },
+    {
+      "id": "0673",
+      "term": "있다",
+      "definition": "在, 有",
+      "example": "저는 여동생이 한 명 있어요. [cite_start]/ 我有一个妹妹。 [cite: 1470]"
+    },
+    {
+      "id": "0674",
+      "term": "즐기다",
+      "definition": "欢度, 安享",
+      "example": "자신만의 인생을 즐기세요. [cite_start]/ 享受自己的人生吧。 [cite: 1470]"
+    },
+    {
+      "id": "0675",
+      "term": "매다",
+      "definition": "系",
+      "example": "신발 끈을 매고 있습니다. [cite_start]/ 正在系鞋带。 [cite: 1470, 1474]"
+    },
+    {
+      "id": "0676",
+      "term": "감기",
+      "origin": "感氣",
+      "definition": "感冒",
+      "example": "감기에 걸려서 머리가 아프고 콧물이 납니다. [cite_start]/ 感冒了，所以头疼流鼻涕。 [cite: 1478]"
+    },
+    {
+      "id": "0677",
+      "term": "길다",
+      "definition": "长",
+      "example": "길고 짧은 건 대봐야 하지 않겠습니까? / 是长是短要比了才能知道吧？（是骡子是马拉出来遛遛）。",
+      [cite_start]"antonym": "짧다 (短) [cite: 1478]"
+    },
+    {
+      "id": "0678",
+      "term": "만",
+      "origin": "萬",
+      "definition": "万",
+      "example": "다음달부터는 만 원 이상 물건을 사는 손님들께 승차권을 나누어 드립니다. [cite_start]/ 从下个月开始，将给购买一万韩元以上物品的顾客分发车票。 [cite: 1478]"
+    },
+    {
+      "id": "0679",
+      "term": "물론",
+      "origin": "勿論",
+      "definition": "当然",
+      "example": "그거야 물론이죠. / 那当然了。; 이 가수는 국내는 물론 해외에서 각종 무대에 오르고 있습니다. [cite_start]/ 这位歌手不仅在国内，在国外也登上了各种舞台。 [cite: 1478]"
+    },
+    {
+      "id": "0680",
+      "term": "부부",
+      "origin": "夫婦",
+      "definition": "夫妇, 夫妻",
+      "example": "요즘 들어서 남녀 모두가 일하는 맞벌이 부부가 많아지는 추세입니다. [cite_start]/ 近来，夫妻双方都工作的双职工家庭越来越多。 [cite: 1478]"
+    },
+    {
+      "id": "0681",
+      "term": "일식",
+      "origin": "日蝕·日食",
+      "definition": "日食",
+      "example": "일식과 월식은 천문현상입니다. [cite_start]/ 日食和月食是一种天文现象。 [cite: 1478]"
+    },
+    {
+      "id": "0682",
+      "term": "습관",
+      "origin": "習慣",
+      "definition": "习惯",
+      "example": "책을 읽는 습관을 길러야 합니다. [cite_start]/ 要养成读书的习惯。 [cite: 1478]"
+    },
+    {
+      "id": "0683",
+      "term": "자동차",
+      "origin": "自動車",
+      "definition": "汽车",
+      "example": "자동차 회사에 입사했습니다. [cite_start]/ 入职了一家汽车公司。 [cite: 1478]"
+    },
+    {
+      "id": "0684",
+      "term": "몽골",
+      "origin": "Mongol",
+      "definition": "蒙古",
+      "example": "이것은 강건하고도 분방한 몽골 무용이다. [cite_start]/ 这是刚健奔放的蒙古舞。 [cite: 1478]"
+    },
+    {
+      "id": "0685",
+      "term": "일기예보",
+      "origin": "日氣豫報",
+      "definition": "天气预报",
+      "example": "출근 전에 언제나 일기예보를 확인합니다. [cite_start]/ 上班之前总是确认天气预报。 [cite: 1478]"
+    },
+    {
+      "id": "0686",
+      "term": "뭐",
+      "definition": "什么 (무엇的缩略语)",
+      "example": "지금 뭐 하세요? [cite_start]/ 现在在干什么？ [cite: 1478, 1480]"
+    }
+  ],
+  "beginner_unit_15": [
+    {
+      "id": "0687",
+      "term": "최고",
+      "origin": "最高",
+      "definition": "最佳",
+      "example": "지금까지 본 것 중에 최고예요. / 这是我看过的最好的。",
+      [cite_start]"antonym": "최저 (最低) [cite: 1484]"
+    },
+    {
+      "id": "0688",
+      "term": "검은색",
+      "definition": "黑色",
+      "example": "제가 좋아하는 색은 검은색입니다. [cite_start]/ 我喜欢的颜色是黑色。 [cite: 1484]"
+    },
+    {
+      "id": "0689",
+      "term": "가게",
+      "definition": "店铺",
+      "example": "오늘 과일 가게에서 귤을 한 박스 샀습니다. [cite_start]/ 今天在水果店买了一箱橘子。 [cite: 1484]"
+    },
+    {
+      "id": "0690",
+      "term": "짧다",
+      "definition": "短",
+      "example": "바지가 길어서 짧게 고쳤습니다. [cite_start]/ 裤子太长，所以改短了。 [cite: 1484]"
+    },
+    {
+      "id": "0691",
+      "term": "성격",
+      "origin": "性格",
+      "definition": "性格",
+      "example": "저는 어머니하고 성격이 비슷해요. [cite_start]/ 我跟母亲性格相似。 [cite: 1484]"
+    },
+    {
+      "id": "0692",
+      "term": "갈비탕",
+      "definition": "排骨汤",
+      "example": "갈비탕을 한 그릇 주문했습니다. [cite_start]/ 我点了一碗排骨汤。 [cite: 1484]"
+    },
+    {
+      "id": "0693",
+      "term": "사업가",
+      "origin": "事業家",
+      "definition": "企业家",
+      "example": "저는 무역관련 일을 하고 있는 사업가입니다. [cite_start]/ 我是从事贸易的企业家。 [cite: 1484]"
+    },
+    {
+      "id": "0694",
+      "term": "산책",
+      "origin": "散策",
+      "definition": "散步",
+      "example": "아버지는 매일 아침마다 산책을 합니다. [cite_start]/ 爸爸每天早上都去散步。 [cite: 1484]"
+    },
+    {
+      "id": "0695",
+      "term": "두다",
+      "definition": "放, 搁",
+      "example": "지하철에 가방을 두고 내렸어요. [cite_start]/ 我把包落在地铁里了。 [cite: 1484]"
+    },
+    {
+      "id": "0696",
+      "term": "글",
+      "definition": "文字",
+      "example": "그 선생님은 칠판에 글을 쓰고 있습니다. [cite_start]/ 那位老师在黑板上写字。 [cite: 1484]"
+    },
+    {
+      "id": "0697",
+      "term": "처음",
+      "definition": "第一次",
+      "example": "중국어를 배우기는 처음입니다. / 这是第一次学中文。",
+      [cite_start]"antonym": "마지막 (最后) [cite: 1484]"
+    },
+    {
+      "id": "0698",
+      "term": "날짜",
+      "definition": "日期",
+      "example": "모임 날짜가 바뀌었습니다. [cite_start]/ 聚会日期变更了。 [cite: 1484, 1485]"
+    },
+    {
+      "id": "0699",
+      "term": "메뉴",
+      "origin": "menu",
+      "definition": "菜单",
+      "example": "점심 메뉴는 돈까스입니다. [cite_start]/ 午餐菜单是炸猪排。 [cite: 1489]"
+    },
+    {
+      "id": "0700",
+      "term": "청바지",
+      "definition": "牛仔裤",
+      "example": "오늘 청바지에 티셔츠를 입었습니다. [cite_start]/ 今天穿了T恤搭牛仔裤。 [cite: 1489]"
+    },
+    {
+      "id": "0701",
+      "term": "그",
+      "definition": "那",
+      "example": "그 사람 연락처를 아십니까? [cite_start]/ 知道他的联系方式吗？ [cite: 1489]"
+    },
+    {
+      "id": "0702",
+      "term": "그거",
+      "definition": "那个 (그것的口语形)",
+      "example": "그거 하나 주세요. [cite_start]/ 那种给我一个吧。 [cite: 1489]"
+    },
+    {
+      "id": "0703",
+      "term": "그것",
+      "definition": "那个",
+      "example": "그것은 아직 확정되지 않았습니다. [cite_start]/ 那个还没有确定。 [cite: 1489]"
+    },
+    {
+      "id": "0704",
+      "term": "그곳",
+      "definition": "那地方",
+      "example": "그곳에는 많은 사람들이 있었습니다. [cite_start]/ 那里有很多人。 [cite: 1489]"
+    },
+    {
+      "id": "0705",
+      "term": "그날",
+      "definition": "那天",
+      "example": "그날은 집에 사람이 없어요. [cite_start]/ 那天家里没人。 [cite: 1489]"
+    },
+    {
+      "id": "0706",
+      "term": "테이블",
+      "origin": "table",
+      "definition": "桌子, 圆桌",
+      "example": "안경은 테이블 위에 있습니다. [cite_start]/ 眼镜在桌子上。 [cite: 1489]"
+    },
+    {
+      "id": "0707",
+      "term": "나타나다",
+      "definition": "出现",
+      "example": "가장 좋은 효과가 나타납니다. [cite_start]/ 展现出最好的效果。 [cite: 1489]"
+    },
+    {
+      "id": "0708",
+      "term": "현재",
+      "origin": "現在",
+      "definition": "现在, 当前",
+      "example": "현재 기온이 가장 낮은 곳은 춘천입니다. / 现在气温最低的是春川。",
+      [cite_start]"antonym": "과거 (过去) [cite: 1489]"
+    },
+    {
+      "id": "0709",
+      "term": "요금",
+      "origin": "料金",
+      "definition": "费用",
+      "example": "교통카드를 사용하면 버스를 갈아타도 요금을 한 번만 내면 됩니다. [cite_start]/ 如果使用交通卡，换乘公交车时只需支付一次费用。 [cite: 1489]"
+    },
+    {
+      "id": "0710",
+      "term": "도시",
+      "origin": "都市",
+      "definition": "城市",
+      "example": "도시에서 시골로 내려와 귀농합니다. [cite_start]/ 从城里来到农村务农。 [cite: 1489]"
+    },
+    {
+      "id": "0711",
+      "term": "목",
+      "definition": "脖子, 嗓子",
+      "example": "잘못된 자세 때문인지 목이 아픕니다. / 可能是因为错误的姿势，导致脖子很疼。; 기침을 하면 목이 아픕니다. [cite_start]/ 咳嗽的话嗓子会疼。 [cite: 1489]"
+    },
+    {
+      "id": "0712",
+      "term": "생각하다",
+      "definition": "思考",
+      "example": "문제를 읽고 생각하고 있는 답을 선택하세요. [cite_start]/ 读问题后选择一个认为正确的答案。 [cite: 1489, 1498]"
+    },
+    {
+      "id": "0713",
+      "term": "컴퓨터",
+      "origin": "computer",
+      "definition": "电脑",
+      "example": "저는 컴퓨터 회사에 다니고 있습니다. [cite_start]/ 我在电脑公司上班。 [cite: 1498]"
+    },
+    {
+      "id": "0714",
+      "term": "층",
+      "origin": "層",
+      "definition": "层",
+      "example": "3층에 빈 교실이 있습니다. [cite_start]/ 三楼有空教室。 [cite: 1498]"
+    },
+    {
+      "id": "0715",
+      "term": "가족",
+      "origin": "家族",
+      "definition": "家族, 家人",
+      "example": "가족과 함께 동물원에 갔습니다. [cite_start]/ 跟家人一起去了动物园。 [cite: 1498]"
+    },
+    {
+      "id": "0716",
+      "term": "발음",
+      "origin": "發音",
+      "definition": "发音",
+      "example": "틈틈히 발음 연습을 하고 있습니다. [cite_start]/ 抽空会做发音练习。 [cite: 1498]"
+    },
+    {
+      "id": "0717",
+      "term": "마늘",
+      "definition": "大蒜",
+      "example": "마늘은 강한 살균작용이 있습니다. [cite_start]/ 大蒜具有强烈的杀菌作用。 [cite: 1498]"
+    },
+    {
+      "id": "0718",
+      "term": "피자",
+      "origin": "pizza",
+      "definition": "比萨",
+      "example": "피자 한 판 주문할까요? [cite_start]/ 点一份比萨吗？ [cite: 1498]"
+    },
+    {
+      "id": "0719",
+      "term": "구경하다",
+      "definition": "观看",
+      "example": "축구경기를 구경하러 갔습니다. [cite_start]/ 去看了足球比赛。 [cite: 1498]"
+    },
+    {
+      "id": "0720",
+      "term": "이곳",
+      "definition": "这儿, 这个地方",
+      "example": "이곳은 경치가 참 좋습니다. [cite_start]/ 这儿风景很好。 [cite: 1498]"
+    },
+    {
+      "id": "0721",
+      "term": "감자",
+      "definition": "土豆",
+      "example": "감자튀김은 바삭하고 맛있습니다. / 炸薯条又脆又好吃。",
+      [cite_start]"related": "고구마 (地瓜) [cite: 1498]"
+    },
+    {
+      "id": "0722",
+      "term": "해",
+      "definition": "太阳",
+      "example": "내일 아침 새해맞이 해돋이를 보러 갑니다. [cite_start]/ 明天早上去看迎新年的日出。 [cite: 1498]"
+    },
+    {
+      "id": "0723",
+      "term": "떨어지다",
+      "definition": "掉, 下降",
+      "example": "핸드폰이 땅에 떨어졌습니다. / 手机掉在地上了。; 많은 사람들이 모여서 일하면 오히려 업무 효율성이 떨어지기 쉽습니다. [cite_start]/ 如果很多人聚在一起工作，工作效率反而容易下降。 [cite: 1498]"
+    },
+    {
+      "id": "0724",
+      "term": "나누다",
+      "definition": "分配",
+      "example": "일을 서로 나눠서 하면 빨리 끝낼 수 있습니다. [cite_start]/ 进行分工的话，很快就能干完活。 [cite: 1498]"
+    },
+    {
+      "id": "0725",
+      "term": "행사",
+      "origin": "行事",
+      "definition": "活动",
+      "example": "백화점에서는 세일 행사를 하고 있습니다. [cite_start]/ 百货商店正在进行促销活动。 [cite: 1498, 1500]"
+    },
+    {
+      "id": "0726",
+      "term": "가볍다",
+      "definition": "轻",
+      "example": "가볍고 튼튼해서 실용성이 아주 높아요. / 因为又轻又结实，所以实用性很高。",
+      [cite_start]"antonym": "무겁다 (重) [cite: 1504, 1506]"
+    },
+    {
+      "id": "0727",
+      "term": "칠판",
+      "origin": "漆板",
+      "definition": "黑板",
+      "example": "학창시절에 칠판에 낙서를 하던 기억이 나네요. [cite_start]/ 我记得学生时代在黑板上乱涂乱画过。 [cite: 1508, 1509]"
+    },
+    {
+      "id": "0728",
+      "term": "꿈",
+      "definition": "梦",
+      "example": "세계일주가 꿈이었습니다. [cite_start]/ 周游世界是我的梦想。 [cite: 1510, 1511]"
+    },
+    {
+      "id": "0729",
+      "term": "다니다",
+      "definition": "上 (学), 通行",
+      "example": "저는 한국 대학교에 다니고 있어요. [cite_start]/ 我就读于韩国大学。 [cite: 1512, 1513]"
+    },
+    {
+      "id": "0730",
+      "term": "계란",
+      "origin": "鷄卵",
+      "definition": "鸡蛋",
+      "example": "매일 아침마다 계란을 한 개씩 먹습니다. [cite_start]/ 每天早晨吃一个鸡蛋。 [cite: 1514, 1515]"
+    },
+    {
+      "id": "0731",
+      "term": "사이",
+      "definition": "(两个)之间",
+      "example": "친구 사이에 작은 오해가 생긴 것 같아요. [cite_start]/ 朋友之间好像产生了小小的误会。 [cite: 1516, 1517]"
+    },
+    {
+      "id": "0732",
+      "term": "만지다",
+      "definition": "摸",
+      "example": "전시된 그림을 만지지 마시오. [cite_start]/ 请勿触摸展示的画作。 [cite: 1518, 1519]"
+    },
+    {
+      "id": "0733",
+      "term": "상처",
+      "origin": "傷處",
+      "definition": "伤口",
+      "example": "상처에 연고를 바르면 빨리 낫게 됩니다. [cite_start]/ 在伤口上涂软膏可以尽快愈合。 [cite: 1520, 1521]"
+    },
+    {
+      "id": "0734",
+      "term": "넓다",
+      "definition": "宽",
+      "example": "좁은 집에서 넓은 집으로 이사했습니다. / 从狭小的房子搬到了宽敞的房子里。",
+      [cite_start]"antonym": "좁다 (窄) [cite: 1522, 1523]"
+    },
+    {
+      "id": "0735",
+      "term": "흰색",
+      "definition": "白色",
+      "example": "흰색 옷은 쉽게 더러워집니다. [cite_start]/ 白色衣服容易脏。 [cite: 1524, 1525]"
+    },
+    {
+      "id": "0736",
+      "term": "메시지",
+      "origin": "message",
+      "definition": "信息, 短信",
+      "example": "상세 주소는 문자 메시지로 보내드렸습니다. [cite_start]/ 详细地址我已经用短信发给您了。 [cite: 1526, 1527]"
+    },
+    {
+      "id": "0737",
+      "term": "웬일",
+      "definition": "什么事, 某个事情",
+      "example": "여긴 웬일이에요? [cite_start]/ 来这里有什么事吗？ [cite: 1528, 1530]"
+    },
+    {
+      "id": "0738",
+      "term": "그만",
+      "definition": "到此为止, 不再",
+      "example": "그만 자고 어서 일어나요. [cite_start]/ 别睡了，快起床吧。 [cite: 1531, 1532]"
+    },
+    {
+      "id": "0739",
+      "term": "예쁘다",
+      "definition": "漂亮",
+      "example": "색깔이 예쁘고 디자인도 괜찮아요. / 颜色漂亮，设计也不错。",
+      [cite_start]"antonym": "못생기다 (丑) [cite: 1533, 1534, 1536]"
+    }
+  ]
+}

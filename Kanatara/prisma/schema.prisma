@@ -8,15 +8,19 @@ datasource db {
 }
 
 model User {
-  id           Int        @id @default(autoincrement())
-  email        String     @unique
-  passwordHash String
-  inviteCode   InviteCode @relation(fields: [inviteCodeId], references: [id])
+  id           Int            @id @default(autoincrement())
+  email        String         @unique
+  // 关键：将代码里的 passwordHash 映射到数据库里的 password 字段，以匹配 Python 代码
+  passwordHash String         @map("password") 
+  inviteCode   InviteCode     @relation(fields: [inviteCodeId], references: [id])
   inviteCodeId Int
   points       Points?
   tasks        Task[]
-  createdAt    DateTime   @default(now())
-  updatedAt    DateTime   @updatedAt
+  createdAt    DateTime       @default(now())
+  updatedAt    DateTime       @updatedAt
+  progress     WordProgress[]
+
+  @@map("users") // 强制表名为 users
 }
 
 model InviteCode {
@@ -25,18 +29,22 @@ model InviteCode {
   isActive  Boolean  @default(true)
   createdAt DateTime @default(now())
   users     User[]
+
+  @@map("invite_codes")
 }
 
 model Task {
-  id          Int      @id @default(autoincrement())
+  id          Int       @id @default(autoincrement())
   title       String
   description String?
-  points      Int      @default(10)
-  completed   Boolean  @default(false)
-  user        User?    @relation(fields: [userId], references: [id])
+  points      Int       @default(10)
+  completed   Boolean   @default(false)
+  user        User?     @relation(fields: [userId], references: [id])
   userId      Int?
   completedAt DateTime?
-  createdAt   DateTime @default(now())
+  createdAt   DateTime  @default(now())
+
+  @@map("tasks")
 }
 
 model Points {
@@ -45,4 +53,21 @@ model Points {
   user      User     @relation(fields: [userId], references: [id])
   userId    Int      @unique
   updatedAt DateTime @updatedAt
+
+  @@map("points")
+}
+
+model WordProgress {
+  id        Int      @id @default(autoincrement())
+  userId    Int
+  user      User     @relation(fields: [userId], references: [id])
+  bookId    String
+  wordId    String
+  status    String   // 'known', 'fuzzy', 'unknown'
+  updatedAt DateTime @updatedAt
+
+  @@unique([userId, bookId, wordId])
+  @@index([userId])
+
+  @@map("word_progress") // 强制表名为 word_progress
 }

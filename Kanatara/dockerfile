@@ -11,7 +11,7 @@ RUN apt update && apt install -y curl git build-essential
 # 安装 Node.js 20 (通过 NodeSource 官方源)
 RUN curl -fsSL https://deb.nodesource.com/setup_20.x | bash - \
   && apt install -y nodejs \
-  && npm install -g npm
+  && npm install -g npm 
 
 # 设置工作目录
 WORKDIR /app

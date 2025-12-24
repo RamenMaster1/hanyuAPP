@@ -1,160 +1,109 @@
-﻿import { useEffect, useRef, useState } from "react";
-import { ReviewPlan, vocabWords as initialWords } from "../data/sampleData";
+﻿import type { GetServerSideProps, InferGetServerSidePropsType } from "next";
+import Link from "next/link";
+import { getVocabBooks, type VocabBook } from "../lib/vocabBooks";
 import { useAuthGuard } from "../hooks/useAuthGuard";
 
-const VocabPage = () => {
+type Props = {
+  books: VocabBook[];
+};
+
+const sections = [
+  { title: "系统词库", subtitle: "高频词书 · 官方词表", key: "system" },
+  { title: "生词和错词", subtitle: "标记/日历/纠错", key: "new" },
+  { title: "我的词库", subtitle: "自定义 & 用户共享", key: "mine" },
+];
+
+export const getServerSideProps: GetServerSideProps<Props> = async () => {
+  const books = getVocabBooks();
+  return { props: { books } };
+};
+
+const VocabLanding = ({ books }: InferGetServerSidePropsType<typeof getServerSideProps>) => {
   const { user, initializing } = useAuthGuard();
-  const [words, setWords] = useState(initialWords);
-  const [reviewPlan, setReviewPlan] = useState<ReviewPlan | null>(null);
-  const [handwritingMessage, setHandwritingMessage] = useState<string | null>(null);
-  const canvasRef = useRef<HTMLCanvasElement | null>(null);
-  const [drawing, setDrawing] = useState(false);
+  if (!user && !initializing) return null;
 
-  useEffect(() => {
-    const fetchReviewList = async () => {
-      const response = await fetch("/api/vocab/reviewList");
-      const data = await response.json();
-      setReviewPlan(data.plan);
-    };
-    fetchReviewList();
-  }, []);
-
-  const startDrawing = (event: React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>) => {
-    event.preventDefault();
-    setDrawing(true);
-    draw(event);
-  };
-
-  const endDrawing = (event: React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>) => {
-    event.preventDefault();
-    setDrawing(false);
-    const canvas = canvasRef.current;
-    if (canvas) {
-      const ctx = canvas.getContext("2d");
-      ctx?.beginPath();
-    }
-  };
-
-  const draw = (event: React.MouseEvent<HTMLCanvasElement> | React.TouchEvent<HTMLCanvasElement>) => {
-    const canvas = canvasRef.current;
-    if (!drawing || !canvas) return;
-    const ctx = canvas.getContext("2d");
-    if (!ctx) return;
-
-    const rect = canvas.getBoundingClientRect();
-    const clientX = "touches" in event ? event.touches[0].clientX : event.clientX;
-    const clientY = "touches" in event ? event.touches[0].clientY : event.clientY;
-    const x = clientX - rect.left;
-    const y = clientY - rect.top;
-
-    ctx.lineWidth = 3;
-    ctx.lineCap = "round";
-    ctx.strokeStyle = "#2563eb";
-
-    ctx.lineTo(x, y);
-    ctx.stroke();
-    ctx.beginPath();
-    ctx.moveTo(x, y);
-  };
-
-  const clearCanvas = () => {
-    const canvas = canvasRef.current;
-    if (!canvas) return;
-    const ctx = canvas.getContext("2d");
-    ctx?.clearRect(0, 0, canvas.width, canvas.height);
-    ctx?.beginPath();
-    setHandwritingMessage("已清空，继续练习写字吧！");
-  };
-
-  const handleMarkLearned = async (id: number) => {
-    const response = await fetch("/api/vocab/markLearned", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ wordId: id }),
-    });
-    const data = await response.json();
-    if (response.ok) {
-      setWords((prev) => prev.map((word) => (word.id === id ? { ...word, mastered: true } : word)));
-      setHandwritingMessage(data.message);
-    }
-  };
-
-  if (!user && !initializing) {
-    return null;
-  }
+  const systemBooks = books;
+  const placeholderCards = [
+    { title: "生词本", desc: "网站标记不认识的单词", icon: "🙈" },
+    { title: "生词日历", desc: "按日期查看生词记录", icon: "📅" },
+    { title: "错词本", desc: "听写出错的单词", icon: "😵" },
+    { title: "新建自定义词库", desc: "个人词库 · 后端待接入", icon: "➕" },
+  ];
 
   return (
-    <section className="space-y-6">
-      <div>
-        <h1 className="text-2xl font-bold">词汇学习模块</h1>
-        <p className="text-slate-500 text-sm">单词卡片、复习计划、手写练习三位一体。</p>
-      </div>
-      <div className="grid lg:grid-cols-3 gap-5">
-        <div className="lg:col-span-2 space-y-4">
-          {words.map((word) => (
-            <div key={word.id} className="bg-white rounded-xl border p-4 flex items-center justify-between gap-4">
+    <div className="min-h-screen bg-white text-gray-900">
+      <header className="max-w-7xl mx-auto px-6 py-8 flex items-center justify-between">
+        <div>
+          <p className="text-sm text-gray-500">继续学习</p>
+          <h1 className="text-3xl font-bold mt-1 text-gray-900">词汇学习 · 词库总览</h1>
+        </div>
+        <div className="text-sm text-gray-600">共 {books.length} 本词库</div>
+      </header>
+
+      <main className="max-w-7xl mx-auto px-6 pb-10 space-y-10">
+        <section>
+          <h2 className="text-lg font-semibold mb-3 text-gray-900">{sections[0].title}</h2>
+          <p className="text-sm text-gray-500 mb-4">{sections[0].subtitle}</p>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+            {systemBooks.map((book, idx) => (
+              <Link
+                key={book.id}
+                href={`/vocab/${encodeURIComponent(book.id)}/learn`}
+                className="group bg-gradient-to-br from-slate-50 to-slate-100 border border-slate-200 rounded-2xl p-4 flex items-center gap-4 hover:-translate-y-1 hover:border-primary transition"
+              >
+                <div className="h-14 w-14 rounded-xl bg-slate-200 flex items-center justify-center text-2xl">
+                  {String.fromCodePoint(0x1f4d6 + (idx % 4))}
+                </div>
+                <div className="flex-1">
+                  <p className="font-semibold text-gray-900">{book.title}</p>
+                  <p className="text-xs text-gray-600 mt-1">词条 {book.total} · 单元 {book.units.length || "-"} </p>
+                  <p className="text-[11px] text-primary mt-1">进入记忆 / 复习</p>
+                </div>
+              </Link>
+            ))}
+          </div>
+        </section>
+
+        <section>
+          <h2 className="text-lg font-semibold mb-3 text-gray-900">{sections[1].title}</h2>
+          <p className="text-sm text-gray-500 mb-4">{sections[1].subtitle}</p>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+            {placeholderCards.slice(0, 3).map((card) => (
+              <div
+                key={card.title}
+                className="bg-slate-50 border border-slate-200 rounded-2xl p-4 flex items-center gap-4"
+              >
+                <div className="h-14 w-14 rounded-xl bg-slate-200 flex items-center justify-center text-2xl">
+                  {card.icon}
+                </div>
+                <div>
+                  <p className="font-semibold text-gray-900">{card.title}</p>
+                  <p className="text-xs text-gray-600 mt-1">{card.desc}</p>
+                </div>
+              </div>
+            ))}
+          </div>
+        </section>
+
+        <section>
+          <h2 className="text-lg font-semibold mb-3 text-gray-900">{sections[2].title}</h2>
+          <p className="text-sm text-gray-500 mb-4">{sections[2].subtitle}</p>
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4">
+            <div className="bg-slate-50 border border-dashed border-slate-300 rounded-2xl p-4 flex items-center gap-4">
+              <div className="h-14 w-14 rounded-xl bg-slate-200 flex items-center justify-center text-2xl">
+                {placeholderCards[3].icon}
+              </div>
               <div>
-                <p className="text-xl font-semibold">{word.word}</p>
-                <p className="text-sm text-slate-500">{word.translation} · {word.level}</p>
-                <p className="text-xs text-slate-400 mt-1">例句：{word.example}</p>
+                <p className="font-semibold text-gray-900">{placeholderCards[3].title}</p>
+                <p className="text-xs text-gray-600 mt-1">{placeholderCards[3].desc}</p>
+                <p className="text-[11px] text-primary mt-1">TODO：后端创建/共享接口</p>
               </div>
-              <button
-                onClick={() => handleMarkLearned(word.id)}
-                disabled={word.mastered}
-                className={`px-4 py-2 rounded-md text-sm ${
-                  word.mastered ? "bg-green-100 text-green-600" : "bg-primary text-white"
-                }`}
-              >
-                {word.mastered ? "已掌握" : "标记已掌握"}
-              </button>
             </div>
-          ))}
-        </div>
-        <div className="space-y-5">
-          <div className="bg-white rounded-xl border p-4">
-            <h3 className="font-semibold mb-2">复习计划 API</h3>
-            {reviewPlan ? (
-              <div className="text-sm text-slate-600 space-y-2">
-                <p>?? 日期：{new Date(reviewPlan.date).toLocaleDateString()}</p>
-                <p>?? 复习词：{reviewPlan.words.join(", ")}</p>
-                <p>?? 提示：{reviewPlan.tip}</p>
-              </div>
-            ) : (
-              <p>加载复习计划...</p>
-            )}
           </div>
-          <div className="bg-white rounded-xl border p-4 space-y-3">
-            <h3 className="font-semibold">手写练习（Canvas 模拟）</h3>
-            <canvas
-              ref={canvasRef}
-              width={320}
-              height={200}
-              className="border rounded-lg w-full"
-              onMouseDown={startDrawing}
-              onMouseMove={draw}
-              onMouseUp={endDrawing}
-              onMouseLeave={endDrawing}
-              onTouchStart={startDrawing}
-              onTouchMove={draw}
-              onTouchEnd={endDrawing}
-            />
-            <div className="flex gap-2">
-              <button onClick={clearCanvas} className="flex-1 border rounded-md py-2">清空</button>
-              <button
-                onClick={() => setHandwritingMessage("练字完成！未来可上传识别。")}
-                className="flex-1 bg-secondary text-white rounded-md"
-              >
-                记录完成
-              </button>
-            </div>
-            {handwritingMessage && <p className="text-xs text-slate-500">{handwritingMessage}</p>}
-          </div>
-        </div>
-      </div>
-    </section>
+        </section>
+      </main>
+    </div>
   );
 };
 
-export default VocabPage;
-
-
+export default VocabLanding;

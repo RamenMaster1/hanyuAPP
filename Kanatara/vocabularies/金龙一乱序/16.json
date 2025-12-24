@@ -1,0 +1,1450 @@
+{
+  "intermediate_unit_17": [
+    {
+      "id": "1754",
+      "term": "수단",
+      "origin": "手段",
+      "definition": "手段, 方法",
+      "example": "이 질병의 치료를 막는 수단은 수술을 하는 것이다. / 治疗这种疾病的手段是做手术。",
+      "related": "조언 (助言)"
+    },
+    {
+      "id": "1755",
+      "term": "알코올",
+      "origin": "alcohol",
+      "definition": "酒精",
+      "example": "한국의 1인당 알코올 소비는 2008년 9.5L에서 2011년 14.8L로 증가했다. / 韩国人均酒精消费量从2008年的9.5升增加到2011年的14.8升。"
+    },
+    {
+      "id": "1756",
+      "term": "과부하",
+      "origin": "過負荷",
+      "definition": "超负荷",
+      "example": "브레이크가 과부하로 인해 고장이 났지만 다행히 인명 피해는 발생하지 않았다. / 刹车超负荷发生故障,但幸好没有发生人员伤亡。",
+      "related": "다행 (多幸)"
+    },
+    {
+      "id": "1757",
+      "term": "다행",
+      "origin": "多幸",
+      "definition": "庆幸, 幸亏",
+      "example": "오늘 오전 10시에 교통사고가 발생했지만 다행히 인명 피해는 발생하지 않았다. / 今天上午10点发生交通事故,幸亏未发生人员伤亡。"
+    },
+    {
+      "id": "1758",
+      "term": "교양",
+      "origin": "教養",
+      "definition": "教养, 知识",
+      "example": "이 제도의 취지는 학업을 하는 학생들의 기본 교양 수준을 높이는 것이다. / 该制度的宗旨是在提高学生的基本素养。",
+      "related": "교양 프로그램 (知识节目)"
+    },
+    {
+      "id": "1759",
+      "term": "다정하다",
+      "origin": "多情",
+      "definition": "亲切, 友善",
+      "example": "두 사람은 다정한 분위기 속에서 이야기를 나누었다. / 两个人在亲切的氛围中进行了交谈。"
+    },
+    {
+      "id": "1760",
+      "term": "방해하다",
+      "origin": "妨害",
+      "definition": "妨碍, 阻挠",
+      "example": "음악회에서 박수나 함성으로 연주자의 집중력을 방해할 수 있다. / 在音乐会上,如果鼓掌或欢呼,可能会妨碍演奏者的注意力。"
+    },
+    {
+      "id": "1761",
+      "term": "무조건",
+      "origin": "无條件",
+      "definition": "无条件地, 绝对",
+      "example": "무조건적인 요구. / 无条件的要求。"
+    },
+    {
+      "id": "1762",
+      "term": "실패",
+      "origin": "失敗",
+      "definition": "失败",
+      "example": "많은 사람들이 실패를 두려워한다. / 很多人害怕失败。"
+    },
+    {
+      "id": "1763",
+      "term": "도대체",
+      "origin": "都大体",
+      "definition": "到底, 究竟",
+      "example": "도대체 무슨 일이야? / 到底是什么事？"
+    },
+    {
+      "id": "1764",
+      "term": "아끼다",
+      "definition": "节省, 珍惜",
+      "example": "돈을 아끼다. / 节省钱。"
+    },
+    {
+      "id": "1765",
+      "term": "범죄",
+      "origin": "犯罪",
+      "definition": "犯罪",
+      "example": "범죄율이 높다. / 犯罪率高。"
+    },
+    {
+      "id": "1766",
+      "term": "까마귀",
+      "definition": "乌鸦",
+      "example": "까마귀 날자 배 떨어진다. / 乌鸦飞走,梨子掉落。比喻毫无关系的事情同时发生,让人怀疑有关联。"
+    },
+    {
+      "id": "1767",
+      "term": "노동력",
+      "origin": "勞动力",
+      "definition": "劳动力",
+      "example": "청년들의 노동력 부족 현상. / 年轻人劳动力不足的现象。"
+    },
+    {
+      "id": "1768",
+      "term": "타이르다",
+      "definition": "劝说",
+      "example": "친구에게 타이르다. / 劝说朋友。"
+    },
+    {
+      "id": "1769",
+      "term": "배경",
+      "origin": "背景",
+      "definition": "背景",
+      "example": "드라마의 배경. / 电视剧的背景。"
+    },
+    {
+      "id": "1770",
+      "term": "직면하다",
+      "origin": "直面",
+      "definition": "面对",
+      "example": "어려움에 직면하다. / 面对困难。"
+    },
+    {
+      "id": "1771",
+      "term": "체계적",
+      "origin": "体系的",
+      "definition": "系统的",
+      "example": "체계적인 계획. / 系统的计划。"
+    },
+    {
+      "id": "1772",
+      "term": "도입",
+      "origin": "導入",
+      "definition": "引入",
+      "example": "새로운 시스템을 도입하다. / 引入新系统。"
+    },
+    {
+      "id": "1773",
+      "term": "수산물",
+      "origin": "水産物",
+      "definition": "水产品",
+      "example": "수산물을 판매하다. / 销售水产品。"
+    },
+    {
+      "id": "1774",
+      "term": "게시",
+      "origin": "掲示",
+      "definition": "公告, 告示",
+      "example": "홈페이지에 게시하다. / 在主页上公告。"
+    },
+    {
+      "id": "1775",
+      "term": "물자",
+      "origin": "物資",
+      "definition": "物资",
+      "example": "긴급 물자. / 紧急物资。"
+    },
+    {
+      "id": "1776",
+      "term": "단정하다",
+      "origin": "断定",
+      "definition": "断定",
+      "example": "사실을 단정하다. / 断定事实。"
+    },
+    {
+      "id": "1777",
+      "term": "보상",
+      "origin": "報償",
+      "definition": "补偿",
+      "example": "피해 보상. / 损害补偿。"
+    },
+    {
+      "id": "1778",
+      "term": "시장",
+      "origin": "市場",
+      "definition": "市场",
+      "example": "시장을 조사하다. / 调查市场。"
+    },
+    {
+      "id": "1779",
+      "term": "배려",
+      "origin": "配慮",
+      "definition": "关怀",
+      "example": "타인을 배려하다. / 关怀他人。"
+    },
+    {
+      "id": "1780",
+      "term": "부적절하다",
+      "origin": "不適切",
+      "definition": "不适当",
+      "example": "부적절한 발언. / 不适当的发言。"
+    },
+    {
+      "id": "1781",
+      "term": "유동",
+      "origin": "流動",
+      "definition": "流动",
+      "example": "인구 유동. / 人口流动。"
+    },
+    {
+      "id": "1782",
+      "term": "시달리다",
+      "definition": "受苦",
+      "example": "스트레스에 시달리다. / 饱受压力之苦。"
+    },
+    {
+      "id": "1783",
+      "term": "지시하다",
+      "origin": "指示",
+      "definition": "指示",
+      "example": "상사의 지시. / 上司的指示。"
+    },
+    {
+      "id": "1784",
+      "term": "구조",
+      "origin": "构造",
+      "definition": "结构",
+      "example": "조직 구조. / 组织结构。"
+    },
+    {
+      "id": "1785",
+      "term": "완벽하다",
+      "origin": "完璧",
+      "definition": "完美",
+      "example": "완벽한 준비. / 完美的准备。"
+    },
+    {
+      "id": "1786",
+      "term": "비례하다",
+      "origin": "比例",
+      "definition": "成比例",
+      "example": "능력에 비례하다. / 与能力成比例。"
+    },
+    {
+      "id": "1787",
+      "term": "연극",
+      "origin": "演劇",
+      "definition": "话剧",
+      "example": "연극을 보다. / 看话剧。"
+    },
+    {
+      "id": "1788",
+      "term": "곡선",
+      "origin": "曲線",
+      "definition": "曲线",
+      "example": "곡선으로 이루어진 디자인. / 由曲线构成的设计。"
+    },
+    {
+      "id": "1789",
+      "term": "시청하다",
+      "origin": "視聴",
+      "definition": "收看",
+      "example": "드라마를 시청하다. / 收看电视剧。"
+    },
+    {
+      "id": "1790",
+      "term": "시청률",
+      "origin": "視聴率",
+      "definition": "收视率",
+      "example": "시청률이 높다. / 收视率高。"
+    },
+    {
+      "id": "1791",
+      "term": "활짝",
+      "definition": "完全, 完全",
+      "example": "꽃이 활짝 피다. / 花完全开了。"
+    },
+    {
+      "id": "1792",
+      "term": "몫",
+      "definition": "份额",
+      "example": "각자의 몫. / 各自的份额。"
+    },
+    {
+      "id": "1793",
+      "term": "물자",
+      "origin": "物資",
+      "definition": "物资 (重复)",
+      "example": "물자를 조달하다. / 筹集物资。"
+    },
+    {
+      "id": "1794",
+      "term": "단정하다",
+      "origin": "断定",
+      "definition": "断定 (重复)",
+      "example": "단정하기 어렵다. / 难以断定。"
+    },
+    {
+      "id": "1795",
+      "term": "보상",
+      "origin": "報償",
+      "definition": "补偿 (重复)",
+      "example": "피해 보상. / 损害补偿。"
+    },
+    {
+      "id": "1796",
+      "term": "시장",
+      "origin": "市場",
+      "definition": "市场 (重复)",
+      "example": "주식 시장. / 股票市场。"
+    },
+    {
+      "id": "1797",
+      "term": "배려",
+      "origin": "配慮",
+      "definition": "关怀 (重复)",
+      "example": "타인에 대한 배려. / 对他人的关怀。"
+    },
+    {
+      "id": "1798",
+      "term": "부적절하다",
+      "origin": "不適切",
+      "definition": "不适当 (重复)",
+      "example": "부적절한 행동. / 不适当的行为。"
+    },
+    {
+      "id": "1799",
+      "term": "유동",
+      "origin": "流動",
+      "definition": "流动 (重复)",
+      "example": "유동 인구. / 流动人口。"
+    },
+    {
+      "id": "1800",
+      "term": "시달리다",
+      "definition": "受苦 (重复)",
+      "example": "가난에 시달리다. / 饱受贫穷之苦。"
+    },
+    {
+      "id": "1801",
+      "term": "지시하다",
+      "origin": "指示",
+      "definition": "指示 (重复)",
+      "example": "작업 지시. / 作业指示。"
+    },
+    {
+      "id": "1802",
+      "term": "구조",
+      "origin": "构造",
+      "definition": "结构 (重复)",
+      "example": "건물 구조. / 建筑物结构。"
+    },
+    {
+      "id": "1803",
+      "term": "완벽하다",
+      "origin": "完璧",
+      "definition": "完美 (重复)",
+      "example": "완벽한 몸매. / 完美的身材。"
+    },
+    {
+      "id": "1804",
+      "term": "비례하다",
+      "origin": "比例",
+      "definition": "成比例 (重复)",
+      "example": "소득에 비례하다. / 与收入成比例。"
+    },
+    {
+      "id": "1805",
+      "term": "연극",
+      "origin": "演劇",
+      "definition": "话剧 (重复)",
+      "example": "연극 공연. / 话剧演出。"
+    },
+    {
+      "id": "1806",
+      "term": "곡선",
+      "origin": "曲線",
+      "definition": "曲线 (重复)",
+      "example": "곡선미. / 曲线美。"
+    },
+    {
+      "id": "1807",
+      "term": "시청하다",
+      "origin": "視聴",
+      "definition": "收看 (重复)",
+      "example": "뉴스 시청. / 收看新闻。"
+    },
+    {
+      "id": "1808",
+      "term": "시청률",
+      "origin": "視聴率",
+      "definition": "收视率 (重复)",
+      "example": "드라마 시청률. / 电视剧收视率。"
+    },
+    {
+      "id": "1809",
+      "term": "활짝",
+      "definition": "完全 (重复)",
+      "example": "웃음꽃이 활짝 피다. / 笑容完全绽放。"
+    },
+    {
+      "id": "1810",
+      "term": "몫",
+      "definition": "份额 (重复)",
+      "example": "각자 몫. / 各自的份额。"
+    },
+    {
+      "id": "1811",
+      "term": "물자",
+      "origin": "物資",
+      "definition": "物资 (重复)",
+      "example": "물자 부족. / 物资不足。"
+    },
+    {
+      "id": "1812",
+      "term": "단정하다",
+      "origin": "断定",
+      "definition": "断定 (重复)",
+      "example": "단정할 수 없다. / 无法断定。"
+    },
+    {
+      "id": "1813",
+      "term": "보상",
+      "origin": "報償",
+      "definition": "补偿 (重复)",
+      "example": "금전적 보상. / 金钱补偿。"
+    },
+    {
+      "id": "1814",
+      "term": "시장",
+      "origin": "市場",
+      "definition": "市场 (重复)",
+      "example": "재래 시장. / 传统市场。"
+    },
+    {
+      "id": "1815",
+      "term": "배려",
+      "origin": "配慮",
+      "definition": "关怀 (重复)",
+      "example": "배려심. / 关怀心。"
+    },
+    {
+      "id": "1816",
+      "term": "부적절하다",
+      "origin": "不適切",
+      "definition": "不适当 (重复)",
+      "example": "부적절한 관계. / 不适当的关系。"
+    },
+    {
+      "id": "1817",
+      "term": "유동",
+      "origin": "流動",
+      "definition": "流动 (重复)",
+      "example": "유동 자금. / 流动资金。"
+    },
+    {
+      "id": "1818",
+      "term": "시달리다",
+      "definition": "受苦 (重复)",
+      "example": "업무에 시달리다. / 饱受工作之苦。"
+    },
+    {
+      "id": "1819",
+      "term": "지시하다",
+      "origin": "指示",
+      "definition": "指示 (重复)",
+      "example": "지시를 따르다. / 服从指示。"
+    },
+    {
+      "id": "1820",
+      "term": "구조",
+      "origin": "构造",
+      "definition": "结构 (重复)",
+      "example": "조직 구조. / 组织结构。"
+    },
+    {
+      "id": "1821",
+      "term": "완벽하다",
+      "origin": "完璧",
+      "definition": "完美 (重复)",
+      "example": "완벽한 조건. / 完美的条件。"
+    },
+    {
+      "id": "1822",
+      "term": "비례하다",
+      "origin": "比例",
+      "definition": "成比例 (重复)",
+      "example": "노력에 비례하다. / 与努力成比例。"
+    },
+    {
+      "id": "1823",
+      "term": "연극",
+      "origin": "演劇",
+      "definition": "话剧 (重复)",
+      "example": "연극 무대. / 话剧舞台。"
+    }
+  ],
+  "intermediate_unit_18": [
+    {
+      "id": "1831",
+      "term": "인상",
+      "origin": "引上",
+      "definition": "提高, 上涨",
+      "example": "봉급 인상. / 工资上涨。"
+    },
+    {
+      "id": "1832",
+      "term": "거미",
+      "definition": "蜘蛛",
+      "example": "거미줄에 걸린 곤충. / 挂在蜘蛛网上的昆虫。"
+    },
+    {
+      "id": "1833",
+      "term": "몰락하다",
+      "origin": "没落",
+      "definition": "没落, 衰败",
+      "example": "가문이 몰락하다. / 家门衰败。"
+    },
+    {
+      "id": "1834",
+      "term": "무궁무진",
+      "origin": "无穷无尽",
+      "definition": "无穷无尽",
+      "example": "가능성이 무궁무진하다. / 可能性无穷无尽。"
+    },
+    {
+      "id": "1835",
+      "term": "소홀하다",
+      "origin": "疎忽",
+      "definition": "疏忽, 忽略",
+      "example": "소홀히 관리하다. / 疏忽管理。"
+    },
+    {
+      "id": "1836",
+      "term": "담장",
+      "origin": "塀",
+      "definition": "墙, 篱笆",
+      "example": "담장이 높다. / 墙高。"
+    },
+    {
+      "id": "1837",
+      "term": "언급하다",
+      "origin": "言及",
+      "definition": "提到, 提及",
+      "example": "이 문제에 대해 언급했다. / 提到了这个问题。"
+    },
+    {
+      "id": "1838",
+      "term": "구조되다",
+      "origin": "救助",
+      "definition": "被救助",
+      "example": "물에 빠진 사람이 구조되다. / 落水的人被救助。"
+    },
+    {
+      "id": "1839",
+      "term": "당차다",
+      "origin": "堂",
+      "definition": "大胆, 有魄力",
+      "example": "당찬 모습. / 大胆的样子。"
+    },
+    {
+      "id": "1840",
+      "term": "도리어",
+      "definition": "反而",
+      "example": "쉽다고 생각했는데 도리어 어렵다. / 本以为简单,反而难。"
+    },
+    {
+      "id": "1841",
+      "term": "주목",
+      "origin": "注目",
+      "definition": "关注, 注意",
+      "example": "주목을 받다. / 受到关注。"
+    },
+    {
+      "id": "1842",
+      "term": "여지",
+      "origin": "余地",
+      "definition": "余地, 空间",
+      "example": "여지가 없다. / 没有余地。"
+    },
+    {
+      "id": "1843",
+      "term": "중고품",
+      "origin": "中古品",
+      "definition": "二手货",
+      "example": "중고품을 사다. / 买二手货。"
+    },
+    {
+      "id": "1844",
+      "term": "무력하다",
+      "origin": "無力",
+      "definition": "无力, 软弱",
+      "example": "무력한 상태. / 无力状态。"
+    },
+    {
+      "id": "1845",
+      "term": "필자",
+      "origin": "笔者",
+      "definition": "笔者",
+      "example": "필자의 생각. / 笔者的想法。"
+    },
+    {
+      "id": "1846",
+      "term": "농부",
+      "origin": "農夫",
+      "definition": "农夫",
+      "example": "농부가 밭을 갈다. / 农夫耕田。"
+    },
+    {
+      "id": "1847",
+      "term": "생계",
+      "origin": "生計",
+      "definition": "生计",
+      "example": "생계를 유지하다. / 维持生计。"
+    },
+    {
+      "id": "1848",
+      "term": "인력",
+      "origin": "人力",
+      "definition": "人力",
+      "example": "인력 부족. / 人力不足。"
+    },
+    {
+      "id": "1849",
+      "term": "논하다",
+      "origin": "論",
+      "definition": "议论, 论述",
+      "example": "정책을 논하다. / 议论政策。"
+    },
+    {
+      "id": "1850",
+      "term": "혜택",
+      "origin": "惠泽",
+      "definition": "恩惠, 好处",
+      "example": "혜택을 받다. / 得到恩惠。"
+    },
+    {
+      "id": "1851",
+      "term": "오른손잡이",
+      "definition": "右撇子",
+      "example": "오른손잡이가 많다. / 右撇子多。"
+    },
+    {
+      "id": "1852",
+      "term": "저작권",
+      "origin": "著作權",
+      "definition": "著作权",
+      "example": "저작권을 보호하다. / 保护著作权。"
+    },
+    {
+      "id": "1853",
+      "term": "반도체",
+      "origin": "半導体",
+      "definition": "半导体",
+      "example": "반도체 산업. / 半导体产业。"
+    },
+    {
+      "id": "1854",
+      "term": "요건",
+      "origin": "要件",
+      "definition": "要素, 要求",
+      "example": "자격 요건. / 资格要求。"
+    },
+    {
+      "id": "1855",
+      "term": "당나라",
+      "origin": "唐나라",
+      "definition": "唐朝",
+      "example": "당나라의 문화. / 唐朝文化。"
+    },
+    {
+      "id": "1856",
+      "term": "무덤",
+      "origin": "墓地",
+      "definition": "坟墓 (重复)",
+      "example": "무덤을 파다. / 挖坟墓。"
+    },
+    {
+      "id": "1857",
+      "term": "충격",
+      "origin": "冲激",
+      "definition": "冲击, 冲撞",
+      "example": "충격을 받다. / 受到冲击。"
+    },
+    {
+      "id": "1858",
+      "term": "미덕",
+      "origin": "美徳",
+      "definition": "美德",
+      "example": "겸손은 미덕이다. / 谦虚是美德。"
+    },
+    {
+      "id": "1859",
+      "term": "담당자",
+      "origin": "担当者",
+      "definition": "负责人",
+      "example": "담당자를 찾다. / 找负责人。"
+    },
+    {
+      "id": "1860",
+      "term": "전염병",
+      "origin": "傳染病",
+      "definition": "传染病",
+      "example": "전염병 예방. / 传染病预防。"
+    },
+    {
+      "id": "1861",
+      "term": "방부",
+      "origin": "防腐",
+      "definition": "防腐",
+      "example": "방부제를 사용하다. / 使用防腐剂。"
+    },
+    {
+      "id": "1862",
+      "term": "소각",
+      "origin": "烧却",
+      "definition": "焚烧",
+      "example": "쓰레기를 소각하다. / 焚烧垃圾。"
+    },
+    {
+      "id": "1863",
+      "term": "보석",
+      "origin": "宝石",
+      "definition": "宝石, 珠宝",
+      "example": "보석을 착용하다. / 佩戴珠宝。"
+    },
+    {
+      "id": "1864",
+      "term": "도심",
+      "origin": "都心",
+      "definition": "市中心",
+      "example": "도심 공원. / 市中心公园。"
+    },
+    {
+      "id": "1865",
+      "term": "수면",
+      "origin": "睡眠",
+      "definition": "睡眠",
+      "example": "수면 부족. / 睡眠不足。"
+    },
+    {
+      "id": "1866",
+      "term": "곤충",
+      "origin": "昆虫",
+      "definition": "昆虫",
+      "example": "곤충 채집. / 昆虫采集。"
+    },
+    {
+      "id": "1867",
+      "term": "걸레",
+      "definition": "抹布",
+      "example": "바닥을 걸레로 닦다. / 用抹布擦地板。"
+    },
+    {
+      "id": "1868",
+      "term": "탈바꿈하다",
+      "definition": "蜕变, 转型",
+      "example": "도시가 탈바꿈하다. / 城市转型。"
+    },
+    {
+      "id": "1869",
+      "term": "쿠폰",
+      "origin": "coupon",
+      "definition": "优惠券",
+      "example": "쿠폰을 사용하다. / 使用优惠券。"
+    },
+    {
+      "id": "1870",
+      "term": "특권",
+      "origin": "特権",
+      "definition": "特权",
+      "example": "특권을 누리다. / 享受特权。"
+    },
+    {
+      "id": "1871",
+      "term": "스티커",
+      "origin": "sticker",
+      "definition": "贴纸",
+      "example": "스티커를 붙이다. / 贴贴纸。"
+    },
+    {
+      "id": "1872",
+      "term": "묵인",
+      "origin": "黙認",
+      "definition": "默许",
+      "example": "잘못을 묵인하다. / 默许错误。"
+    },
+    {
+      "id": "1873",
+      "term": "전자파",
+      "origin": "電磁波",
+      "definition": "电磁波",
+      "example": "전자파 차단. / 阻挡电磁波。"
+    },
+    {
+      "id": "1874",
+      "term": "특산물",
+      "origin": "特産物",
+      "definition": "特产",
+      "example": "지역 특산물. / 地区特产。"
+    }
+  ],
+  "intermediate_unit_19": [
+    {
+      "id": "1875",
+      "term": "닳다",
+      "definition": "磨损, 耗尽",
+      "example": "신발이 닳다. / 鞋磨损了。"
+    },
+    {
+      "id": "1876",
+      "term": "고이",
+      "definition": "美好地, 仔细地",
+      "example": "선물을 고이 포장하다. / 仔细地包裹礼物。"
+    },
+    {
+      "id": "1877",
+      "term": "결혼",
+      "origin": "結婚",
+      "definition": "结婚",
+      "example": "결혼 생활. / 婚姻生活。"
+    },
+    {
+      "id": "1878",
+      "term": "흥분",
+      "origin": "興奮",
+      "definition": "兴奋, 激动",
+      "example": "흥분해서 소리치다. / 兴奋得大喊。"
+    },
+    {
+      "id": "1879",
+      "term": "추방",
+      "origin": "追放",
+      "definition": "驱逐, 流放",
+      "example": "추방되다. / 被驱逐。"
+    },
+    {
+      "id": "1880",
+      "term": "미덕",
+      "origin": "美徳",
+      "definition": "美德 (重复)",
+      "example": "겸손은 미덕. / 谦虚是美德。"
+    },
+    {
+      "id": "1884",
+      "term": "마라톤",
+      "origin": "marathon",
+      "definition": "马拉松",
+      "example": "마라톤에 참가하다. / 参加马拉松。",
+      "related": "마라톤 풀 코스 (全程马拉松)"
+    },
+    {
+      "id": "1885",
+      "term": "비극",
+      "origin": "悲劇",
+      "definition": "悲剧",
+      "example": "비극적인 결말. / 悲剧性的结局。"
+    },
+    {
+      "id": "1886",
+      "term": "예산",
+      "origin": "預算",
+      "definition": "预算",
+      "example": "예산을 절감하다. / 削减预算。"
+    },
+    {
+      "id": "1887",
+      "term": "지혜",
+      "origin": "智慧",
+      "definition": "智慧",
+      "example": "지혜로운 사람. / 有智慧的人。"
+    },
+    {
+      "id": "1888",
+      "term": "방언",
+      "origin": "方言",
+      "definition": "方言",
+      "example": "방언을 사용하다. / 使用方言。"
+    },
+    {
+      "id": "1889",
+      "term": "세금",
+      "origin": "税金",
+      "definition": "税收",
+      "example": "세금을 내다. / 交税。"
+    },
+    {
+      "id": "1890",
+      "term": "바람직하다",
+      "definition": "值得推荐, 适当",
+      "example": "바람직한 태도. / 适当的态度。"
+    },
+    {
+      "id": "1891",
+      "term": "의약품",
+      "origin": "医薬品",
+      "definition": "药品",
+      "example": "의약품을 구입하다. / 购买药品。"
+    },
+    {
+      "id": "1892",
+      "term": "직장인",
+      "origin": "职场人",
+      "definition": "上班族",
+      "example": "직장인의 고민. / 上班族的烦恼。"
+    },
+    {
+      "id": "1893",
+      "term": "통신기술",
+      "origin": "通信技術",
+      "definition": "通信技术",
+      "example": "통신기술이 발달하다. / 通信技术发达。"
+    },
+    {
+      "id": "1894",
+      "term": "원칙",
+      "origin": "原則",
+      "definition": "原则",
+      "example": "원칙을 지키다. / 遵守原则。"
+    },
+    {
+      "id": "1895",
+      "term": "대나무",
+      "origin": "竹",
+      "definition": "竹子",
+      "example": "대나무 숲. / 竹林。"
+    },
+    {
+      "id": "1896",
+      "term": "연결선",
+      "origin": "連繋線",
+      "definition": "连接线",
+      "example": "연결선을 확인하다. / 确认连接线。"
+    },
+    {
+      "id": "1897",
+      "term": "영재",
+      "origin": "英才",
+      "definition": "英才, 天才",
+      "example": "영재 교육. / 英才教育。"
+    },
+    {
+      "id": "1898",
+      "term": "가치관",
+      "origin": "価値観",
+      "definition": "价值观",
+      "example": "가치관의 변화. / 价值观的变化。"
+    },
+    {
+      "id": "1899",
+      "term": "중동",
+      "origin": "中東",
+      "definition": "中东",
+      "example": "중동 지역. / 中东地区。"
+    },
+    {
+      "id": "1900",
+      "term": "옥수수",
+      "definition": "玉米",
+      "example": "옥수수를 심다. / 种玉米。"
+    },
+    {
+      "id": "1901",
+      "term": "히아신스",
+      "definition": "风信子",
+      "example": "히아신스 꽃. / 风信子花。"
+    },
+    {
+      "id": "1902",
+      "term": "파푸아",
+      "origin": "Papua",
+      "definition": "巴布亚 (新几内亚)",
+      "example": "파푸아 뉴기니. / 巴布亚新几内亚。"
+    },
+    {
+      "id": "1903",
+      "term": "복권",
+      "origin": "福券",
+      "definition": "彩票",
+      "example": "복권에 당첨되다. / 中彩票。"
+    },
+    {
+      "id": "1904",
+      "term": "마라톤",
+      "origin": "marathon",
+      "definition": "马拉松 (重复)",
+      "example": "마라톤 대회를 열다. / 举办马拉松大会。"
+    },
+    {
+      "id": "1905",
+      "term": "애국심",
+      "origin": "爱国心",
+      "definition": "爱国心",
+      "example": "애국심이 강하다. / 爱国心强。"
+    },
+    {
+      "id": "1906",
+      "term": "작가",
+      "origin": "作家",
+      "definition": "作家",
+      "example": "작가의 작품. / 作家的作品。"
+    },
+    {
+      "id": "1907",
+      "term": "현상",
+      "origin": "現象",
+      "definition": "现象",
+      "example": "사회 현상. / 社会现象。"
+    },
+    {
+      "id": "1908",
+      "term": "청문",
+      "origin": "聴問",
+      "definition": "听证, 听取",
+      "example": "청문회를 개최하다. / 举办听证会。"
+    },
+    {
+      "id": "1909",
+      "term": "동료애",
+      "origin": "同僚愛",
+      "definition": "同僚爱 (重复)",
+      "example": "동료애가 부족하다. / 同僚爱不足。"
+    },
+    {
+      "id": "1910",
+      "term": "동화",
+      "origin": "童話",
+      "definition": "童话",
+      "example": "동화를 읽다. / 读童话。"
+    },
+    {
+      "id": "1911",
+      "term": "어색하다",
+      "definition": "生硬, 尴尬",
+      "example": "어색한 분위기. / 尴尬的氛围。"
+    },
+    {
+      "id": "1912",
+      "term": "차라리",
+      "definition": "宁可, 倒不如",
+      "example": "차라리 혼자 가겠다. / 宁可一个人去。"
+    },
+    {
+      "id": "1913",
+      "term": "모기",
+      "definition": "蚊子",
+      "example": "모기에 물리다. / 被蚊子咬。"
+    },
+    {
+      "id": "1914",
+      "term": "퇴직",
+      "origin": "退職",
+      "definition": "退休",
+      "example": "퇴직 후 생활. / 退休后生活。"
+    },
+    {
+      "id": "1915",
+      "term": "항공사",
+      "origin": "航空社",
+      "definition": "航空公司",
+      "example": "항공사에 취직하다. / 在航空公司就职。"
+    },
+    {
+      "id": "1917",
+      "term": "패션쇼",
+      "origin": "fashion show",
+      "definition": "时装秀",
+      "example": "패션쇼를 보다. / 看时装秀。"
+    },
+    {
+      "id": "1918",
+      "term": "심심하다",
+      "origin": "甚深",
+      "definition": "清淡, 柔和 (重复)",
+      "example": "맛이 심심하다. / 味道清淡。"
+    },
+    {
+      "id": "1919",
+      "term": "헬스클럽",
+      "origin": "health club",
+      "definition": "健身房",
+      "example": "헬스클럽에 가다. / 去健身房。"
+    },
+    {
+      "id": "1920",
+      "term": "수분",
+      "origin": "水分",
+      "definition": "水分",
+      "example": "피부에 수분을 공급하다. / 给皮肤提供水分。"
+    },
+    {
+      "id": "1921",
+      "term": "동북아",
+      "origin": "東北亜",
+      "definition": "东北亚",
+      "example": "동북아 협력. / 东北亚合作。"
+    },
+    {
+      "id": "1922",
+      "term": "포도주",
+      "origin": "葡萄酒",
+      "definition": "红酒",
+      "example": "포도주를 마시다. / 喝红酒。"
+    },
+    {
+      "id": "1923",
+      "term": "크리스마스",
+      "origin": "Christmas",
+      "definition": "圣诞节 (重复)",
+      "example": "크리스마스 파티. / 圣诞派对。"
+    },
+    {
+      "id": "1924",
+      "term": "엽유",
+      "origin": "엽유",
+      "definition": "打猎",
+      "example": "엽유를 즐기다. / 享受打猎。"
+    },
+    {
+      "id": "1925",
+      "term": "유통",
+      "origin": "流通",
+      "definition": "流通 (重复)",
+      "example": "물품 유통. / 物品流通。"
+    },
+    {
+      "id": "1926",
+      "term": "건전",
+      "origin": "健全",
+      "definition": "健康, 健全",
+      "example": "건전한 생활. / 健全的生活。"
+    }
+  ],
+  "intermediate_unit_20": [
+    {
+      "id": "1936",
+      "term": "입사",
+      "origin": "入社",
+      "definition": "进入公司",
+      "example": "중소기업에 입사했다. / 进入了中小企业。"
+    },
+    {
+      "id": "1937",
+      "term": "떠오르다",
+      "definition": "浮上来, 浮现, 想起来",
+      "example": "좋은 생각이 떠오르다. / 浮现出好想法。"
+    },
+    {
+      "id": "1938",
+      "term": "스케줄",
+      "origin": "schedule",
+      "definition": "日程",
+      "example": "스케줄을 확인하다. / 确认日程。"
+    },
+    {
+      "id": "1939",
+      "term": "구독",
+      "origin": "購読",
+      "definition": "订阅",
+      "example": "신문을 구독하다. / 订阅报纸。",
+      "related": "구독자 (订阅人)"
+    },
+    {
+      "id": "1940",
+      "term": "사로잡다",
+      "definition": "吸引, 抓住",
+      "example": "사람들의 마음을 사로잡다. / 抓住人们的心。"
+    },
+    {
+      "id": "1941",
+      "term": "갯벌",
+      "definition": "潮滩",
+      "example": "갯벌에서 조개를 캐다. / 在潮滩挖蛤蜊。"
+    },
+    {
+      "id": "1942",
+      "term": "응시자",
+      "origin": "応試者",
+      "definition": "考生",
+      "example": "응시자 수가 많다. / 考生人数多。"
+    },
+    {
+      "id": "1943",
+      "term": "선호하다",
+      "origin": "选好",
+      "definition": "偏好, 喜欢",
+      "example": "여자들은 남자보다 더 조용하고 안정된 직장을 선호한다. / 女性比男性更喜欢安静稳定的工作。"
+    },
+    {
+      "id": "1944",
+      "term": "어머님",
+      "definition": "母亲 (尊称)",
+      "example": "어머님께 안부 전화를 했다. / 给母亲打了问候电话。"
+    },
+    {
+      "id": "1945",
+      "term": "일화",
+      "origin": "逸話",
+      "definition": "轶事",
+      "example": "재미있는 일화. / 有趣的轶事。"
+    },
+    {
+      "id": "1946",
+      "term": "확충하다",
+      "origin": "扩充",
+      "definition": "扩大, 扩充",
+      "example": "시설을 확충하다. / 扩充设施。"
+    },
+    {
+      "id": "1947",
+      "term": "분리하다",
+      "origin": "分离",
+      "definition": "分离, 分割",
+      "example": "쓰레기를 분리하다. / 分类垃圾。"
+    },
+    {
+      "id": "1948",
+      "term": "이름",
+      "definition": "名字",
+      "example": "이름을 쓰다. / 写名字。"
+    },
+    {
+      "id": "1949",
+      "term": "인공",
+      "origin": "人工",
+      "definition": "人工",
+      "example": "인공 지능. / 人工智能。"
+    },
+    {
+      "id": "1950",
+      "term": "이왕",
+      "definition": "既然 (重复)",
+      "example": "이왕 시작한 거 끝까지 하다. / 既然开始了就做到最后。"
+    },
+    {
+      "id": "1951",
+      "term": "결핍",
+      "origin": "缺乏",
+      "definition": "缺乏",
+      "example": "영양 결핍. / 营养缺乏。"
+    },
+    {
+      "id": "1952",
+      "term": "주택",
+      "origin": "住宅",
+      "definition": "住宅",
+      "example": "주택 가격. / 住宅价格。"
+    },
+    {
+      "id": "1953",
+      "term": "농약",
+      "origin": "農薬",
+      "definition": "农药",
+      "example": "농약을 사용하다. / 使用农药。"
+    },
+    {
+      "id": "1954",
+      "term": "휘발유",
+      "origin": "揮発油",
+      "definition": "汽油",
+      "example": "휘발유 가격. / 汽油价格。"
+    },
+    {
+      "id": "1955",
+      "term": "입금하다",
+      "origin": "入金",
+      "definition": "存入, 汇款",
+      "example": "은행에 입금하다. / 存入银行。"
+    },
+    {
+      "id": "1956",
+      "term": "불쑥",
+      "definition": "突然, 冷不防",
+      "example": "불쑥 나타나다. / 突然出现。"
+    },
+    {
+      "id": "1957",
+      "term": "소화",
+      "origin": "消化",
+      "definition": "消化",
+      "example": "소화가 잘 안 되다. / 消化不良。"
+    },
+    {
+      "id": "1958",
+      "term": "분야",
+      "origin": "分野",
+      "definition": "领域",
+      "example": "전문 분야. / 专业领域。"
+    },
+    {
+      "id": "1959",
+      "term": "거스름돈",
+      "definition": "零钱",
+      "example": "거스름돈을 받다. / 收零钱。"
+    },
+    {
+      "id": "1960",
+      "term": "적절",
+      "origin": "適切",
+      "definition": "适当",
+      "example": "적절한 답변. / 适当的回答。"
+    },
+    {
+      "id": "1961",
+      "term": "소유",
+      "origin": "所有",
+      "definition": "拥有, 持有",
+      "example": "땅을 소유하다. / 拥有土地。"
+    },
+    {
+      "id": "1962",
+      "term": "누명",
+      "origin": "陋名",
+      "definition": "冤枉, 诬陷",
+      "example": "누명을 벗다. / 洗清冤枉。"
+    },
+    {
+      "id": "1963",
+      "term": "선별하다",
+      "origin": "选别",
+      "definition": "挑选",
+      "example": "우수한 인재를 선별하다. / 挑选优秀人才。"
+    },
+    {
+      "id": "1964",
+      "term": "전신",
+      "origin": "全身",
+      "definition": "全身",
+      "example": "전신 마비. / 全身麻痹。"
+    },
+    {
+      "id": "1965",
+      "term": "수면",
+      "origin": "睡眠",
+      "definition": "睡眠 (重复)",
+      "example": "수면 패턴. / 睡眠模式。"
+    },
+    {
+      "id": "1966",
+      "term": "곤충",
+      "origin": "昆虫",
+      "definition": "昆虫 (重复)",
+      "example": "희귀 곤충. / 稀有昆虫。"
+    },
+    {
+      "id": "1967",
+      "term": "걸레",
+      "definition": "抹布 (重复)",
+      "example": "젖은 걸레. / 湿抹布。"
+    },
+    {
+      "id": "1968",
+      "term": "탈바꿈하다",
+      "definition": "蜕变, 转型 (重复)",
+      "example": "새로운 모습으로 탈바꿈하다. / 转型为新面貌。"
+    },
+    {
+      "id": "1969",
+      "term": "쿠폰",
+      "origin": "coupon",
+      "definition": "优惠券 (重复)",
+      "example": "쿠폰 사용. / 使用优惠券。"
+    },
+    {
+      "id": "1970",
+      "term": "특권",
+      "origin": "特権",
+      "definition": "特权 (重复)",
+      "example": "특권을 행사하다. / 行使特权。"
+    },
+    {
+      "id": "1971",
+      "term": "스티커",
+      "origin": "sticker",
+      "definition": "贴纸 (重复)",
+      "example": "상품에 스티커를 붙이다. / 在商品上贴贴纸。"
+    },
+    {
+      "id": "1972",
+      "term": "묵인",
+      "origin": "黙認",
+      "definition": "默许 (重复)",
+      "example": "상사의 잘못을 묵인하다. / 默许上司的错误。"
+    },
+    {
+      "id": "1973",
+      "term": "전자파",
+      "origin": "電磁波",
+      "definition": "电磁波 (重复)",
+      "example": "전자파 노출. / 暴露在电磁波中。"
+    },
+    {
+      "id": "1974",
+      "term": "특산물",
+      "origin": "特産物",
+      "definition": "特产 (重复)",
+      "example": "인삼은 특산물이다. / 人参是特产。"
+    },
+    {
+      "id": "1975",
+      "term": "달력",
+      "origin": "日历",
+      "definition": "日历 (重复)",
+      "example": "달력을 보다. / 看日历。"
+    },
+    {
+      "id": "1976",
+      "term": "수확",
+      "origin": "収穫",
+      "definition": "收获",
+      "example": "곡식을 수확하다. / 收获谷物。"
+    },
+    {
+      "id": "1977",
+      "term": "이율",
+      "origin": "利益率",
+      "definition": "利率",
+      "example": "이율이 높다. / 利率高。"
+    },
+    {
+      "id": "1978",
+      "term": "조언",
+      "origin": "助言",
+      "definition": "建议 (重复)",
+      "example": "조언을 구하다. / 寻求建议。"
+    },
+    {
+      "id": "1979",
+      "term": "인공지능",
+      "origin": "人工智能",
+      "definition": "人工智能 (AI)",
+      "example": "인공지능 기술. / 人工智能技术。"
+    },
+    {
+      "id": "1980",
+      "term": "원숭이",
+      "definition": "猴子",
+      "example": "원숭이가 나무에 오르다. / 猴子爬树。"
+    },
+    {
+      "id": "1981",
+      "term": "안전",
+      "origin": "安全",
+      "definition": "安全",
+      "example": "안전 교육. / 安全教育。"
+    },
+    {
+      "id": "1982",
+      "term": "미소",
+      "origin": "微笑",
+      "definition": "微笑",
+      "example": "미소를 짓다. / 露出微笑。"
+    },
+    {
+      "id": "1983",
+      "term": "짐차",
+      "definition": "货车",
+      "example": "짐차에 짐을 싣다. / 在货车上装载货物。"
+    }
+  ]
+}

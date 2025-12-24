@@ -1,0 +1,770 @@
+{
+  "intermediate_unit_11": [
+    {
+      "id": "1460",
+      "term": "앞당기다",
+      "definition": "提前",
+      "example": "공사 기간을 앞당겨서 마무리했다. / 为了减少施工费用,过度提前了施工日程。"
+    },
+    {
+      "id": "1461",
+      "term": "휠체어",
+      "origin": "wheelchair",
+      "definition": "轮椅",
+      "example": "교통사고로 크게 다친 환자가 휠체어에 의지하여 생활하고 있다. / 因交通事故受重伤后依赖轮椅生活。"
+    },
+    {
+      "id": "1462",
+      "term": "휴게실",
+      "origin": "休憩室",
+      "definition": "休息室",
+      "example": "휴게실에 있는 푸른색 조명은 피로를 덜어주는 효과가 있다. / 休息室适合选用缓解疲劳的绿色。",
+      "related": "휴식 (休息)"
+    },
+    {
+      "id": "1463",
+      "term": "첫인상",
+      "origin": "第一印象",
+      "definition": "第一印象",
+      "example": "첫인상으로 한 사람을 평가하는 것은 옳지 않다. / 用第一印象评价一个人是不对的。"
+    },
+    {
+      "id": "1464",
+      "term": "흥분하다",
+      "origin": "兴奋",
+      "definition": "兴奋",
+      "example": "나는 앞으로 훌륭한 선생님이 될 수 있기를 바란다. / 我希望今后能成为优秀的老师。"
+    },
+    {
+      "id": "1465",
+      "term": "소외감",
+      "origin": "疎外感",
+      "definition": "被冷落的感觉, 被排挤的感觉, 被遗忘的感觉",
+      "example": "직장에서는 소외감을 느낄 수 있다. / 在职场群体每逢过节会更加失落。"
+    },
+    {
+      "id": "1466",
+      "term": "장사",
+      "origin": "商売",
+      "definition": "生意",
+      "example": "장사를 시작했다. / 开始做生意。",
+      "related": "장사꾼 (商人), 商販 (商贩)"
+    },
+    {
+      "id": "1467",
+      "term": "출장",
+      "origin": "出张",
+      "definition": "出差",
+      "example": "출장을 가다. / 去出差。"
+    },
+    {
+      "id": "1468",
+      "term": "개미",
+      "definition": "蚂蚁",
+      "example": "한국에서는 허리가 가늘어지는 것을 보고 개미허리라고 한다. / 在韩国,纤细的腰被称为蚂蚁腰。"
+    },
+    {
+      "id": "1469",
+      "term": "건의하다",
+      "origin": "建议",
+      "definition": "建议",
+      "example": "건의 사항이 있다. / 有建议事项。"
+    },
+    {
+      "id": "1470",
+      "term": "생략하다",
+      "origin": "省略",
+      "definition": "省略",
+      "example": "설명을 생략했다. / 省略了说明。"
+    },
+    {
+      "id": "1471",
+      "term": "볼품없다",
+      "definition": "寒酸, 简朴",
+      "example": "볼품없는 옷차림. / 寒酸的着装。"
+    },
+    {
+      "id": "1472",
+      "term": "조언",
+      "origin": "助言",
+      "definition": "指教, 建议",
+      "example": "선배의 조언을 들었다. / 听取了前辈的指教。"
+    },
+    {
+      "id": "1473",
+      "term": "소통",
+      "origin": "疎通",
+      "definition": "沟通",
+      "example": "소통이 잘 된다. / 沟通顺畅。"
+    },
+    {
+      "id": "1474",
+      "term": "하물며",
+      "definition": "何况",
+      "example": "어른도 하기 힘든 일을 하물며 아이가 하겠는가. / 连大人都做不了的事,何况是孩子呢。"
+    },
+    {
+      "id": "1475",
+      "term": "말썽꾸러기",
+      "definition": "淘气包, 捣蛋鬼",
+      "example": "말썽꾸러기 아이. / 淘气的孩子。"
+    },
+    {
+      "id": "1476",
+      "term": "다방면",
+      "origin": "多方面",
+      "definition": "多方面",
+      "example": "다방면으로 능력이 있다. / 在多方面有能力。"
+    },
+    {
+      "id": "1477",
+      "term": "여론",
+      "origin": "舆论",
+      "definition": "舆论",
+      "example": "여론을 수렴했다. / 收集了舆论。"
+    },
+    {
+      "id": "1478",
+      "term": "기회",
+      "origin": "机会",
+      "definition": "机会",
+      "example": "기회를 잡았다. / 抓住了机会。"
+    },
+    {
+      "id": "1479",
+      "term": "박사",
+      "origin": "博士",
+      "definition": "博士",
+      "example": "박사 학위를 취득했다. / 获得了博士学位。"
+    },
+    {
+      "id": "1480",
+      "term": "육아",
+      "origin": "育児",
+      "definition": "育儿",
+      "example": "육아 휴직. / 育儿休假。"
+    },
+    {
+      "id": "1481",
+      "term": "매사",
+      "origin": "每事",
+      "definition": "每件事",
+      "example": "매사에 긍정적이다. / 对每件事都很积极。"
+    },
+    {
+      "id": "1482",
+      "term": "기여하다",
+      "origin": "寄与",
+      "definition": "贡献",
+      "example": "사회 발전에 기여했다. / 为社会发展做出了贡献。"
+    },
+    {
+      "id": "1483",
+      "term": "로봇",
+      "origin": "robot",
+      "definition": "机器人",
+      "example": "로봇이 청소를 대신한다. / 机器人代替打扫。",
+      "related": "걸음걸이 (走路姿势)"
+    },
+    {
+      "id": "1484",
+      "term": "걸음걸이",
+      "definition": "走路姿势",
+      "example": "걸음걸이가 특이하다. / 走路姿势奇特。"
+    },
+    {
+      "id": "1485",
+      "term": "불행",
+      "origin": "不幸",
+      "definition": "不幸",
+      "example": "불행한 사건. / 不幸的事件。"
+    },
+    {
+      "id": "1486",
+      "term": "연결하다",
+      "origin": "連繋",
+      "definition": "连接",
+      "example": "전화 연결. / 电话连接。"
+    },
+    {
+      "id": "1487",
+      "term": "분명하다",
+      "origin": "分明",
+      "definition": "清楚, 明白",
+      "example": "의견이 분명하다. / 意见清楚。"
+    },
+    {
+      "id": "1488",
+      "term": "너무",
+      "definition": "太过",
+      "example": "너무 어렵다. / 太难了。"
+    },
+    {
+      "id": "1489",
+      "term": "발명",
+      "origin": "発明",
+      "definition": "发明",
+      "example": "새로운 발명. / 新的发明。"
+    },
+    {
+      "id": "1490",
+      "term": "논문",
+      "origin": "論文",
+      "definition": "论文",
+      "example": "논문을 발표했다. / 发表了论文。"
+    },
+    {
+      "id": "1491",
+      "term": "묻다",
+      "definition": "埋, 询问",
+      "example": "땅에 묻다. / 埋在地下。"
+    },
+    {
+      "id": "1492",
+      "term": "헹구다",
+      "definition": "冲洗",
+      "example": "옷을 헹구다. / 冲洗衣服。"
+    },
+    {
+      "id": "1493",
+      "term": "타인",
+      "origin": "他人",
+      "definition": "他人",
+      "example": "타인의 시선. / 他人的视线。"
+    },
+    {
+      "id": "1494",
+      "term": "부모님",
+      "origin": "父母",
+      "definition": "父母",
+      "example": "부모님께 효도하다. / 孝敬父母。"
+    },
+    {
+      "id": "1495",
+      "term": "오직",
+      "definition": "只, 唯独",
+      "example": "오직 하나. / 唯独一个。"
+    },
+    {
+      "id": "1496",
+      "term": "상업적",
+      "origin": "商業的",
+      "definition": "商业的",
+      "example": "상업적 성공. / 商业成功。"
+    },
+    {
+      "id": "1497",
+      "term": "충분하다",
+      "origin": "充分",
+      "definition": "充足",
+      "example": "시간이 충분하다. / 时间充足。"
+    },
+    {
+      "id": "1498",
+      "term": "일반적",
+      "origin": "一般的",
+      "definition": "一般",
+      "example": "일반적인 상황. / 一般情况。"
+    },
+    {
+      "id": "1499",
+      "term": "적당하다",
+      "origin": "適当",
+      "definition": "适当",
+      "example": "적당한 온도. / 适当的温度。"
+    },
+    {
+      "id": "1500",
+      "term": "격려하다",
+      "origin": "激励",
+      "definition": "鼓励",
+      "example": "학생들을 격려했다. / 鼓励了学生。"
+    },
+    {
+      "id": "1501",
+      "term": "진작",
+      "origin": "真作",
+      "definition": "原创作品",
+      "example": "진작을 감상했다. / 鉴赏了原创作品。"
+    },
+    {
+      "id": "1502",
+      "term": "잇따르다",
+      "definition": "接连",
+      "example": "사고가 잇따랐다. / 事故接连发生。"
+    },
+    {
+      "id": "1503",
+      "term": "상업",
+      "origin": "商業",
+      "definition": "商业",
+      "example": "상업이 발달했다. / 商业发达。"
+    },
+    {
+      "id": "1504",
+      "term": "복합",
+      "origin": "複合",
+      "definition": "复合, 综合",
+      "example": "복합적인 문제. / 复合的问题。"
+    },
+    {
+      "id": "1505",
+      "term": "출전",
+      "origin": "出展",
+      "definition": "参展",
+      "example": "전시회에 출전했다. / 参加了展览会。"
+    },
+    {
+      "id": "1506",
+      "term": "이성",
+      "origin": "理性",
+      "definition": "理性",
+      "example": "이성적으로 판단하다. / 理性判断。"
+    },
+    {
+      "id": "1507",
+      "term": "자외선",
+      "origin": "紫外線",
+      "definition": "紫外线",
+      "example": "자외선 차단. / 阻挡紫外线。"
+    },
+    {
+      "id": "1508",
+      "term": "흥미",
+      "origin": "興味",
+      "definition": "兴趣",
+      "example": "흥미를 느끼다. / 感到兴趣。"
+    },
+    {
+      "id": "1509",
+      "term": "이왕",
+      "definition": "既然",
+      "example": "이왕이면 좋은 것을 선택하다. / 既然如此就选择好的。"
+    },
+    {
+      "id": "1510",
+      "term": "정기적",
+      "origin": "定期的",
+      "definition": "定期的",
+      "example": "정기적인 검진. / 定期检查。"
+    },
+    {
+      "id": "1511",
+      "term": "태도",
+      "origin": "態度",
+      "definition": "态度",
+      "example": "겸손한 태도. / 谦逊的态度。"
+    },
+    {
+      "id": "1512",
+      "term": "구분",
+      "origin": "区分",
+      "definition": "区分",
+      "example": "물건을 구분하다. / 区分物品。"
+    },
+    {
+      "id": "1513",
+      "term": "미지근하다",
+      "definition": "温热",
+      "example": "미지근한 물. / 温热的水。"
+    },
+    {
+      "id": "1514",
+      "term": "간직하다",
+      "definition": "保管",
+      "example": "추억을 간직하다. / 保管回忆。"
+    },
+    {
+      "id": "1515",
+      "term": "성실",
+      "origin": "誠実",
+      "definition": "诚实",
+      "example": "성실하게 일하다. / 诚实地工作。"
+    }
+  ],
+  "intermediate_unit_12": [
+    {
+      "id": "1516",
+      "term": "대단히",
+      "definition": "非常",
+      "example": "대단히 감사하다. / 非常感谢。"
+    },
+    {
+      "id": "1517",
+      "term": "접하다",
+      "origin": "接触",
+      "definition": "接触",
+      "example": "드라마 광고에 접하다. / 接触电视剧广告。"
+    },
+    {
+      "id": "1518",
+      "term": "제자",
+      "origin": "弟子",
+      "definition": "弟子",
+      "example": "선생님의 제자. / 老师的弟子。"
+    },
+    {
+      "id": "1519",
+      "term": "바닷물",
+      "definition": "海水",
+      "example": "바닷물을 마시다. / 喝海水。"
+    },
+    {
+      "id": "1520",
+      "term": "각자",
+      "origin": "各自",
+      "definition": "各自",
+      "example": "각자 할 일을 하다. / 各自做自己的事。"
+    },
+    {
+      "id": "1521",
+      "term": "스스로",
+      "definition": "自己",
+      "example": "스스로 해결하다. / 自己解决。"
+    },
+    {
+      "id": "1522",
+      "term": "불쌍한",
+      "definition": "可怜的",
+      "example": "불쌍한 이웃을 돕다. / 帮助可怜的邻居。"
+    },
+    {
+      "id": "1523",
+      "term": "마치",
+      "definition": "好像",
+      "example": "마치 꿈만 같다. / 好像做梦一样。"
+    },
+    {
+      "id": "1524",
+      "term": "돌이켜보다",
+      "definition": "回顾",
+      "example": "과거를 돌이켜보다. / 回顾过去。"
+    },
+    {
+      "id": "1525",
+      "term": "결심하다",
+      "origin": "决心",
+      "definition": "决心",
+      "example": "다이어트를 결심했다. / 下决心减肥。"
+    },
+    {
+      "id": "1526",
+      "term": "번거롭다",
+      "definition": "繁琐",
+      "example": "절차가 번거롭다. / 程序繁琐。"
+    },
+    {
+      "id": "1527",
+      "term": "엮다",
+      "definition": "编织",
+      "example": "이야기를 엮다. / 编织故事。"
+    },
+    {
+      "id": "1528",
+      "term": "독자",
+      "origin": "読者",
+      "definition": "读者",
+      "example": "책의 독자. / 书的读者。"
+    },
+    {
+      "id": "1529",
+      "term": "감상",
+      "origin": "感想",
+      "definition": "感想",
+      "example": "영화 감상. / 电影感想。"
+    },
+    {
+      "id": "1530",
+      "term": "장식",
+      "origin": "装飾",
+      "definition": "装饰",
+      "example": "방을 장식했다. / 装饰了房间。"
+    },
+    {
+      "id": "1531",
+      "term": "벌금",
+      "origin": "罰金",
+      "definition": "罚款",
+      "example": "벌금을 내다. / 交罚款。"
+    },
+    {
+      "id": "1532",
+      "term": "외식",
+      "origin": "外食",
+      "definition": "下馆子, 餐饮",
+      "example": "외식을 즐기다. / 享受下馆子。"
+    },
+    {
+      "id": "1533",
+      "term": "오토바이",
+      "origin": "auto-bicycle",
+      "definition": "摩托车",
+      "example": "오토바이를 타다. / 骑摩托车。"
+    },
+    {
+      "id": "1534",
+      "term": "불다",
+      "definition": "吹, 咬",
+      "example": "휘파람을 불다. / 吹口哨。"
+    },
+    {
+      "id": "1535",
+      "term": "우연히",
+      "origin": "偶然",
+      "definition": "偶然",
+      "example": "우연히 친구를 만났다. / 偶然遇到了朋友。"
+    },
+    {
+      "id": "1536",
+      "term": "간편하다",
+      "origin": "简便",
+      "definition": "简便, 方便",
+      "example": "간편한 복장. / 简便的服装。"
+    },
+    {
+      "id": "1537",
+      "term": "생산량",
+      "origin": "生産量",
+      "definition": "生产量",
+      "example": "생산량이 늘었다. / 生产量增加了。"
+    },
+    {
+      "id": "1538",
+      "term": "꼼꼼히",
+      "definition": "仔细, 细心",
+      "example": "꼼꼼히 체크하다. / 仔细检查。"
+    },
+    {
+      "id": "1539",
+      "term": "신고하다",
+      "origin": "申告",
+      "definition": "报告",
+      "example": "경찰에 신고하다. / 报警。"
+    },
+    {
+      "id": "1540",
+      "term": "적성",
+      "origin": "適性",
+      "definition": "适合某种工作, 兴致",
+      "example": "적성에 맞다. / 适合兴趣。"
+    },
+    {
+      "id": "1541",
+      "term": "동시",
+      "origin": "同時",
+      "definition": "同时",
+      "example": "동시에 진행하다. / 同时进行。"
+    },
+    {
+      "id": "1542",
+      "term": "학력",
+      "origin": "学力",
+      "definition": "学历",
+      "example": "학력을 중시하다. / 重视学历。"
+    },
+    {
+      "id": "1543",
+      "term": "감귤",
+      "origin": "柑橘",
+      "definition": "柑橘",
+      "example": "제주도 감귤. / 济州岛柑橘。"
+    },
+    {
+      "id": "1544",
+      "term": "충고",
+      "origin": "忠告",
+      "definition": "忠告",
+      "example": "충고를 듣다. / 听取忠告。"
+    },
+    {
+      "id": "1545",
+      "term": "적성",
+      "origin": "適性",
+      "definition": "适合某种工作, 兴致 (重复)",
+      "example": "적성 검사. / 适性检查。"
+    },
+    {
+      "id": "1546",
+      "term": "동시",
+      "origin": "同時",
+      "definition": "同时 (重复)",
+      "example": "동시 녹화. / 同时录制。"
+    },
+    {
+      "id": "1547",
+      "term": "자꾸",
+      "definition": "反复地",
+      "example": "자꾸 생각나다. / 反复想起。"
+    },
+    {
+      "id": "1548",
+      "term": "등장하다",
+      "origin": "登場",
+      "definition": "登场, 出现",
+      "example": "새로운 인물이 등장했다. / 新的人物登场了。"
+    },
+    {
+      "id": "1549",
+      "term": "일상",
+      "origin": "日常",
+      "definition": "日常",
+      "example": "일상 생활. / 日常生活。"
+    },
+    {
+      "id": "1550",
+      "term": "지불",
+      "origin": "支拂",
+      "definition": "支付",
+      "example": "현금 지불. / 现金支付。"
+    },
+    {
+      "id": "1551",
+      "term": "기름",
+      "definition": "油",
+      "example": "기름 값이 오르다. / 油价上涨。"
+    },
+    {
+      "id": "1552",
+      "term": "삶",
+      "definition": "人生",
+      "example": "삶의 의미. / 人生的意义。"
+    },
+    {
+      "id": "1553",
+      "term": "적절하다",
+      "definition": "适当",
+      "example": "적절한 답변. / 适当的回答。"
+    },
+    {
+      "id": "1554",
+      "term": "노력하다",
+      "origin": "努力",
+      "definition": "努力",
+      "example": "열심히 노력하다. / 努力奋斗。"
+    },
+    {
+      "id": "1555",
+      "term": "생존하다",
+      "origin": "生存",
+      "definition": "生存",
+      "example": "생존 경쟁. / 生存竞争。"
+    },
+    {
+      "id": "1556",
+      "term": "편안하다",
+      "definition": "舒服",
+      "example": "편안한 마음. / 舒服的心情。"
+    },
+    {
+      "id": "1557",
+      "term": "양보하다",
+      "origin": "让步",
+      "definition": "让步",
+      "example": "자리를 양보하다. / 让座。"
+    },
+    {
+      "id": "1558",
+      "term": "숙식비",
+      "origin": "宿食費",
+      "definition": "食宿费",
+      "example": "숙식비가 비싸다. / 食宿费贵。"
+    },
+    {
+      "id": "1559",
+      "term": "활기",
+      "origin": "活力",
+      "definition": "活力",
+      "example": "활기 넘치는 모습. / 充满活力的样子。"
+    },
+    {
+      "id": "1560",
+      "term": "신속하다",
+      "origin": "迅速",
+      "definition": "迅速",
+      "example": "신속한 처리. / 迅速处理。"
+    },
+    {
+      "id": "1561",
+      "term": "규정",
+      "origin": "規定",
+      "definition": "规定",
+      "example": "규정을 지키다. / 遵守规定。"
+    },
+    {
+      "id": "1562",
+      "term": "보건소",
+      "origin": "保健所",
+      "definition": "保健所",
+      "example": "보건소에서 검사를 받다. / 在保健所接受检查。"
+    },
+    {
+      "id": "1563",
+      "term": "활기",
+      "origin": "活力",
+      "definition": "活力 (重复)",
+      "example": "활기찬 하루. / 充满活力的一天。"
+    },
+    {
+      "id": "1564",
+      "term": "민심",
+      "origin": "民心",
+      "definition": "民心",
+      "example": "민심을 얻다. / 获得民心。"
+    },
+    {
+      "id": "1565",
+      "term": "결심하다",
+      "origin": "决心",
+      "definition": "下决心",
+      "example": "유학을 결심하다. / 下决心留学。"
+    },
+    {
+      "id": "1566",
+      "term": "왕복",
+      "origin": "往复",
+      "definition": "往返",
+      "example": "왕복 티켓. / 往返票。"
+    },
+    {
+      "id": "1567",
+      "term": "위주",
+      "origin": "为主",
+      "definition": "为主",
+      "example": "학생 위주. / 以学生为主。"
+    },
+    {
+      "id": "1568",
+      "term": "생산량",
+      "origin": "生産量",
+      "definition": "生产量",
+      "example": "생산량을 늘리다. / 增加生产量。"
+    },
+    {
+      "id": "1569",
+      "term": "꼼꼼히",
+      "definition": "细心",
+      "example": "꼼꼼히 준비하다. / 细心准备。"
+    },
+    {
+      "id": "1570",
+      "term": "신고하다",
+      "origin": "申告",
+      "definition": "报告",
+      "example": "사고를 신고하다. / 报告事故。"
+    },
+    {
+      "id": "1571",
+      "term": "다툼",
+      "origin": "纷争",
+      "definition": "纷争",
+      "example": "다툼이 생기다. / 发生了纷争。"
+    },
+    {
+      "id": "1572",
+      "term": "정난",
+      "origin": "靖難",
+      "definition": "动乱, 叛乱",
+      "example": "정난이 일어나다. / 发生了动乱。"
+    }
+  ]
+}

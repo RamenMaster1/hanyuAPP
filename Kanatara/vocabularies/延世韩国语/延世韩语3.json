@@ -1,0 +1,905 @@
+[
+  {
+    "lesson_id": "1-1",
+    "title": "취미가 뭐예요 ?",
+    "words": [
+      {"id": "01", "korean": "시간을 내다", "chinese": "抽时间"},
+      {"id": "02", "korean": "마음을 먹다", "chinese": "下决心"},
+      {"id": "03", "korean": "가능하다", "chinese": "可以/可能"},
+      {"id": "04", "korean": "모으다", "chinese": "积攒/收集"},
+      {"id": "05", "korean": "세계", "chinese": "世界"},
+      {"id": "06", "korean": "거의", "chinese": "几乎/差不多"},
+      {"id": "07", "korean": "수집하다", "chinese": "收集"},
+      {"id": "08", "korean": "감상하다", "chinese": "鉴赏/欣赏"},
+      {"id": "09", "korean": "두다", "chinese": "下（棋）"},
+      {"id": "10", "korean": "요가", "chinese": "瑜伽"},
+      {"id": "11", "korean": "다양하다", "chinese": "多样"},
+      {"id": "12", "korean": "장르", "chinese": "体裁"},
+      {"id": "13", "korean": "공포", "chinese": "恐怖"},
+      {"id": "14", "korean": "개봉하다", "chinese": "上映"}
+    ]
+  },
+  {
+    "lesson_id": "1-2",
+    "title": "가끔 풍경화도 그리고요",
+    "words": [
+      {"id": "01", "korean": "학원", "chinese": "培训学校/补习班"},
+      {"id": "02", "korean": "등록하다", "chinese": "注册/报名"},
+      {"id": "03", "korean": "완성하다", "chinese": "完成"},
+      {"id": "04", "korean": "인물화", "chinese": "人物画"},
+      {"id": "05", "korean": "풍경화", "chinese": "风景画"},
+      {"id": "06", "korean": "전시회", "chinese": "展⽰会/展览会"},
+      {"id": "07", "korean": "연주회", "chinese": "演奏会"},
+      {"id": "08", "korean": "상영", "chinese": "上映"},
+      {"id": "09", "korean": "발표회", "chinese": "发表会/发布会"},
+      {"id": "10", "korean": "동서양", "chinese": "东西方"},
+      {"id": "11", "korean": "정물화", "chinese": "静物画"},
+      {"id": "12", "korean": "입장료", "chinese": "门票费"}
+    ]
+  },
+  {
+    "lesson_id": "1-3",
+    "title": "어떤 동아리에 들 거야 ?",
+    "words": [
+      {"id": "01", "korean": "동아리에 들다", "chinese": "加入社团"},
+      {"id": "02", "korean": "관심", "chinese": "关心/感兴趣"},
+      {"id": "03", "korean": "동영상", "chinese": "视频"},
+      {"id": "04", "korean": "괜히", "chinese": "白白地"},
+      {"id": "05", "korean": "고민하다", "chinese": "苦恼/思考"},
+      {"id": "06", "korean": "탈춤 동아리", "chinese": "假面舞社团"},
+      {"id": "07", "korean": "국악 동아리", "chinese": "国乐社团"},
+      {"id": "08", "korean": "봉사 동아리", "chinese": "公益社团"},
+      {"id": "09", "korean": "합창 동아리", "chinese": "合唱社团"},
+      {"id": "10", "korean": "지다", "chinese": "输"},
+      {"id": "11", "korean": "이기다", "chinese": "赢"}
+    ]
+  },
+  {
+    "lesson_id": "1-4",
+    "title": "등산을 제일 많이 한대요",
+    "words": [
+      {"id": "01", "korean": "조사", "chinese": "调查"},
+      {"id": "02", "korean": "결과", "chinese": "结果"},
+      {"id": "03", "korean": "에 따르면", "chinese": "根据/按照"},
+      {"id": "04", "korean": "험하다", "chinese": "险峻"},
+      {"id": "05", "korean": "관광", "chinese": "观光/旅游"},
+      {"id": "06", "korean": "감상", "chinese": "鉴赏/欣赏"},
+      {"id": "07", "korean": "관람", "chinese": "观看/参观"},
+      {"id": "08", "korean": "오락", "chinese": "娱乐"},
+      {"id": "09", "korean": "이상", "chinese": "以上"},
+      {"id": "10", "korean": "즐기다", "chinese": "喜爱/爱好"},
+      {"id": "11", "korean": "과정", "chinese": "过程"},
+      {"id": "12", "korean": "기구", "chinese": "器具"},
+      {"id": "13", "korean": "단독 주택", "chinese": "独门独院"},
+      {"id": "14", "korean": "화초", "chinese": "花草"}
+    ]
+  },
+  {
+    "lesson_id": "1-5",
+    "title": "정리해 볼까요 ?",
+    "words": [
+      {"id": "01", "korean": "활용하다", "chinese": "活用/利用"},
+      {"id": "02", "korean": "벗어나다", "chinese": "摆脱"},
+      {"id": "03", "korean": "스스로", "chinese": "自己/亲自"}
+    ]
+  },
+  {
+    "lesson_id": "2-1",
+    "title": "앞집에 이사 온 리에라고 합니다",
+    "words": [
+      {"id": "01", "korean": "이사를 오다", "chinese": "搬来"},
+      {"id": "02", "korean": "그렇지 않아도", "chinese": "不然也"},
+      {"id": "03", "korean": "궁금하다", "chinese": "好奇"},
+      {"id": "04", "korean": "이사를 가다", "chinese": "搬走"},
+      {"id": "05", "korean": "이사 떡", "chinese": "搬家年糕"},
+      {"id": "06", "korean": "맛을 보다", "chinese": "品尝"},
+      {"id": "07", "korean": "인사를 받다", "chinese": "接受问候"},
+      {"id": "08", "korean": "인사를 드리다", "chinese": "致以问候"},
+      {"id": "09", "korean": "인사를 시키다", "chinese": "让 ~ 打招呼"},
+      {"id": "10", "korean": "인사를 나누다", "chinese": "互相问候"},
+      {"id": "11", "korean": "위로하다", "chinese": "安慰"},
+      {"id": "12", "korean": "청하다", "chinese": "请求/邀请"},
+      {"id": "13", "korean": "무표정하다", "chinese": "面无表情/呆板"},
+      {"id": "14", "korean": "고려하다", "chinese": "考虑/斟酌"}
+    ]
+  },
+  {
+    "lesson_id": "2-2",
+    "title": "짧게 잘라 주세요",
+    "words": [
+      {"id": "01", "korean": "앞머리", "chinese": "刘海儿"},
+      {"id": "02", "korean": "찌르다", "chinese": "戳/刺"},
+      {"id": "03", "korean": "염색", "chinese": "染色"},
+      {"id": "04", "korean": "짙다", "chinese": "浓/深"},
+      {"id": "05", "korean": "갈색", "chinese": "褐色"},
+      {"id": "06", "korean": "머리를 다듬다", "chinese": "修剪头发"},
+      {"id": "07", "korean": "굽을 갈다", "chinese": "换鞋跟"},
+      {"id": "08", "korean": "파마를 하다", "chinese": "烫发/烫卷"},
+      {"id": "09", "korean": "미용실", "chinese": "美发店"},
+      {"id": "10", "korean": "펴다", "chinese": "展开/打开"},
+      {"id": "11", "korean": "미용사", "chinese": "美发师"},
+      {"id": "12", "korean": "드라이", "chinese": "吹风机"},
+      {"id": "13", "korean": "두께", "chinese": "厚度"},
+      {"id": "14", "korean": "덮다", "chinese": "盖"},
+      {"id": "15", "korean": "세탁물", "chinese": "要洗的衣物"}
+    ]
+  },
+  {
+    "lesson_id": "2-3",
+    "title": "광고를 보고 왔는데요",
+    "words": [
+      {"id": "01", "korean": "구하다", "chinese": "求/找"},
+      {"id": "02", "korean": "초보자", "chinese": "新手"},
+      {"id": "03", "korean": "경험", "chinese": "经验"},
+      {"id": "04", "korean": "근무 시간", "chinese": "工作时间"},
+      {"id": "05", "korean": "다들", "chinese": "大家/所有人"},
+      {"id": "06", "korean": "경력자", "chinese": "有经验者"},
+      {"id": "07", "korean": "이력서", "chinese": "简历"},
+      {"id": "08", "korean": "시간제", "chinese": "按时间的"},
+      {"id": "09", "korean": "보수", "chinese": "报酬"},
+      {"id": "10", "korean": "자기 소개서", "chinese": "自我介绍书"},
+      {"id": "11", "korean": "업무", "chinese": "业务/工作"},
+      {"id": "12", "korean": "능통자", "chinese": "精通者"},
+      {"id": "13", "korean": "면접", "chinese": "面试"},
+      {"id": "14", "korean": "판매", "chinese": "销售/卖"},
+      {"id": "15", "korean": "지원하다", "chinese": "报名/申请/应聘"},
+      {"id": "16", "korean": "주유", "chinese": "加油"},
+      {"id": "17", "korean": "매점", "chinese": "小卖店"}
+    ]
+  },
+  {
+    "lesson_id": "2-4",
+    "title": "전화가 걸리지 않아요",
+    "words": [
+      {"id": "01", "korean": "[缺省]", "chinese": "打通电话"},
+      {"id": "02", "korean": "수리", "chinese": "修理"},
+      {"id": "03", "korean": "돈이 들다", "chinese": "需要钱"},
+      {"id": "04", "korean": "구입하다", "chinese": "购买"},
+      {"id": "05", "korean": "맡기다", "chinese": "委托/交给"},
+      {"id": "06", "korean": "사용 설명서를 보다", "chinese": "看使用说明书"},
+      {"id": "07", "korean": "문의하다", "chinese": "询问/调查"},
+      {"id": "08", "korean": "서비스 센터에 맡기다", "chinese": "交给售后服务中心"},
+      {"id": "09", "korean": "수리를 요청하다", "chinese": "报修"},
+      {"id": "10", "korean": "서비스 센터에서 찾다", "chinese": "去售后服务中心领取"},
+      {"id": "11", "korean": "수리를 받다", "chinese": "进行维修"},
+      {"id": "12", "korean": "배터리", "chinese": "电池"},
+      {"id": "13", "korean": "충전하다", "chinese": "充电"},
+      {"id": "14", "korean": "온도", "chinese": "温度"},
+      {"id": "15", "korean": "젖다", "chinese": "湿"},
+      {"id": "16", "korean": "자판", "chinese": "键盘"},
+      {"id": "17", "korean": "화면", "chinese": "画面"},
+      {"id": "18", "korean": "뾰족하다", "chinese": "尖细"},
+      {"id": "19", "korean": "액정", "chinese": "液晶屏幕"},
+      {"id": "20", "korean": "작동", "chinese": "运转/发动"}
+    ]
+  },
+  {
+    "lesson_id": "2-5",
+    "title": "정리해 볼까요 ?",
+    "words": [
+      {"id": "01", "korean": "회복하다", "chinese": "恢复"},
+      {"id": "02", "korean": "기운", "chinese": "力气/精神"},
+      {"id": "03", "korean": "영양", "chinese": "营养"}
+    ]
+  },
+  {
+    "lesson_id": "3-1",
+    "title": "건강해야 뭐든지 할 수 있어요",
+    "words": [
+      {"id": "01", "korean": "안색", "chinese": "脸色"},
+      {"id": "02", "korean": "몸살이 나다", "chinese": "感冒浑身酸痛"},
+      {"id": "03", "korean": "무리하다", "chinese": "过度/过分"},
+      {"id": "04", "korean": "뭐니 뭐니 해도", "chinese": "无论如何/不管怎样"},
+      {"id": "05", "korean": "잃다", "chinese": "失去"},
+      {"id": "06", "korean": "스트레스", "chinese": "压力"},
+      {"id": "07", "korean": "불면증", "chinese": "失眠症"},
+      {"id": "08", "korean": "흡연", "chinese": "吸烟"},
+      {"id": "09", "korean": "비만", "chinese": "肥胖"},
+      {"id": "10", "korean": "고혈압", "chinese": "高血压"},
+      {"id": "11", "korean": "운동 부족", "chinese": "缺乏运动"},
+      {"id": "12", "korean": "야근", "chinese": "夜班"},
+      {"id": "13", "korean": "유혹", "chinese": "诱惑"},
+      {"id": "14", "korean": "뿌리치다", "chinese": "推开/拒绝"},
+      {"id": "15", "korean": "충고", "chinese": "忠告"}
+    ]
+  },
+  {
+    "lesson_id": "3-2",
+    "title": "건강을 유지하려면 노력을 해야지요",
+    "words": [
+      {"id": "01", "korean": "상쾌하다", "chinese": "爽快/舒畅"},
+      {"id": "02", "korean": "식욕", "chinese": "食欲"},
+      {"id": "03", "korean": "유지하다", "chinese": "保持"},
+      {"id": "04", "korean": "노력", "chinese": "努力"},
+      {"id": "05", "korean": "깨우다", "chinese": "叫醒"},
+      {"id": "06", "korean": "체중이 줄다", "chinese": "体重下降"},
+      {"id": "07", "korean": "근육이 생기다", "chinese": "练出肌肉"},
+      {"id": "08", "korean": "피로가 풀리다", "chinese": "消除疲劳"},
+      {"id": "09", "korean": "스트레스가 풀리다", "chinese": "消除压力"},
+      {"id": "10", "korean": "열량을 소모하다", "chinese": "消耗热量"},
+      {"id": "11", "korean": "다이어트", "chinese": "减肥瘦身"},
+      {"id": "12", "korean": "소비", "chinese": "消费"},
+      {"id": "13", "korean": "장바구니", "chinese": "菜篮子/购物篮"},
+      {"id": "14", "korean": "대중교통", "chinese": "公共交通"}
+    ]
+  },
+  {
+    "lesson_id": "3-3",
+    "title": "김치라든가 된장 같은 음식은 대표적인 건강식이죠",
+    "words": [
+      {"id": "01", "korean": "번거롭다", "chinese": "繁琐/⿇烦"},
+      {"id": "02", "korean": "손이 가다", "chinese": "费事"},
+      {"id": "03", "korean": "대표적이다", "chinese": "代表性的"},
+      {"id": "04", "korean": "건강식", "chinese": "健康食品"},
+      {"id": "05", "korean": "김장철", "chinese": "做泡菜的季节"},
+      {"id": "06", "korean": "김장하다", "chinese": "做过冬泡菜"},
+      {"id": "07", "korean": "육류", "chinese": "肉类"},
+      {"id": "08", "korean": "생선류", "chinese": "鱼类"},
+      {"id": "09", "korean": "곡류", "chinese": "谷类"},
+      {"id": "10", "korean": "유기농 식품", "chinese": "有机食品"},
+      {"id": "11", "korean": "인스턴트 식품", "chinese": "快餐食品"},
+      {"id": "12", "korean": "발효 식품", "chinese": "发酵食品"},
+      {"id": "13", "korean": "탄산음료", "chinese": "碳酸饮料"},
+      {"id": "14", "korean": "식습관", "chinese": "饮食习惯"},
+      {"id": "15", "korean": "화학조미료", "chinese": "化学调料"},
+      {"id": "16", "korean": "꿀", "chinese": "蜂蜜"},
+      {"id": "17", "korean": "씹다", "chinese": "咀嚼"},
+      {"id": "18", "korean": "골고루", "chinese": "均匀"}
+    ]
+  },
+  {
+    "lesson_id": "3-4",
+    "title": "과식을 안 하는 것도 중요하답니다",
+    "words": [
+      {"id": "01", "korean": "장수", "chinese": "长寿"},
+      {"id": "02", "korean": "비결", "chinese": "秘诀"},
+      {"id": "03", "korean": "정하다", "chinese": "确定/定"},
+      {"id": "04", "korean": "식사량", "chinese": "饭量"},
+      {"id": "05", "korean": "중요하다", "chinese": "重要"},
+      {"id": "06", "korean": "과식", "chinese": "暴食"},
+      {"id": "07", "korean": "소식", "chinese": "饭量小吃得不多"},
+      {"id": "08", "korean": "편식", "chinese": "偏食"},
+      {"id": "09", "korean": "채식", "chinese": "素食"},
+      {"id": "10", "korean": "육식", "chinese": "⾁⻝"},
+      {"id": "11", "korean": "규칙적이다", "chinese": "有规律的"},
+      {"id": "12", "korean": "불규칙하다", "chinese": "不规律的"},
+      {"id": "13", "korean": "민간요법", "chinese": "偏方"},
+      {"id": "14", "korean": "양치하다", "chinese": "刷牙"},
+      {"id": "15", "korean": "미지근하다", "chinese": "温热"},
+      {"id": "16", "korean": "효과", "chinese": "效果"},
+      {"id": "17", "korean": "눕다", "chinese": "躺"},
+      {"id": "18", "korean": "올리다", "chinese": "抬/举"},
+      {"id": "19", "korean": "긴장", "chinese": "紧张"}
+    ]
+  },
+  {
+    "lesson_id": "3-5",
+    "title": "정리해 볼까요 ?",
+    "words": [
+      {"id": "01", "korean": "돌리다", "chinese": "转动/分发"},
+      {"id": "02", "korean": "팥", "chinese": "红豆"},
+      {"id": "03", "korean": "시루", "chinese": "蒸笼"},
+      {"id": "04", "korean": "조리 기구", "chinese": "烹饪器具"}
+    ]
+  },
+  {
+    "lesson_id": "4-1",
+    "title": "표를 사는 대신에 저녁을 사 주세요",
+    "words": [
+      {"id": "01", "korean": "뮤지컬", "chinese": "音乐剧"},
+      {"id": "02", "korean": "감동적이다", "chinese": "感人"},
+      {"id": "03", "korean": "무대", "chinese": "舞台"},
+      {"id": "04", "korean": "의상", "chinese": "服装"},
+      {"id": "05", "korean": "말할 것도 없다", "chinese": "不用说"},
+      {"id": "06", "korean": "공연", "chinese": "演出"},
+      {"id": "07", "korean": "자막", "chinese": "字幕"},
+      {"id": "08", "korean": "작품명", "chinese": "作品名"},
+      {"id": "09", "korean": "관람 연령", "chinese": "观众年龄"},
+      {"id": "10", "korean": "공연 장소", "chinese": "演出地点"},
+      {"id": "11", "korean": "공연 일시", "chinese": "演出时间"},
+      {"id": "12", "korean": "작품 해설", "chinese": "作品解说"},
+      {"id": "13", "korean": "비슷하다", "chinese": "相似"},
+      {"id": "14", "korean": "특징", "chinese": "特点"},
+      {"id": "15", "korean": "화려하다", "chinese": "华丽"},
+      {"id": "16", "korean": "관객", "chinese": "观众"},
+      {"id": "17", "korean": "알리다", "chinese": "告知"}
+    ]
+  },
+  {
+    "lesson_id": "4-2",
+    "title": "춘향전을 보자고 해서 예매하려고요",
+    "words": [
+      {"id": "01", "korean": "좌석", "chinese": "座位"},
+      {"id": "02", "korean": "인터넷 사이트", "chinese": "网站"},
+      {"id": "03", "korean": "가입하다", "chinese": "加入"},
+      {"id": "04", "korean": "선택하다", "chinese": "选择"},
+      {"id": "05", "korean": "간단하다", "chinese": "简单"},
+      {"id": "06", "korean": "알려 주다", "chinese": "告诉"},
+      {"id": "07", "korean": "취소하다", "chinese": "取消"},
+      {"id": "08", "korean": "환불 받다", "chinese": "退款"},
+      {"id": "09", "korean": "변경하다", "chinese": "变更/更改"},
+      {"id": "10", "korean": "인원수", "chinese": "人数"},
+      {"id": "11", "korean": "매진되다", "chinese": "卖完"},
+      {"id": "12", "korean": "폰뱅킹", "chinese": "电话银行"},
+      {"id": "13", "korean": "당일", "chinese": "当日"}
+    ]
+  },
+  {
+    "lesson_id": "4-3",
+    "title": "마지막 장면이 인상적이었어요",
+    "words": [
+      {"id": "01", "korean": "목소리", "chinese": "嗓音"},
+      {"id": "02", "korean": "연기", "chinese": "演技"},
+      {"id": "03", "korean": "훌륭하다", "chinese": "优秀的"},
+      {"id": "04", "korean": "대사", "chinese": "台词"},
+      {"id": "05", "korean": "마지막", "chinese": "最后"},
+      {"id": "06", "korean": "인상적이다", "chinese": "印象深刻的"},
+      {"id": "07", "korean": "환상적이다", "chinese": "梦幻的"},
+      {"id": "08", "korean": "심각하다", "chinese": "严峻/严重"},
+      {"id": "09", "korean": "신나다", "chinese": "兴奋/开心"},
+      {"id": "10", "korean": "백문이 불여일견", "chinese": "百闻不如一见"},
+      {"id": "11", "korean": "평범하다", "chinese": "平凡"},
+      {"id": "12", "korean": "영원히", "chinese": "永远"}
+    ]
+  },
+  {
+    "lesson_id": "4-4",
+    "title": "정말 볼 만하던데요",
+    "words": [
+      {"id": "01", "korean": "사물놀이", "chinese": "四物游戏"},
+      {"id": "02", "korean": "분위기", "chinese": "氛围"},
+      {"id": "03", "korean": "지루하다", "chinese": "无聊"},
+      {"id": "04", "korean": "흥겹다", "chinese": "高兴/兴奋"},
+      {"id": "05", "korean": "확", "chinese": "一下子"},
+      {"id": "06", "korean": "인기", "chinese": "⼈⽓"},
+      {"id": "07", "korean": "제안하다", "chinese": "建议/提议"},
+      {"id": "08", "korean": "권하다", "chinese": "劝说"},
+      {"id": "09", "korean": "후회하다", "chinese": "后悔"},
+      {"id": "10", "korean": "정성", "chinese": "真诚/诚心"},
+      {"id": "11", "korean": "흔들다", "chinese": "晃动/摇动"}
+    ]
+  },
+  {
+    "lesson_id": "4-5",
+    "title": "정리해 볼까요 ?",
+    "words": [
+      {"id": "01", "korean": "전통 악기", "chinese": "传统乐器"},
+      {"id": "02", "korean": "연주", "chinese": "演奏"}
+    ]
+  }，
+  {
+    "lesson_id": "5-1",
+    "title": "친구가 어제 뉴스에 나오던데요",
+    "words": [
+      {"id": "01", "korean": "패션쇼", "chinese": "时装秀"},
+      {"id": "02", "korean": "평", "chinese": "评价"},
+      {"id": "03", "korean": "실력", "chinese": "实力"},
+      {"id": "04", "korean": "인정을 받다", "chinese": "得到认可"},
+      {"id": "05", "korean": "겨우", "chinese": "只/仅仅"},
+      {"id": "06", "korean": "성공하다", "chinese": "成功"},
+      {"id": "07", "korean": "능력이 뛰어나다", "chinese": "能力突出"},
+      {"id": "08", "korean": "모습", "chinese": "样子"},
+      {"id": "09", "korean": "억양", "chinese": "语调"},
+      {"id": "10", "korean": "사투리", "chinese": "⽅⾔"},
+      {"id": "11", "korean": "원래", "chinese": "原来"},
+      {"id": "12", "korean": "끊임없다", "chinese": "不断"}
+    ]
+  },
+  {
+    "lesson_id": "5-2",
+    "title": "좋은 하숙집 아주머니를 만나셨네요",
+    "words": [
+      {"id": "01", "korean": "충분하다", "chinese": "充分/足够"},
+      {"id": "02", "korean": "무척", "chinese": "非常"},
+      {"id": "03", "korean": "죽", "chinese": "粥"},
+      {"id": "04", "korean": "챙기다", "chinese": "准备/照顾/整理"},
+      {"id": "05", "korean": "마치", "chinese": "好像"},
+      {"id": "06", "korean": "성격이 급하다", "chinese": "性子急"},
+      {"id": "07", "korean": "정이 많다", "chinese": "热情"},
+      {"id": "08", "korean": "냉정하다", "chinese": "冷静"},
+      {"id": "09", "korean": "게으르다", "chinese": "懒惰"},
+      {"id": "10", "korean": "고집이 세다", "chinese": "固执"},
+      {"id": "11", "korean": "말이 많다", "chinese": "话多/嘴碎"},
+      {"id": "12", "korean": "무뚝뚝하다", "chinese": "木讷/冷漠"},
+      {"id": "13", "korean": "꼼꼼하다", "chinese": "仔细/细致"},
+      {"id": "14", "korean": "김치를 담그다", "chinese": "腌制泡菜"},
+      {"id": "15", "korean": "사생활", "chinese": "私生活"},
+      {"id": "16", "korean": "낯설다", "chinese": "陌生"}
+    ]
+  },
+  {
+    "lesson_id": "5-3",
+    "title": "큰 돈을 기부하기란 쉬운 일이 아닌데",
+    "words": [
+      {"id": "01", "korean": "혹시", "chinese": "或许"},
+      {"id": "02", "korean": "말이다", "chinese": "说的是（强调）"},
+      {"id": "03", "korean": "돈을 벌다", "chinese": "挣钱"},
+      {"id": "04", "korean": "기부하다", "chinese": "捐献"},
+      {"id": "05", "korean": "놀랍다", "chinese": "惊人"},
+      {"id": "06", "korean": "자신", "chinese": "⾃⼰"},
+      {"id": "07", "korean": "대단하다", "chinese": "了不起"},
+      {"id": "08", "korean": "저축하다", "chinese": "储蓄/存款"},
+      {"id": "09", "korean": "절약하다", "chinese": "节约"},
+      {"id": "10", "korean": "낭비하다", "chinese": "浪费"},
+      {"id": "11", "korean": "투자하다", "chinese": "投资"},
+      {"id": "12", "korean": "미담", "chinese": "美谈"},
+      {"id": "13", "korean": "재산", "chinese": "财产"},
+      {"id": "14", "korean": "고아원", "chinese": "孤儿院"},
+      {"id": "15", "korean": "사회", "chinese": "社会"}
+    ]
+  },
+  {
+    "lesson_id": "5-4",
+    "title": "선생님 같은 사람이 되고 싶어요",
+    "words": [
+      {"id": "01", "korean": "마음이 넓다", "chinese": "心胸宽广"},
+      {"id": "02", "korean": "배려하다", "chinese": "关怀/照顾"},
+      {"id": "03", "korean": "존경하다", "chinese": "尊敬/尊重"},
+      {"id": "04", "korean": "흐뭇하다", "chinese": "满足/高兴"},
+      {"id": "05", "korean": "교육자", "chinese": "教育工作者"},
+      {"id": "06", "korean": "연예인", "chinese": "艺人"},
+      {"id": "07", "korean": "정치인", "chinese": "政治家"},
+      {"id": "08", "korean": "사업가", "chinese": "企业家"},
+      {"id": "09", "korean": "언론인", "chinese": "新闻工作者"},
+      {"id": "10", "korean": "장학생", "chinese": "奖学金获得者"},
+      {"id": "11", "korean": "세계적이다", "chinese": "世界性的"},
+      {"id": "12", "korean": "지식", "chinese": "知识"},
+      {"id": "13", "korean": "인물", "chinese": "人物"}
+    ]
+  },
+  {
+    "lesson_id": "5-5",
+    "title": "정리해 볼까요 ?",
+    "words": [
+      {"id": "01", "korean": "업적", "chinese": "业绩"},
+      {"id": "02", "korean": "발명", "chinese": "发明"},
+      {"id": "03", "korean": "지도자", "chinese": "领导"}
+    ]
+  },
+  {
+    "lesson_id": "6-1",
+    "title": "할머니께 인사부터 드리고요",
+    "words": [
+      {"id": "01", "korean": "잔치", "chinese": "酒宴"},
+      {"id": "02", "korean": "고생하다", "chinese": "吃苦/辛苦"},
+      {"id": "03", "korean": "빈대떡", "chinese": "绿豆煎饼"},
+      {"id": "04", "korean": "안 그래도", "chinese": "反正/不然也"},
+      {"id": "05", "korean": "회갑 잔치", "chinese": "花甲宴/六十大寿"},
+      {"id": "06", "korean": "차례", "chinese": "祭祀"},
+      {"id": "07", "korean": "과장님", "chinese": "科长"},
+      {"id": "08", "korean": "취향", "chinese": "取向/爱好"},
+      {"id": "09", "korean": "덕분에", "chinese": "多亏"},
+      {"id": "10", "korean": "실수하다", "chinese": "失误"}
+    ]
+  },
+  {
+    "lesson_id": "6-2",
+    "title": "너한테 안부 전해 달래",
+    "words": [
+      {"id": "01", "korean": "야", "chinese": "嗨"},
+      {"id": "02", "korean": "준비 중이다", "chinese": "正在准备"},
+      {"id": "03", "korean": "아까", "chinese": "刚才"},
+      {"id": "04", "korean": "안부", "chinese": "问候/近况"},
+      {"id": "05", "korean": "안부를 전하다", "chinese": "转达问候"},
+      {"id": "06", "korean": "안부를 묻다", "chinese": "问候/问好"},
+      {"id": "07", "korean": "안부가 궁금하다", "chinese": "挂念"},
+      {"id": "08", "korean": "안부 전화를 하다", "chinese": "打问候电话"},
+      {"id": "09", "korean": "안부 편지를 쓰다", "chinese": "写问候信"},
+      {"id": "10", "korean": "안부 문자를 보내다", "chinese": "发送问候短信"},
+      {"id": "11", "korean": "안부 인사를 드리다", "chinese": "致以问候"},
+      {"id": "12", "korean": "아깝다", "chinese": "可惜"},
+      {"id": "13", "korean": "직후", "chinese": "之后"},
+      {"id": "14", "korean": "식", "chinese": "方式"}
+    ]
+  },
+  {
+    "lesson_id": "6-3",
+    "title": "신입생 환영회가 있는데 오실 수 있지요 ?",
+    "words": [
+      {"id": "01", "korean": "오랜만이다", "chinese": "久违/好久不见"},
+      {"id": "02", "korean": "신입생", "chinese": "新生"},
+      {"id": "03", "korean": "오리엔테이션", "chinese": "入学教育/职前教育"},
+      {"id": "04", "korean": "곡", "chinese": "曲子"},
+      {"id": "05", "korean": "신입생 환영회", "chinese": "迎新会"},
+      {"id": "06", "korean": "새내기", "chinese": "新人/新成员"},
+      {"id": "07", "korean": "여부", "chinese": "与否"},
+      {"id": "08", "korean": "일단", "chinese": "一旦/先"},
+      {"id": "09", "korean": "그냥", "chinese": "就那样"},
+      {"id": "10", "korean": "장기 자랑", "chinese": "特长展⽰"}
+    ]
+  },
+  {
+    "lesson_id": "6-4",
+    "title": "간단하게 차나 마시지요",
+    "words": [
+      {"id": "01", "korean": "슬슬", "chinese": "慢慢地"},
+      {"id": "02", "korean": "회식", "chinese": "会餐"},
+      {"id": "03", "korean": "참석하다", "chinese": "参加"},
+      {"id": "04", "korean": "잔뜩", "chinese": "满满地"},
+      {"id": "05", "korean": "기대하다", "chinese": "期待"},
+      {"id": "06", "korean": "2 차", "chinese": "第二轮"},
+      {"id": "07", "korean": "야유회", "chinese": "郊游"},
+      {"id": "08", "korean": "오해", "chinese": "误会"},
+      {"id": "09", "korean": "폭탄주", "chinese": "炮弹酒"},
+      {"id": "10", "korean": "산낙지", "chinese": "生章鱼"},
+      {"id": "11", "korean": "마술", "chinese": "魔术"},
+      {"id": "12", "korean": "건의하다", "chinese": "建议"},
+      {"id": "13", "korean": "회신", "chinese": "回信"},
+      {"id": "14", "korean": "목적", "chinese": "目的"}
+    ]
+  },
+  {
+    "lesson_id": "6-5",
+    "title": "정리해 볼까요 ?",
+    "words": [
+      {"id": "01", "korean": "방식", "chinese": "方式"},
+      {"id": "02", "korean": "손윗사람", "chinese": "长辈"},
+      {"id": "03", "korean": "손아랫사람", "chinese": "晚辈/下级"},
+      {"id": "04", "korean": "각자", "chinese": "各自"},
+      {"id": "05", "korean": "부담하다", "chinese": "负担"}
+    ]
+  },
+  {
+    "lesson_id": "7-1",
+    "title": "숙제를 낸다는 것이 일기장을 냈어요",
+    "words": [
+      {"id": "01", "korean": "어떡하다", "chinese": "怎么办"},
+      {"id": "02", "korean": "그만", "chinese": "就那样"},
+      {"id": "03", "korean": "일기장", "chinese": "日记本"},
+      {"id": "04", "korean": "비밀", "chinese": "秘密"},
+      {"id": "05", "korean": "내용", "chinese": "内容"},
+      {"id": "06", "korean": "잘못하다", "chinese": "做错/犯错"},
+      {"id": "07", "korean": "착각하다", "chinese": "误以为"},
+      {"id": "08", "korean": "오해하다", "chinese": "误会"},
+      {"id": "09", "korean": "커피를 뽑다", "chinese": "接咖啡/萃取咖啡"},
+      {"id": "10", "korean": "생강차", "chinese": "生姜茶"},
+      {"id": "11", "korean": "할 수 없이", "chinese": "没办法"},
+      {"id": "12", "korean": "제대로", "chinese": "合乎要求地/好好地"},
+      {"id": "13", "korean": "렌즈", "chinese": "隐形眼镜/镜头"},
+      {"id": "14", "korean": "멀리서", "chinese": "从远处"}
+    ]
+  },
+  {
+    "lesson_id": "7-2",
+    "title": "하숙집 친구들은 가족 같은 사이잖아요",
+    "words": [
+      {"id": "01", "korean": "친하다", "chinese": "亲近"},
+      {"id": "02", "korean": "끼리", "chinese": "（同类的）-群"},
+      {"id": "03", "korean": "비위생적이다", "chinese": "不卫生的"},
+      {"id": "04", "korean": "불평하다", "chinese": "埋冤/抱怨"},
+      {"id": "05", "korean": "사이", "chinese": "关系"},
+      {"id": "06", "korean": "식사 예절", "chinese": "用餐礼节"},
+      {"id": "07", "korean": "방문 예절", "chinese": "拜访礼节"},
+      {"id": "08", "korean": "언어 예절", "chinese": "说话礼节"},
+      {"id": "09", "korean": "전화 예절", "chinese": "电话礼节"},
+      {"id": "10", "korean": "동성", "chinese": "同性"},
+      {"id": "11", "korean": "친근감", "chinese": "亲近感"},
+      {"id": "12", "korean": "표현", "chinese": "表达"},
+      {"id": "13", "korean": "다닥다닥", "chinese": "密密⿇⿇地"},
+      {"id": "14", "korean": "개성", "chinese": "个性"},
+      {"id": "15", "korean": "꾸미다", "chinese": "装饰/打扮"},
+      {"id": "16", "korean": "문화 충격", "chinese": "文化冲击"}
+    ]
+  },
+  {
+    "lesson_id": "7-3",
+    "title": "오히려 제가 미안한데요",
+    "words": [
+      {"id": "01", "korean": "들르다", "chinese": "顺便去"},
+      {"id": "02", "korean": "부담", "chinese": "负担"},
+      {"id": "03", "korean": "직접적으로", "chinese": "直接"},
+      {"id": "04", "korean": "그럴 리가요 .", "chinese": "怎么会呢"},
+      {"id": "05", "korean": "오히려", "chinese": "反而"},
+      {"id": "06", "korean": "볼일", "chinese": "要办的事儿"},
+      {"id": "07", "korean": "사과하다", "chinese": "道歉"},
+      {"id": "08", "korean": "변명하다", "chinese": "辩解"},
+      {"id": "09", "korean": "용서를 빌다", "chinese": "祈求宽恕"},
+      {"id": "10", "korean": "양해를 구하다", "chinese": "寻求原谅"},
+      {"id": "11", "korean": "행동", "chinese": "行动"},
+      {"id": "12", "korean": "옳다", "chinese": "正确"},
+      {"id": "13", "korean": "횟수", "chinese": "次数/回数"}
+    ]
+  },
+  {
+    "lesson_id": "7-4",
+    "title": "다른 방법으로 미안함을 표현하기도 해요",
+    "words": [
+      {"id": "01", "korean": "오해를 사다", "chinese": "引起误会"},
+      {"id": "02", "korean": "부딪치다", "chinese": "碰/撞"},
+      {"id": "03", "korean": "계속", "chinese": "继续"},
+      {"id": "04", "korean": "표현하다", "chinese": "表达"},
+      {"id": "05", "korean": "화해하다", "chinese": "和解"},
+      {"id": "06", "korean": "알아듣다", "chinese": "听懂/听明白"},
+      {"id": "07", "korean": "설득하다", "chinese": "说服"},
+      {"id": "08", "korean": "진심", "chinese": "真心"},
+      {"id": "09", "korean": "무조건", "chinese": "无条件地"},
+      {"id": "10", "korean": "어색하다", "chinese": "尴尬"},
+      {"id": "11", "korean": "효과적이다", "chinese": "有效的"},
+      {"id": "12", "korean": "불만", "chinese": "不满"}
+    ]
+  },
+  {
+    "lesson_id": "7-5",
+    "title": "정리해 볼까요 ?",
+    "words": [
+      {"id": "01", "korean": "문화권", "chinese": "文化圈"},
+      {"id": "02", "korean": "차이", "chinese": "差异"},
+      {"id": "03", "korean": "팔짱을 끼다", "chinese": "挽着胳膊"}
+    ]
+  }，
+  {
+    "lesson_id": "8-1",
+    "title": "같이 의논해 보도록 하자",
+    "words": [
+      {"id": "01", "korean": "일정", "chinese": "日程"},
+      {"id": "02", "korean": "전체", "chinese": "全体"},
+      {"id": "03", "korean": "의논하다", "chinese": "讨论/商量"},
+      {"id": "04", "korean": "회원", "chinese": "会员"},
+      {"id": "05", "korean": "준비물", "chinese": "准备物品"},
+      {"id": "06", "korean": "진행", "chinese": "进行"},
+      {"id": "07", "korean": "도시락", "chinese": "盒饭/便当"},
+      {"id": "08", "korean": "간식", "chinese": "零食"},
+      {"id": "09", "korean": "잔디밭", "chinese": "草地"},
+      {"id": "10", "korean": "도시락을 싸다", "chinese": "带盒饭"},
+      {"id": "11", "korean": "구체적이다", "chinese": "具体的"},
+      {"id": "12", "korean": "나누다", "chinese": "分"},
+      {"id": "13", "korean": "장점", "chinese": "优点/长处"},
+      {"id": "14", "korean": "맡다", "chinese": "担任/负责"},
+      {"id": "15", "korean": "비상약", "chinese": "紧急药品/常备药品"}
+    ]
+  },
+  {
+    "lesson_id": "8-2",
+    "title": "우리 언어 교환 할까요 ?",
+    "words": [
+      {"id": "01", "korean": "어찌나", "chinese": "非常/很"},
+      {"id": "02", "korean": "발음", "chinese": "发音"},
+      {"id": "03", "korean": "마침", "chinese": "正好"},
+      {"id": "04", "korean": "언어 교환", "chinese": "语言交换"},
+      {"id": "05", "korean": "시간이 나다", "chinese": "有时间"},
+      {"id": "06", "korean": "모국어", "chinese": "母语"},
+      {"id": "07", "korean": "기타", "chinese": "其他"},
+      {"id": "08", "korean": "조사", "chinese": "助词"},
+      {"id": "09", "korean": "참고", "chinese": "参考"},
+      {"id": "10", "korean": "게시판", "chinese": "公告栏/留言板"},
+      {"id": "11", "korean": "현지인", "chinese": "当地人"},
+      {"id": "12", "korean": "우정", "chinese": "友情"},
+      {"id": "13", "korean": "상관없다", "chinese": "无关"}
+    ]
+  },
+  {
+    "lesson_id": "8-3",
+    "title": "친한 친구한테는 말할지도 모르잖아요",
+    "words": [
+      {"id": "01", "korean": "표정", "chinese": "表情"},
+      {"id": "02", "korean": "어둡다", "chinese": "阴暗/暗淡"},
+      {"id": "03", "korean": "아무", "chinese": "任何"},
+      {"id": "04", "korean": "아무리", "chinese": "不管怎样"},
+      {"id": "05", "korean": "말 못할 -", "chinese": "无法言喻的"},
+      {"id": "06", "korean": "걱정을 하다", "chinese": "担心"},
+      {"id": "07", "korean": "문제가 생기다", "chinese": "出问题"},
+      {"id": "08", "korean": "충고를 하다", "chinese": "忠告"},
+      {"id": "09", "korean": "의견을 말하다", "chinese": "表达意见"},
+      {"id": "10", "korean": "풀다", "chinese": "解答/消除"},
+      {"id": "11", "korean": "해결하다", "chinese": "解决"},
+      {"id": "12", "korean": "기분이 상하다", "chinese": "伤心"},
+      {"id": "13", "korean": "적성", "chinese": "适合与否"},
+      {"id": "14", "korean": "결국", "chinese": "结果/最后"}
+    ]
+  },
+  {
+    "lesson_id": "8-4",
+    "title": "한국 대학교에 입학하고 싶은데요",
+    "words": [
+      {"id": "01", "korean": "입학하다", "chinese": "入学"},
+      {"id": "02", "korean": "원서", "chinese": "申请书"},
+      {"id": "03", "korean": "접수시키다", "chinese": "交付"},
+      {"id": "04", "korean": "성적표", "chinese": "成绩单"},
+      {"id": "05", "korean": "면접시험", "chinese": "面试"},
+      {"id": "06", "korean": "그밖에", "chinese": "此外"},
+      {"id": "07", "korean": "상담실", "chinese": "咨询室"},
+      {"id": "08", "korean": "상담 교사", "chinese": "咨询老师"},
+      {"id": "09", "korean": "조언", "chinese": "建议/指教"},
+      {"id": "10", "korean": "상담하다", "chinese": "咨询/商谈"},
+      {"id": "11", "korean": "심사", "chinese": "审查"},
+      {"id": "12", "korean": "합격자", "chinese": "合格者"},
+      {"id": "13", "korean": "등록금", "chinese": "学费"},
+      {"id": "14", "korean": "납부", "chinese": "缴纳"},
+      {"id": "15", "korean": "한국학", "chinese": "韩国学"},
+      {"id": "16", "korean": "용지", "chinese": "用纸"},
+      {"id": "17", "korean": "당장", "chinese": "当场/马上"},
+      {"id": "18", "korean": "취업", "chinese": "就业"},
+      {"id": "19", "korean": "담임 선생님", "chinese": "班主任"}
+    ]
+  },
+  {
+    "lesson_id": "8-5",
+    "title": "정리해 볼까요 ?",
+    "words": [
+      {"id": "01", "korean": "교육", "chinese": "教育"},
+      {"id": "02", "korean": "예의", "chinese": "礼仪"},
+      {"id": "03", "korean": "공경", "chinese": "恭敬"},
+      {"id": "04", "korean": "스승", "chinese": "师长/老师"}
+    ]
+  },
+  {
+    "lesson_id": "9-1",
+    "title": "미안하지만 음료수 좀 부탁해도 될까 ?",
+    "words": [
+      {"id": "01", "korean": "뭐", "chinese": "什么"},
+      {"id": "02", "korean": "갑자기", "chinese": "突然"},
+      {"id": "03", "korean": "밤을 새우다", "chinese": "熬夜/通宵"},
+      {"id": "04", "korean": "어쩐지", "chinese": "难怪"},
+      {"id": "05", "korean": "부탁을 받다", "chinese": "接受请求"},
+      {"id": "06", "korean": "부탁을 들어주다", "chinese": "答应拜托"},
+      {"id": "07", "korean": "거절을 하다", "chinese": "拒绝"},
+      {"id": "08", "korean": "거절을 당하다", "chinese": "被拒绝"},
+      {"id": "09", "korean": "필기하다", "chinese": "做笔记"},
+      {"id": "10", "korean": "한꺼번에", "chinese": "-下子"}
+    ]
+  },
+  {
+    "lesson_id": "9-2",
+    "title": "사진 좀 찍어 주실 수 있으세요 ?",
+    "words": [
+      {"id": "01", "korean": "지나가다", "chinese": "路过/经过"},
+      {"id": "02", "korean": "내밀다", "chinese": "伸出"},
+      {"id": "03", "korean": "기린", "chinese": "长颈鹿"},
+      {"id": "04", "korean": "발짝", "chinese": "步"},
+      {"id": "05", "korean": "물러나다", "chinese": "后退"},
+      {"id": "06", "korean": "용돈", "chinese": "零花钱"},
+      {"id": "07", "korean": "추천서", "chinese": "推荐信"},
+      {"id": "08", "korean": "떨어지다", "chinese": "有距离/分开"},
+      {"id": "09", "korean": "분명하다", "chinese": "分明"},
+      {"id": "10", "korean": "도움을 청하다", "chinese": "请求帮助"},
+      {"id": "11", "korean": "기술", "chinese": "技术"},
+      {"id": "12", "korean": "조건", "chinese": "条件"}
+    ]
+  },
+  {
+    "lesson_id": "9-3",
+    "title": "어떻게 하지요 ? 어려울 것 같은데요",
+    "words": [
+      {"id": "01", "korean": "발표", "chinese": "发表/发言/报告"},
+      {"id": "02", "korean": "순서", "chinese": "顺序"},
+      {"id": "03", "korean": "지방", "chinese": "地方"},
+      {"id": "04", "korean": "안 되다", "chinese": "不行/不可以"},
+      {"id": "05", "korean": "불가능하다", "chinese": "不可以/不可能"},
+      {"id": "06", "korean": "승낙", "chinese": "承诺/应允"},
+      {"id": "07", "korean": "이기적이다", "chinese": "自私的"},
+      {"id": "08", "korean": "한계", "chinese": "限度/边际"},
+      {"id": "09", "korean": "파악하다", "chinese": "掌握"},
+      {"id": "10", "korean": "쩔쩔매다", "chinese": "手足无措"}
+    ]
+  },
+  {
+    "lesson_id": "9-4",
+    "title": "좀 곤란할 것 같은데요",
+    "words": [
+      {"id": "01", "korean": "거래처", "chinese": "客户"},
+      {"id": "02", "korean": "귀하다", "chinese": "尊贵/重要"},
+      {"id": "03", "korean": "마중을 나가다", "chinese": "迎接"},
+      {"id": "04", "korean": "통역", "chinese": "翻译/口译"},
+      {"id": "05", "korean": "곤란하다", "chinese": "困难/为难"},
+      {"id": "06", "korean": "사모님", "chinese": "称呼上司或长者妻子"},
+      {"id": "07", "korean": "기운이 없다", "chinese": "无精打采"},
+      {"id": "08", "korean": "성의가 없다", "chinese": "没有诚意"}
+    ]
+  },
+  {
+    "lesson_id": "9-5",
+    "title": "정리해 볼까요 ?",
+    "words": [
+      {"id": "01", "korean": "속담", "chinese": "谚语"},
+      {"id": "02", "korean": "정직하다", "chinese": "正直"}
+    ]
+  },
+  {
+    "lesson_id": "10-1",
+    "title": "영화를 보러 가곤 했어요",
+    "words": [
+      {"id": "01", "korean": "추억하다", "chinese": "回忆"},
+      {"id": "02", "korean": "유난히", "chinese": "特别/格外"},
+      {"id": "03", "korean": "관련", "chinese": "相关"},
+      {"id": "04", "korean": "말이 나온 김에", "chinese": "说到这儿"},
+      {"id": "05", "korean": "회상", "chinese": "回想"},
+      {"id": "06", "korean": "준비", "chinese": "准备"},
+      {"id": "07", "korean": "상상", "chinese": "想象"},
+      {"id": "08", "korean": "반성", "chinese": "反省"},
+      {"id": "09", "korean": "후회", "chinese": "后悔"},
+      {"id": "10", "korean": "기억하다", "chinese": "记住/记忆"},
+      {"id": "11", "korean": "깜빡하다", "chinese": "-下子忘记"},
+      {"id": "12", "korean": "외우다", "chinese": "背诵"},
+      {"id": "13", "korean": "잔소리", "chinese": "唠叨/废话"},
+      {"id": "14", "korean": "그립다", "chinese": "想念/思念"},
+      {"id": "15", "korean": "단짝 친구", "chinese": "好朋友"},
+      {"id": "16", "korean": "통통하다", "chinese": "胖乎乎的"},
+      {"id": "17", "korean": "땡땡이 치다", "chinese": "逃课/逃学"},
+      {"id": "18", "korean": "떠오르다", "chinese": "浮现/升起"},
+      {"id": "19", "korean": "들키다", "chinese": "被发觉"}
+    ]
+  },
+  {
+    "lesson_id": "10-2",
+    "title": "10 년 전에는 어땠는데요 ?",
+    "words": [
+      {"id": "01", "korean": "변하다", "chinese": "变"},
+      {"id": "02", "korean": "양쪽", "chinese": "两侧/两边"},
+      {"id": "03", "korean": "단층", "chinese": "单层"},
+      {"id": "04", "korean": "발전되다", "chinese": "发展"},
+      {"id": "05", "korean": "시간이 흐르다", "chinese": "时间流逝"},
+      {"id": "06", "korean": "좋아지다", "chinese": "好转/变好"},
+      {"id": "07", "korean": "향상되다", "chinese": "提高/向上"},
+      {"id": "08", "korean": "늘다", "chinese": "增加/增长"},
+      {"id": "09", "korean": "늘다", "chinese": "增加/增长"},
+      {"id": "10", "korean": "세월", "chinese": "岁月"},
+      {"id": "11", "korean": "자부심", "chinese": "自豪"},
+      {"id": "12", "korean": "초고속", "chinese": "超高速"},
+      {"id": "13", "korean": "아쉽다", "chinese": "可惜"},
+      {"id": "14", "korean": "예전", "chinese": "以前"}
+    ]
+  },
+  {
+    "lesson_id": "10-3",
+    "title": "한국에 오지 않았다면 어땠을까요",
+    "words": [
+      {"id": "01", "korean": "어느새", "chinese": "不知不觉"},
+      {"id": "02", "korean": "귀국하다", "chinese": "回国"},
+      {"id": "03", "korean": "사정", "chinese": "事情/情况"},
+      {"id": "04", "korean": "바라다", "chinese": "期盼"},
+      {"id": "05", "korean": "가정하다", "chinese": "假设/假定"},
+      {"id": "06", "korean": "상상하다", "chinese": "想象"},
+      {"id": "07", "korean": "추측하다", "chinese": "推测"},
+      {"id": "08", "korean": "예상하다", "chinese": "预想"},
+      {"id": "09", "korean": "경우", "chinese": "情况/境况"},
+      {"id": "10", "korean": "상황", "chinese": "状况"},
+      {"id": "11", "korean": "상태", "chinese": "状态"},
+      {"id": "12", "korean": "실망하다", "chinese": "失望"},
+      {"id": "13", "korean": "만족하다", "chinese": "满意"},
+      {"id": "14", "korean": "대통령", "chinese": "总统"},
+      {"id": "15", "korean": "태어나다", "chinese": "出生"},
+      {"id": "16", "korean": "천재", "chinese": "天才"},
+      {"id": "17", "korean": "이루다", "chinese": "实现"},
+      {"id": "18", "korean": "결과적으로", "chinese": "结果"}
+    ]
+  },
+  {
+    "lesson_id": "10-4",
+    "title": "집안일은 물론 아이를 돌보기까지 한대요",
+    "words": [
+      {"id": "01", "korean": "드디어", "chinese": "终于"},
+      {"id": "02", "korean": "새롭다", "chinese": "新"},
+      {"id": "03", "korean": "가사", "chinese": "家务事"},
+      {"id": "04", "korean": "판매되다", "chinese": "出售/上市"},
+      {"id": "05", "korean": "완벽하다", "chinese": "完美"},
+      {"id": "06", "korean": "기능", "chinese": "功能"},
+      {"id": "07", "korean": "신기술", "chinese": "新技术"},
+      {"id": "08", "korean": "신형", "chinese": "新型"},
+      {"id": "09", "korean": "신기록", "chinese": "新纪录"},
+      {"id": "10", "korean": "신제품", "chinese": "新产品"},
+      {"id": "11", "korean": "신상품", "chinese": "新商品"},
+      {"id": "12", "korean": "발표되다", "chinese": "被发表/问世"},
+      {"id": "13", "korean": "나타나다", "chinese": "出现"},
+      {"id": "14", "korean": "밝혀지다", "chinese": "被查明/被公布"},
+      {"id": "15", "korean": "알려지다", "chinese": "传开/流传"},
+      {"id": "16", "korean": "발견되다", "chinese": "被发现"},
+      {"id": "17", "korean": "단순히", "chinese": "单纯地"},
+      {"id": "18", "korean": "관계자", "chinese": "相关人士"},
+      {"id": "19", "korean": "소비자", "chinese": "消费者"},
+      {"id": "20", "korean": "요구", "chinese": "要求"},
+      {"id": "21", "korean": "응모하다", "chinese": "应征"}
+    ]
+  },
+  {
+    "lesson_id": "10-5",
+    "title": "정리해 볼까요 ?",
+    "words": [
+      {"id": "01", "korean": "수도", "chinese": "首都"},
+      {"id": "02", "korean": "한가운데", "chinese": "正中间"},
+      {"id": "03", "korean": "대표", "chinese": "代表"},
+      {"id": "04", "korean": "기적", "chinese": "奇迹"},
+      {"id": "05", "korean": "요지", "chinese": "要地/重地"},
+      {"id": "06", "korean": "중심지", "chinese": "中心地"}
+    ]
+  }
+]

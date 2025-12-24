@@ -1,0 +1,801 @@
+[
+  {
+    "chapter": "1-1",
+    "title": "살다가 보니 적응이 됩니다",
+    "vocab": [
+      { "id": "01", "word": "겁", "meaning": "胆怯" },
+      { "id": "02", "word": "적응", "meaning": "适应" },
+      { "id": "03", "word": "다행이다", "meaning": "万幸" },
+      { "id": "04", "word": "시설", "meaning": "设施/设备/机构" },
+      { "id": "05", "word": "도심", "meaning": "城市中心" },
+      { "id": "06", "word": "주택가", "meaning": "居民区" },
+      { "id": "07", "word": "도시 근교", "meaning": "城市近郊" },
+      { "id": "08", "word": "고층 건물", "meaning": "高层建筑" },
+      { "id": "09", "word": "편의 시설", "meaning": "便利设施" },
+      { "id": "10", "word": "한적하다", "meaning": "闲适/幽静" },
+      { "id": "11", "word": "번화하다", "meaning": "繁华" },
+      { "id": "12", "word": "쾌적하다", "meaning": "舒适" }
+    ]
+  },
+  {
+    "chapter": "1-2",
+    "title": "저희 부모님이나 다름없는 분이에요",
+    "vocab": [
+      { "id": "01", "word": "인생", "meaning": "⼈⽣" },
+      { "id": "02", "word": "영향", "meaning": "影响" },
+      { "id": "03", "word": "끼치다", "meaning": "造成" },
+      { "id": "04", "word": "부럽다", "meaning": "羡慕" },
+      { "id": "05", "word": "궁금하다", "meaning": "好奇/想知道" },
+      { "id": "06", "word": "뿌듯하다", "meaning": "心满意足" },
+      { "id": "07", "word": "초조하다", "meaning": "焦躁" },
+      { "id": "08", "word": "당황스럽다", "meaning": "惊慌" },
+      { "id": "09", "word": "부담스럽다", "meaning": "有压力/有负担" },
+      { "id": "10", "word": "짜증스럽다", "meaning": "烦躁" }
+    ]
+  },
+  {
+    "chapter": "1-3",
+    "title": "시간을 낭비하지 않도록 계획을 세우세요",
+    "vocab": [
+      { "id": "01", "word": "정신", "meaning": "精神" },
+      { "id": "02", "word": "차리다", "meaning": "打起（精神）" },
+      { "id": "03", "word": "산더미", "meaning": "小山堆" },
+      { "id": "04", "word": "쌓이다", "meaning": "堆积/积累" },
+      { "id": "05", "word": "살펴보다", "meaning": "仔细看/察看" },
+      { "id": "06", "word": "계획적", "meaning": "有计划的" },
+      { "id": "07", "word": "효율적", "meaning": "高效的" },
+      { "id": "08", "word": "비효율적", "meaning": "效率低的" },
+      { "id": "09", "word": "미루다", "meaning": "拖延/拖后" },
+      { "id": "10", "word": "포기하다", "meaning": "放弃" },
+      { "id": "11", "word": "목표를 정하다", "meaning": "定下目标" },
+      { "id": "12", "word": "시간에 쫓기다", "meaning": "赶时间" },
+      { "id": "13", "word": "시간을 관리하다", "meaning": "管理时间" }
+    ]
+  },
+  {
+    "chapter": "1-4",
+    "title": "다른 사람도 도와 가면서 살아야겠어요",
+    "vocab": [
+      { "id": "01", "word": "양로원", "meaning": "养老院" },
+      { "id": "02", "word": "봉사 활동", "meaning": "志愿者活动/公益活动" },
+      { "id": "03", "word": "용기", "meaning": "勇气" },
+      { "id": "04", "word": "살아가다", "meaning": "活下去" },
+      { "id": "05", "word": "명예", "meaning": "名誉" },
+      { "id": "06", "word": "미모", "meaning": "美貌" },
+      { "id": "07", "word": "재력", "meaning": "财力" },
+      { "id": "08", "word": "지혜", "meaning": "智慧" },
+      { "id": "09", "word": "출세", "meaning": "有出息/出人头地" },
+      { "id": "10", "word": "학식", "meaning": "学识" }
+    ]
+  },
+  {
+    "chapter": "2-1",
+    "title": "수줍음을 많이 타는지 말이 없어요",
+    "vocab": [
+      { "id": "01", "word": "활달하다", "meaning": "大方/豁达" },
+      { "id": "02", "word": "적극적", "meaning": "积极的" },
+      { "id": "03", "word": "수줍음", "meaning": "害羞/腼腆" },
+      { "id": "04", "word": "낯", "meaning": "脸" },
+      { "id": "05", "word": "가리다", "meaning": "区分/分辨/认生" },
+      { "id": "06", "word": "정", "meaning": "情" },
+      { "id": "07", "word": "첫인상", "meaning": "初印象" },
+      { "id": "08", "word": "내성적", "meaning": "内向" },
+      { "id": "09", "word": "외향적", "meaning": "外向" },
+      { "id": "10", "word": "느긋하다", "meaning": "慢悠悠" },
+      { "id": "11", "word": "명랑하다", "meaning": "明朗/开朗" },
+      { "id": "12", "word": "소심하다", "meaning": "胆小/小心谨慎" },
+      { "id": "13", "word": "솔직하다", "meaning": "直率/坦率" },
+      { "id": "14", "word": "덜렁거리다", "meaning": "冒失" },
+      { "id": "15", "word": "변덕스럽다", "meaning": "善变" }
+    ]
+  },
+  {
+    "chapter": "2-2",
+    "title": "상상력만 풍부하면 뭘 해요 ?",
+    "vocab": [
+      { "id": "01", "word": "취직하다", "meaning": "就业" },
+      { "id": "02", "word": "남", "meaning": "别人" },
+      { "id": "03", "word": "호기심", "meaning": "好奇心" },
+      { "id": "04", "word": "상상력", "meaning": "想象力" },
+      { "id": "05", "word": "풍부하다", "meaning": "丰富" },
+      { "id": "06", "word": "살리다", "meaning": "救活/使 ~ 复活" },
+      { "id": "07", "word": "마술사", "meaning": "魔术师" },
+      { "id": "08", "word": "판사", "meaning": "法官" },
+      { "id": "09", "word": "사업가", "meaning": "企业家" },
+      { "id": "10", "word": "건축가", "meaning": "建筑师" },
+      { "id": "11", "word": "선수", "meaning": "选手/运动员" },
+      { "id": "12", "word": "목수", "meaning": "木匠" },
+      { "id": "13", "word": "승무원", "meaning": "乘务员/空姐" },
+      { "id": "14", "word": "공무원", "meaning": "公务员" },
+      { "id": "15", "word": "기자", "meaning": "记者" },
+      { "id": "16", "word": "성직자", "meaning": "神职人员" },
+      { "id": "17", "word": "연예인", "meaning": "艺人" },
+      { "id": "18", "word": "프로게이머", "meaning": "职业玩家" }
+    ]
+  },
+  {
+    "chapter": "2-3",
+    "title": "일을 시작했다 하면 끝까지 해요",
+    "vocab": [
+      { "id": "01", "word": "즐겁다", "meaning": "愉快" },
+      { "id": "02", "word": "자라다", "meaning": "成长/生长" },
+      { "id": "03", "word": "외동딸", "meaning": "独生女" },
+      { "id": "04", "word": "부족하다", "meaning": "不足/不够/缺乏" },
+      { "id": "05", "word": "싸우다", "meaning": "打架/吵架/斗争" },
+      { "id": "06", "word": "달리", "meaning": "不同" },
+      { "id": "07", "word": "장남", "meaning": "⻓⼦" },
+      { "id": "08", "word": "차남", "meaning": "次子/二儿子" },
+      { "id": "09", "word": "습하다", "meaning": "潮湿" },
+      { "id": "10", "word": "부유하다", "meaning": "富有" },
+      { "id": "11", "word": "빈곤하다", "meaning": "贫困" },
+      { "id": "12", "word": "서늘하다", "meaning": "凉飕飕" },
+      { "id": "13", "word": "쌀쌀하다", "meaning": "凉飕飕" },
+      { "id": "14", "word": "화창하다", "meaning": "风和日丽" }
+    ]
+  },
+  {
+    "chapter": "2-4",
+    "title": "귀 기울여 듣지 않으세요",
+    "vocab": [
+      { "id": "01", "word": "쓰러지다", "meaning": "晕倒/倒下" },
+      { "id": "02", "word": "혈압", "meaning": "血压" },
+      { "id": "03", "word": "명상", "meaning": "冥想" },
+      { "id": "04", "word": "귀 기울이다", "meaning": "倾听" },
+      { "id": "05", "word": "타고나다", "meaning": "天生的/先天的" },
+      { "id": "06", "word": "간염", "meaning": "肝炎" },
+      { "id": "07", "word": "두통", "meaning": "头痛" },
+      { "id": "08", "word": "위염", "meaning": "胃炎" },
+      { "id": "09", "word": "장염", "meaning": "肠炎" },
+      { "id": "10", "word": "치매", "meaning": "痴呆症" },
+      { "id": "11", "word": "폐렴", "meaning": "肺炎" },
+      { "id": "12", "word": "뇌졸중", "meaning": "脑中风" },
+      { "id": "13", "word": "당뇨병", "meaning": "糖尿病" },
+      { "id": "14", "word": "심장병", "meaning": "心脏病" },
+      { "id": "15", "word": "동맥경화", "meaning": "动脉硬化" },
+      { "id": "16", "word": "소화불량", "meaning": "消化不良" },
+      { "id": "17", "word": "머리", "meaning": "头" },
+      { "id": "18", "word": "심장", "meaning": "心脏" },
+      { "id": "19", "word": "혈관", "meaning": "血管" },
+      { "id": "20", "word": "간", "meaning": "肝" },
+      { "id": "21", "word": "인슐린", "meaning": "胰岛素" },
+      { "id": "22", "word": "폐", "meaning": "肺" },
+      { "id": "23", "word": "장", "meaning": "肠" }
+    ]
+  },
+  {
+    "chapter": "3-1",
+    "title": "교환을 하고 싶어요",
+    "vocab": [
+      { "id": "01", "word": "전자", "meaning": "电子" },
+      { "id": "02", "word": "고객센터", "meaning": "客服中心" },
+      { "id": "03", "word": "벽걸이", "meaning": "壁挂式" },
+      { "id": "04", "word": "교환", "meaning": "交换" },
+      { "id": "05", "word": "설치하다", "meaning": "安装/设置" },
+      { "id": "06", "word": "나흘", "meaning": "四天" },
+      { "id": "07", "word": "인수증", "meaning": "收据" },
+      { "id": "08", "word": "반품", "meaning": "退货" },
+      { "id": "09", "word": "분명히", "meaning": "分明/明明" },
+      { "id": "10", "word": "매장", "meaning": "卖场/门店" },
+      { "id": "11", "word": "구입", "meaning": "购买" },
+      { "id": "12", "word": "규정", "meaning": "规定" },
+      { "id": "13", "word": "배송", "meaning": "配送" },
+      { "id": "14", "word": "판매", "meaning": "销售" },
+      { "id": "15", "word": "하자", "meaning": "瑕疵" },
+      { "id": "16", "word": "환불", "meaning": "退款" },
+      { "id": "17", "word": "품질보증서", "meaning": "质量保证书" }
+    ]
+  },
+  {
+    "chapter": "3-2",
+    "title": "있겠어요 ? (Fragment found in file)",
+    "note": "Based on content, this section relates to neighborhood disputes/noise",
+    "vocab": [
+      { "id": "01", "word": "주민", "meaning": "居民" },
+      { "id": "02", "word": "틀다", "meaning": "拧/扭/打开" },
+      { "id": "03", "word": "휴식", "meaning": "休息" },
+      { "id": "04", "word": "취하다", "meaning": "采取" },
+      { "id": "05", "word": "어쩔 수 없다", "meaning": "没办法" },
+      { "id": "06", "word": "피해", "meaning": "受害/被害/损失" },
+      { "id": "07", "word": "무시하다", "meaning": "无视" },
+      { "id": "08", "word": "해", "meaning": "害处" },
+      { "id": "09", "word": "손해", "meaning": "损害" },
+      { "id": "10", "word": "영향", "meaning": "影响" },
+      { "id": "11", "word": "받다", "meaning": "受到/获得" },
+      { "id": "12", "word": "보다", "meaning": "受" },
+      { "id": "13", "word": "입다", "meaning": "蒙受" },
+      { "id": "14", "word": "주다", "meaning": "给/带来" },
+      { "id": "15", "word": "미치다", "meaning": "造成" },
+      { "id": "16", "word": "입히다", "meaning": "使 ~ 蒙受" }
+    ]
+  },
+  {
+    "chapter": "3-3",
+    "title": "도대체 잠을 잘 수가 있어야지",
+    "vocab": [
+      { "id": "01", "word": "참다", "meaning": "忍住/忍受" },
+      { "id": "02", "word": "망설이다", "meaning": "犹豫/迟疑" },
+      { "id": "03", "word": "설치다", "meaning": "不彻底/不充分" },
+      { "id": "04", "word": "부스럭거리다", "meaning": "沙沙作响" },
+      { "id": "05", "word": "도대체", "meaning": "到底/究竟" },
+      { "id": "06", "word": "맞추다", "meaning": "配合/磨合" },
+      { "id": "07", "word": "본의 아니게", "meaning": "无意" },
+      { "id": "08", "word": "방해", "meaning": "妨碍" },
+      { "id": "09", "word": "따지다", "meaning": "追究" },
+      { "id": "10", "word": "고발하다", "meaning": "告发/检举" },
+      { "id": "11", "word": "고소하다", "meaning": "控诉/起诉" },
+      { "id": "12", "word": "변명하다", "meaning": "辩解" },
+      { "id": "13", "word": "부인하다", "meaning": "否认" },
+      { "id": "14", "word": "불평하다", "meaning": "抱怨/埋冤" },
+      { "id": "15", "word": "사과하다", "meaning": "道歉" },
+      { "id": "16", "word": "시인하다", "meaning": "承认" },
+      { "id": "17", "word": "합의하다", "meaning": "协商/协议" },
+      { "id": "18", "word": "말다툼하다", "meaning": "吵架" }
+    ]
+  },
+  {
+    "chapter": "3-4",
+    "title": "하숙비 반을 돌려 주셔야지요",
+    "vocab": [
+      { "id": "01", "word": "가까이", "meaning": "附近/近处" },
+      { "id": "02", "word": "남다", "meaning": "剩下/剩余" },
+      { "id": "03", "word": "한꺼번에", "meaning": "-下子" },
+      { "id": "04", "word": "- 치", "meaning": "份" },
+      { "id": "05", "word": "빼다", "meaning": "减去/抽出" },
+      { "id": "06", "word": "계약", "meaning": "合同/合约" },
+      { "id": "07", "word": "월세", "meaning": "月租" },
+      { "id": "08", "word": "전세", "meaning": "典租（韩国特有）" },
+      { "id": "09", "word": "계약금", "meaning": "定金" },
+      { "id": "10", "word": "계약서", "meaning": "合同书" },
+      { "id": "11", "word": "보증금", "meaning": "保证金" },
+      { "id": "12", "word": "세입자", "meaning": "入住者/租赁者" },
+      { "id": "13", "word": "부동산 중개소", "meaning": "房地产中介" }
+    ]
+  }，
+  {
+    "chapter": "4-1",
+    "title": "스트레스도 풀 겸 노래방에 갈까요 ?",
+    "vocab": [
+      { "id": "01", "word": "즐기다", "meaning": "享受/喜爱" },
+      { "id": "02", "word": "주로", "meaning": "主要" },
+      { "id": "03", "word": "종류", "meaning": "种类" },
+      { "id": "04", "word": "공간", "meaning": "空间" },
+      { "id": "05", "word": "개발하다", "meaning": "研发/开发" },
+      { "id": "06", "word": "윷놀이", "meaning": "翻板子游戏" },
+      { "id": "07", "word": "제기차기", "meaning": "踢毽子" },
+      { "id": "08", "word": "그네뛰기", "meaning": "荡秋千" },
+      { "id": "09", "word": "씨름", "meaning": "摔跤" },
+      { "id": "10", "word": "널뛰기", "meaning": "跳跳板" },
+      { "id": "11", "word": "줄다리기", "meaning": "拔河" },
+      { "id": "12", "word": "강강술래", "meaning": "团圆舞" }
+    ]
+  },
+  {
+    "chapter": "4-2",
+    "title": "이젠 저도 뜨거운 음식에 익숙해졌는걸요 .",
+    "vocab": [
+      { "id": "01", "word": "후후", "meaning": "呼呼" },
+      { "id": "02", "word": "흘리다", "meaning": "流/洒" },
+      { "id": "03", "word": "완전히", "meaning": "完全" },
+      { "id": "04", "word": "달콤하다", "meaning": "甜甜的" },
+      { "id": "05", "word": "쌉쌀하다", "meaning": "微苦" },
+      { "id": "06", "word": "짭짤하다", "meaning": "微咸" },
+      { "id": "07", "word": "매콤하다", "meaning": "香辣" },
+      { "id": "08", "word": "새콤하다", "meaning": "酸" },
+      { "id": "09", "word": "담백하다", "meaning": "清淡" },
+      { "id": "10", "word": "느끼하다", "meaning": "油腻" },
+      { "id": "11", "word": "떫다", "meaning": "涩" },
+      { "id": "12", "word": "비리다", "meaning": "有腥味" }
+    ]
+  },
+  {
+    "chapter": "4-3",
+    "title": "무슨 말인지 알아듣기 어렵던데요",
+    "vocab": [
+      { "id": "01", "word": "우연히", "meaning": "偶然" },
+      { "id": "02", "word": "세대 차이", "meaning": "代沟" },
+      { "id": "03", "word": "게다가", "meaning": "加上/而且" },
+      { "id": "04", "word": "용어", "meaning": "用语/术语" },
+      { "id": "05", "word": "간", "meaning": "之间" },
+      { "id": "06", "word": "마찬가지이다", "meaning": "相同" },
+      { "id": "07", "word": "번역", "meaning": "翻译/笔译" },
+      { "id": "08", "word": "거절하다", "meaning": "拒绝" },
+      { "id": "09", "word": "격려하다", "meaning": "鼓励/激励" },
+      { "id": "10", "word": "고백하다", "meaning": "告白/表白" },
+      { "id": "11", "word": "권하다", "meaning": "劝/劝说" },
+      { "id": "12", "word": "농담하다", "meaning": "开玩笑" },
+      { "id": "13", "word": "재촉하다", "meaning": "催促" },
+      { "id": "14", "word": "칭찬하다", "meaning": "称赞" },
+      { "id": "15", "word": "비난하다", "meaning": "指责/谴责" }
+    ]
+  },
+  {
+    "chapter": "4-4",
+    "title": "바쁠 텐데 동호회 활동도 해요 ?",
+    "vocab": [
+      { "id": "01", "word": "새까맣다", "meaning": "漆黑" },
+      { "id": "02", "word": "답사", "meaning": "考察/参观学习" },
+      { "id": "03", "word": "관찰하다", "meaning": "观察" },
+      { "id": "04", "word": "그만이다", "meaning": "好极了/没得说" },
+      { "id": "05", "word": "벅차다", "meaning": "吃力/费劲/充满" },
+      { "id": "06", "word": "정보", "meaning": "信息" },
+      { "id": "07", "word": "공유하다", "meaning": "共享" },
+      { "id": "08", "word": "색다르다", "meaning": "与众不同" },
+      { "id": "09", "word": "체험하다", "meaning": "体验" },
+      { "id": "10", "word": "봉사하다", "meaning": "做公益/志愿者活动" },
+      { "id": "11", "word": "자기 계발을 하다", "meaning": "提升自己" },
+      { "id": "12", "word": "취미 활동을 하다", "meaning": "参与兴趣活动" }
+    ]
+  },
+  {
+    "chapter": "5-1",
+    "title": "기술이 나날이 발전하고 있어요",
+    "vocab": [
+      { "id": "01", "word": "기술", "meaning": "技术" },
+      { "id": "02", "word": "나날이", "meaning": "日益/日渐" },
+      { "id": "03", "word": "목록", "meaning": "目录" },
+      { "id": "04", "word": "유통기한", "meaning": "保质期/流通期限" },
+      { "id": "05", "word": "산지", "meaning": "产地" },
+      { "id": "06", "word": "표시", "meaning": "标⽰/标记" },
+      { "id": "07", "word": "과거", "meaning": "过去" },
+      { "id": "08", "word": "현재", "meaning": "现在" },
+      { "id": "09", "word": "미래", "meaning": "未来" },
+      { "id": "10", "word": "옛날", "meaning": "以前/从前" },
+      { "id": "11", "word": "지금", "meaning": "现在" },
+      { "id": "12", "word": "훗날", "meaning": "日后/将来" },
+      { "id": "13", "word": "고대", "meaning": "古代" },
+      { "id": "14", "word": "중세", "meaning": "中世纪" },
+      { "id": "15", "word": "근대", "meaning": "近代" },
+      { "id": "16", "word": "현대", "meaning": "现代" },
+      { "id": "17", "word": "세기", "meaning": "世纪" },
+      { "id": "18", "word": "세대", "meaning": "世代/代" },
+      { "id": "19", "word": "시절", "meaning": "时节/时代" }
+    ]
+  },
+  {
+    "chapter": "5-2",
+    "title": "안 하고서는 생활하기 힘들어요 (Fragment from file)",
+    "vocab": [
+      { "id": "01", "word": "중매", "meaning": "说媒" },
+      { "id": "02", "word": "결혼 적령기", "meaning": "适婚年龄" },
+      { "id": "03", "word": "배우자", "meaning": "配偶" },
+      { "id": "04", "word": "갖추다", "meaning": "具备" },
+      { "id": "05", "word": "신세대", "meaning": "新-代" },
+      { "id": "06", "word": "결혼관", "meaning": "婚姻观" },
+      { "id": "07", "word": "맞벌이", "meaning": "双职工" },
+      { "id": "08", "word": "선호하다", "meaning": "偏爱/喜欢" },
+      { "id": "09", "word": "기혼", "meaning": "已婚" },
+      { "id": "10", "word": "미혼", "meaning": "未婚" },
+      { "id": "11", "word": "이혼", "meaning": "离婚" },
+      { "id": "12", "word": "재혼", "meaning": "再婚" },
+      { "id": "13", "word": "파혼", "meaning": "解除婚约" },
+      { "id": "14", "word": "혼기", "meaning": "婚期" },
+      { "id": "15", "word": "혼담", "meaning": "提亲" },
+      { "id": "16", "word": "혼수", "meaning": "彩礼/嫁妆" }
+    ]
+  },
+  {
+    "chapter": "5-3",
+    "title": "감시 카메라로 인해 스트레스를 받는 사람들도 많다는데요",
+    "vocab": [
+      { "id": "01", "word": "감시", "meaning": "监视" },
+      { "id": "02", "word": "안심", "meaning": "安心" },
+      { "id": "03", "word": "안전", "meaning": "安全" },
+      { "id": "04", "word": "면", "meaning": "面/方面" },
+      { "id": "05", "word": "제약", "meaning": "制约/限制" },
+      { "id": "06", "word": "악용되다", "meaning": "被滥用/被恶意利用" },
+      { "id": "07", "word": "침해", "meaning": "侵害/侵犯" },
+      { "id": "08", "word": "권리", "meaning": "权利" },
+      { "id": "09", "word": "인권", "meaning": "人权" },
+      { "id": "10", "word": "소유권", "meaning": "所有权" },
+      { "id": "11", "word": "재산권", "meaning": "财产权" },
+      { "id": "12", "word": "저작권", "meaning": "著作权" },
+      { "id": "13", "word": "초상권", "meaning": "肖像权" },
+      { "id": "14", "word": "명예훼손", "meaning": "损害名誉" },
+      { "id": "15", "word": "손해배상", "meaning": "赔偿损失" }
+    ]
+  },
+  {
+    "chapter": "5-4",
+    "title": "오래 있다 보면 변화를 못 느끼는 법이에요",
+    "vocab": [
+      { "id": "01", "word": "관찰력", "meaning": "观察力" },
+      { "id": "02", "word": "신기하다", "meaning": "神奇/新奇" },
+      { "id": "03", "word": "사고방식", "meaning": "思考方式" },
+      { "id": "04", "word": "보수적이다", "meaning": "保守的" },
+      { "id": "05", "word": "개방적", "meaning": "开放的" },
+      { "id": "06", "word": "개성적", "meaning": "个性的" },
+      { "id": "07", "word": "독립적", "meaning": "独立的" },
+      { "id": "08", "word": "의존적", "meaning": "依赖的" },
+      { "id": "09", "word": "진보적", "meaning": "进步的" },
+      { "id": "10", "word": "폐쇄적", "meaning": "封闭的/闭塞的" },
+      { "id": "11", "word": "획일적", "meaning": "整齐划-的/死板的" }
+    ]
+  },
+  {
+    "chapter": "6-1",
+    "title": "잘못된 정보로 인해 실수를 하는 수가 있어요",
+    "vocab": [
+      { "id": "01", "word": "얻다", "meaning": "获得" },
+      { "id": "02", "word": "꽤", "meaning": "相当" },
+      { "id": "03", "word": "신뢰하다", "meaning": "信赖" },
+      { "id": "04", "word": "잘못하면", "meaning": "弄不好" },
+      { "id": "05", "word": "발표", "meaning": "发表/发言" },
+      { "id": "06", "word": "분석", "meaning": "分析" },
+      { "id": "07", "word": "수집", "meaning": "收集" },
+      { "id": "08", "word": "정리", "meaning": "整理" },
+      { "id": "09", "word": "조사", "meaning": "调查" },
+      { "id": "10", "word": "종합", "meaning": "综合" },
+      { "id": "11", "word": "보고서", "meaning": "报告书" }
+    ]
+  },
+  {
+    "chapter": "6-2",
+    "title": "드라마든 뉴스든 가리지 않고 봐요",
+    "vocab": [
+      { "id": "01", "word": "일단", "meaning": "-旦/先" },
+      { "id": "02", "word": "다큐멘터리", "meaning": "纪录片/实录" },
+      { "id": "03", "word": "유익하다", "meaning": "有利/有益" },
+      { "id": "04", "word": "일석이조", "meaning": "-箭双雕" },
+      { "id": "05", "word": "편성표", "meaning": "编制表" },
+      { "id": "06", "word": "연예오락", "meaning": "演艺娱乐" },
+      { "id": "07", "word": "시사교양", "meaning": "时事教育" }
+    ]
+  },
+  {
+    "chapter": "6-3",
+    "title": "마치 마주보고 대화하는 것처럼 느껴져요",
+    "vocab": [
+      { "id": "01", "word": "연말연시", "meaning": "年末年初" },
+      { "id": "02", "word": "그립다", "meaning": "想念/怀念" },
+      { "id": "03", "word": "영상채팅", "meaning": "视频聊天" },
+      { "id": "04", "word": "마주보다", "meaning": "对视" },
+      { "id": "05", "word": "고생 끝에 낙이 온다", "meaning": "苦尽甘来" },
+      { "id": "06", "word": "덕을 보다", "meaning": "沾光" },
+      { "id": "07", "word": "검색", "meaning": "检索" },
+      { "id": "08", "word": "접속", "meaning": "连接" },
+      { "id": "09", "word": "게시판", "meaning": "留言板/公告栏" },
+      { "id": "10", "word": "네티즌", "meaning": "⽹⺠" },
+      { "id": "11", "word": "사이트", "meaning": "网站" },
+      { "id": "12", "word": "블로그", "meaning": "博客" },
+      { "id": "13", "word": "인터넷 뱅킹", "meaning": "网上银行" },
+      { "id": "14", "word": "동영상", "meaning": "视频" }
+    ]
+  },
+  {
+    "chapter": "6-4",
+    "title": "신문을 읽으면 상식이 풍부해져요",
+    "vocab": [
+      { "id": "01", "word": "일과", "meaning": "每日必做之事/日常" },
+      { "id": "02", "word": "빠뜨리다", "meaning": "落下/跳过" },
+      { "id": "03", "word": "상식", "meaning": "常识" },
+      { "id": "04", "word": "일어나다", "meaning": "发生" },
+      { "id": "05", "word": "란 ( 난 )", "meaning": "栏" },
+      { "id": "06", "word": "만평", "meaning": "时政漫画" },
+      { "id": "07", "word": "사설", "meaning": "社论" },
+      { "id": "08", "word": "칼럼", "meaning": "专栏" },
+      { "id": "09", "word": "독자투고", "meaning": "读者投稿" },
+      { "id": "10", "word": "인사동정", "meaning": "人事动态" },
+      { "id": "11", "word": "기사", "meaning": "报道/消息" },
+      { "id": "12", "word": "만화", "meaning": "漫画" }
+    ]
+  }，
+  {
+    "chapter": "7-1",
+    "title": "제가 축구 경기만 봤다 하면 져요",
+    "vocab": [
+      { "id": "01", "word": "중계방송", "meaning": "转播" },
+      { "id": "02", "word": "결승전", "meaning": "决赛" },
+      { "id": "03", "word": "응원하다", "meaning": "助阵/应援/加油" },
+      { "id": "04", "word": "부상", "meaning": "受伤" },
+      { "id": "05", "word": "출전하다", "meaning": "出战/参赛" },
+      { "id": "06", "word": "복", "meaning": "福气" },
+      { "id": "07", "word": "운", "meaning": "运气" },
+      { "id": "08", "word": "불행", "meaning": "不幸" },
+      { "id": "09", "word": "운수", "meaning": "运气" },
+      { "id": "10", "word": "재수", "meaning": "运气" },
+      { "id": "11", "word": "행운", "meaning": "幸运" },
+      { "id": "12", "word": "기원", "meaning": "祈祷/祈愿" }
+    ]
+  },
+  {
+    "chapter": "7-2",
+    "title": "이름을 빨간 색으로 쓰면 안 돼요 ?",
+    "vocab": [
+      { "id": "01", "word": "비과학적", "meaning": "不科学的" },
+      { "id": "02", "word": "뒤떨어지다", "meaning": "落后/落伍" },
+      { "id": "03", "word": "과학적", "meaning": "科学的" },
+      { "id": "04", "word": "근거", "meaning": "根据" },
+      { "id": "05", "word": "신경 쓰다", "meaning": "费神/劳神" },
+      { "id": "06", "word": "신", "meaning": "神" },
+      { "id": "07", "word": "귀신", "meaning": "鬼" },
+      { "id": "08", "word": "악마", "meaning": "恶魔" },
+      { "id": "09", "word": "천사", "meaning": "天使" },
+      { "id": "10", "word": "마녀", "meaning": "魔女" },
+      { "id": "11", "word": "금기", "meaning": "禁忌" },
+      { "id": "12", "word": "도깨비", "meaning": "鬼怪" },
+      { "id": "13", "word": "민간 신앙", "meaning": "民间信仰" }
+    ]
+  },
+  {
+    "chapter": "7-3",
+    "title": "사주카페에 한번 가 볼까요 ?",
+    "vocab": [
+      { "id": "01", "word": "사주", "meaning": "生辰八字" },
+      { "id": "02", "word": "운명", "meaning": "命运" },
+      { "id": "03", "word": "점치다", "meaning": "占 卜/算卦" },
+      { "id": "04", "word": "더러", "meaning": "使/让" },
+      { "id": "05", "word": "재물", "meaning": "财物/财富" },
+      { "id": "06", "word": "사업", "meaning": "事业" },
+      { "id": "07", "word": "설마", "meaning": "怎么会/难不成" },
+      { "id": "08", "word": "아무러면", "meaning": "怎么可能/再怎么" },
+      { "id": "09", "word": "아무튼", "meaning": "反正/无论如何" },
+      { "id": "10", "word": "평생", "meaning": "-生/终生" },
+      { "id": "11", "word": "사망", "meaning": "死亡" },
+      { "id": "12", "word": "성공", "meaning": "成功" },
+      { "id": "13", "word": "승진", "meaning": "升职" },
+      { "id": "14", "word": "임신", "meaning": "怀孕" },
+      { "id": "15", "word": "진학", "meaning": "升学" },
+      { "id": "16", "word": "출산", "meaning": "分娩/生育" },
+      { "id": "17", "word": "출생", "meaning": "出生" },
+      { "id": "18", "word": "취업", "meaning": "就业" }
+    ]
+  },
+  {
+    "chapter": "7-4",
+    "title": "오늘 좋은 꿈을 꿨어요",
+    "vocab": [
+      { "id": "01", "word": "떨리다", "meaning": "发抖/战栗" },
+      { "id": "02", "word": "상관", "meaning": "相关/相干" },
+      { "id": "03", "word": "길몽", "meaning": "好梦/吉利的梦" },
+      { "id": "04", "word": "한턱내다", "meaning": "请客" },
+      { "id": "05", "word": "선잠", "meaning": "没睡熟" },
+      { "id": "06", "word": "숙면", "meaning": "沉睡/熟睡" },
+      { "id": "07", "word": "악몽", "meaning": "噩梦" },
+      { "id": "08", "word": "태몽", "meaning": "胎梦" },
+      { "id": "09", "word": "해몽", "meaning": "解梦" },
+      { "id": "10", "word": "흉몽", "meaning": "噩梦/不吉利的梦" }
+    ]
+  },
+  {
+    "chapter": "8-1",
+    "title": "저축 상 타신 걸 축하드립니다",
+    "vocab": [
+      { "id": "01", "word": "쑥스럽다", "meaning": "不好意思/难为情" },
+      { "id": "02", "word": "따름이다", "meaning": "只不过/ ~ 罢了" },
+      { "id": "03", "word": "흔하다", "meaning": "多/常见" },
+      { "id": "04", "word": "단돈", "meaning": "极少的钱/-点钱" },
+      { "id": "05", "word": "자녀", "meaning": "⼦⼥" },
+      { "id": "06", "word": "형편", "meaning": "境况/家庭条件" },
+      { "id": "07", "word": "대신", "meaning": "代替" },
+      { "id": "08", "word": "고가", "meaning": "高价" },
+      { "id": "09", "word": "구매", "meaning": "购买" },
+      { "id": "10", "word": "소비", "meaning": "消费" },
+      { "id": "11", "word": "수입", "meaning": "收入/进口" },
+      { "id": "12", "word": "저가", "meaning": "低价" },
+      { "id": "13", "word": "저축", "meaning": "储蓄/存款" },
+      { "id": "14", "word": "절약", "meaning": "节约" },
+      { "id": "15", "word": "지출", "meaning": "支出" },
+      { "id": "16", "word": "과소비", "meaning": "过度消费" }
+    ]
+  },
+  {
+    "chapter": "8-2",
+    "title": "은행에 저축하는 게 최고예요",
+    "vocab": [
+      { "id": "01", "word": "대여", "meaning": "出借/租赁" },
+      { "id": "02", "word": "자금", "meaning": "资金" },
+      { "id": "03", "word": "마련하다", "meaning": "置办/准备好" },
+      { "id": "04", "word": "주식", "meaning": "股票/股份" },
+      { "id": "05", "word": "위험 부담", "meaning": "担保风险" },
+      { "id": "06", "word": "단기간", "meaning": "短期" },
+      { "id": "07", "word": "이익", "meaning": "利益" },
+      { "id": "08", "word": "식비", "meaning": "餐饮费" },
+      { "id": "09", "word": "외식비", "meaning": "在外就餐费" },
+      { "id": "10", "word": "교통비", "meaning": "交通费" },
+      { "id": "11", "word": "문화", "meaning": "文化" },
+      { "id": "12", "word": "레저비", "meaning": "休闲娱乐费" },
+      { "id": "13", "word": "교육비", "meaning": "教育费" },
+      { "id": "14", "word": "경조사비", "meaning": "红白喜事费用" },
+      { "id": "15", "word": "세금", "meaning": "税金" },
+      { "id": "16", "word": "공과금", "meaning": "公共事业费/税" },
+      { "id": "17", "word": "보험", "meaning": "保险" },
+      { "id": "18", "word": "건강", "meaning": "健康" },
+      { "id": "19", "word": "의료비", "meaning": "医疗费" },
+      { "id": "20", "word": "생활잡비", "meaning": "生活杂费" },
+      { "id": "21", "word": "잔액", "meaning": "余额" }
+    ]
+  },
+  {
+    "chapter": "8-3",
+    "title": "신용카드로 결제가 안 되는 바람에 당황했어요",
+    "vocab": [
+      { "id": "01", "word": "신용카드", "meaning": "信用卡" },
+      { "id": "02", "word": "결제", "meaning": "结算" },
+      { "id": "03", "word": "최근", "meaning": "最近" },
+      { "id": "04", "word": "무절제하다", "meaning": "无节制" },
+      { "id": "05", "word": "한도", "meaning": "限度/限额" },
+      { "id": "06", "word": "금액", "meaning": "金额" },
+      { "id": "07", "word": "교훈", "meaning": "教训" },
+      { "id": "08", "word": "면제", "meaning": "免除" },
+      { "id": "09", "word": "적립", "meaning": "积累" },
+      { "id": "10", "word": "할부", "meaning": "分期支付" },
+      { "id": "11", "word": "할인", "meaning": "折扣/打折" },
+      { "id": "12", "word": "가맹점", "meaning": "加盟店" },
+      { "id": "13", "word": "무이자", "meaning": "无利息" },
+      { "id": "14", "word": "연회비", "meaning": "年费" },
+      { "id": "15", "word": "일시불", "meaning": "-次付清" },
+      { "id": "16", "word": "포인트", "meaning": "积分/点" },
+      { "id": "17", "word": "결제", "meaning": "结算" }
+    ]
+  },
+  {
+    "chapter": "8-4",
+    "title": "광고를 보면 사고 싶은 마음이 들게 마련이죠",
+    "vocab": [
+      { "id": "01", "word": "조르다", "meaning": "纠缠" },
+      { "id": "02", "word": "웬만하다", "meaning": "-般/差不多" },
+      { "id": "03", "word": "난리", "meaning": "乱子" },
+      { "id": "04", "word": "타이르다", "meaning": "劝/规劝" },
+      { "id": "05", "word": "쇠귀에 경 읽기", "meaning": "对牛弹琴" },
+      { "id": "06", "word": "판단력", "meaning": "判断力" },
+      { "id": "07", "word": "나무라다", "meaning": "责备/数落" },
+      { "id": "08", "word": "자극하다", "meaning": "刺激" },
+      { "id": "09", "word": "기업", "meaning": "企业" },
+      { "id": "10", "word": "제품", "meaning": "产品" },
+      { "id": "11", "word": "광고주", "meaning": "登广告者/广告客户" },
+      { "id": "12", "word": "광고모델", "meaning": "代言人/广告模特" },
+      { "id": "13", "word": "공익광고", "meaning": "公益广告" },
+      { "id": "14", "word": "온라인광고", "meaning": "在线广告" },
+      { "id": "15", "word": "광고대행사", "meaning": "广告代理公司" }
+    ]
+  },
+  {
+    "chapter": "9-1",
+    "title": "복 많이 받으라고 덕담을 하지요",
+    "vocab": [
+      { "id": "01", "word": "장손", "meaning": "长孙" },
+      { "id": "02", "word": "차례", "meaning": "祭祀/祭礼" },
+      { "id": "03", "word": "세배", "meaning": "拜年" },
+      { "id": "04", "word": "떡국", "meaning": "年糕汤" },
+      { "id": "05", "word": "덕담", "meaning": "吉祥话" },
+      { "id": "06", "word": "친지", "meaning": "亲人知己" },
+      { "id": "07", "word": "관심사", "meaning": "关心的事" },
+      { "id": "08", "word": "설날", "meaning": "新年" },
+      { "id": "09", "word": "설빔", "meaning": "新年服装" },
+      { "id": "10", "word": "성묘", "meaning": "扫墓" },
+      { "id": "11", "word": "귀성객", "meaning": "探亲的人" },
+      { "id": "12", "word": "세뱃돈", "meaning": "压岁钱" },
+      { "id": "13", "word": "풍습", "meaning": "习俗/风俗" }
+    ]
+  },
+  {
+    "chapter": "9-2",
+    "title": "추석 때는 고속도로가 붐벼요",
+    "vocab": [
+      { "id": "01", "word": "너 나 할 것 없이", "meaning": "无论是谁" },
+      { "id": "02", "word": "추석", "meaning": "中秋" },
+      { "id": "03", "word": "귀성 행렬", "meaning": "探亲队伍" },
+      { "id": "04", "word": "붐비다", "meaning": "拥□" },
+      { "id": "05", "word": "열대지방", "meaning": "热带地区" },
+      { "id": "06", "word": "내내", "meaning": "始终/-直" },
+      { "id": "07", "word": "햇 -", "meaning": "新出的/新长的 ~" },
+      { "id": "08", "word": "맨 -", "meaning": "光/空 ~" },
+      { "id": "09", "word": "맏 -", "meaning": "大 ~ /年长 ~" },
+      { "id": "10", "word": "첫 -", "meaning": "初 ~ /第-次 ~" },
+      { "id": "11", "word": "사위", "meaning": "女婿" },
+      { "id": "12", "word": "주먹", "meaning": "拳头" },
+      { "id": "13", "word": "고구마", "meaning": "红薯/地瓜" },
+      { "id": "14", "word": "며느리", "meaning": "儿媳" },
+      { "id": "15", "word": "행사", "meaning": "活动" }
+    ]
+  },
+  {
+    "chapter": "9-3",
+    "title": "강릉에서 하는 단오제에 갔다 왔어요",
+    "vocab": [
+      { "id": "01", "word": "단오제", "meaning": "端午祭" },
+      { "id": "02", "word": "세계문화유산", "meaning": "世界文化遗产" },
+      { "id": "03", "word": "지정되다", "meaning": "被指定" },
+      { "id": "04", "word": "넘다", "meaning": "超过/越过" },
+      { "id": "05", "word": "막상", "meaning": "真的/实际" },
+      { "id": "06", "word": "가면극", "meaning": "假面剧" },
+      { "id": "07", "word": "흥미롭다", "meaning": "有趣/有意思" },
+      { "id": "08", "word": "축제", "meaning": "庆典" },
+      { "id": "09", "word": "굿", "meaning": "跳大神/神祭" },
+      { "id": "10", "word": "농악", "meaning": "农乐" },
+      { "id": "11", "word": "가장행렬", "meaning": "庆典游行队伍" },
+      { "id": "12", "word": "불꽃놀이", "meaning": "烟花秀" },
+      { "id": "13", "word": "시가행진", "meaning": "街道游行" }
+    ]
+  },
+  {
+    "chapter": "9-4",
+    "title": "한국에는 5 월에 기념일이 많은 것 같아요",
+    "vocab": [
+      { "id": "01", "word": "따로따로", "meaning": "各自/分别" },
+      { "id": "02", "word": "어버이날", "meaning": "父母节" },
+      { "id": "03", "word": "기념일", "meaning": "纪念日" },
+      { "id": "04", "word": "근로자", "meaning": "劳动者" },
+      { "id": "05", "word": "기념관", "meaning": "纪念馆" },
+      { "id": "06", "word": "기념식", "meaning": "纪念仪式" },
+      { "id": "07", "word": "기념전", "meaning": "纪念展" },
+      { "id": "08", "word": "기념품", "meaning": "纪念品" },
+      { "id": "09", "word": "기념사진", "meaning": "纪念照片" },
+      { "id": "10", "word": "기념우표", "meaning": "纪念邮票" },
+      { "id": "11", "word": "추수감사절", "meaning": "秋收感恩节" }
+    ]
+  },
+  {
+    "chapter": "10-1",
+    "title": "자꾸 시계를 보는 버릇이 생겼어요",
+    "vocab": [
+      { "id": "01", "word": "버릇", "meaning": "习惯/恶习" },
+      { "id": "02", "word": "쫓기다", "meaning": "被追赶" },
+      { "id": "03", "word": "충분히", "meaning": "充分地" },
+      { "id": "04", "word": "의식적", "meaning": "有意识的" },
+      { "id": "05", "word": "회의", "meaning": "怀疑" },
+      { "id": "06", "word": "과로사", "meaning": "过劳死" },
+      { "id": "07", "word": "만족감", "meaning": "满足感" },
+      { "id": "08", "word": "우울증", "meaning": "忧郁症" },
+      { "id": "09", "word": "일벌레", "meaning": "工作狂" },
+      { "id": "10", "word": "경쟁하다", "meaning": "竞争" },
+      { "id": "11", "word": "도전하다", "meaning": "挑战" },
+      { "id": "12", "word": "몰두하다", "meaning": "投入/专注" },
+      { "id": "13", "word": "불안하다", "meaning": "不安" }
+    ]
+  },
+  {
+    "chapter": "10-2",
+    "title": "물질만능주의가 어제오늘의 일은 아니지요",
+    "vocab": [
+      { "id": "01", "word": "보상", "meaning": "补偿/赔偿" },
+      { "id": "02", "word": "물질만능주의", "meaning": "物质万能主义" },
+      { "id": "03", "word": "키우다", "meaning": "培养/培育" },
+      { "id": "04", "word": "개인주의", "meaning": "个人主义" },
+      { "id": "05", "word": "민족주의", "meaning": "民族主义" },
+      { "id": "06", "word": "이기주의", "meaning": "利己主义" },
+      { "id": "07", "word": "인본주의", "meaning": "人本主义" },
+      { "id": "08", "word": "외모지상주의", "meaning": "外貌至上主义" },
+      { "id": "09", "word": "증상", "meaning": "症状" }
+    ]
+  },
+  {
+    "chapter": "10-3",
+    "title": "신경 쓰는 만큼 건강하게 살 수 있어요",
+    "vocab": [
+      { "id": "01", "word": "염증", "meaning": "炎症/发炎" },
+      { "id": "02", "word": "굳이", "meaning": "执意/硬是" },
+      { "id": "03", "word": "지나치다", "meaning": "过度/过分" },
+      { "id": "04", "word": "영양제", "meaning": "营养剂" },
+      { "id": "05", "word": "보약", "meaning": "补药" },
+      { "id": "06", "word": "비만", "meaning": "肥胖" },
+      { "id": "07", "word": "채식", "meaning": "素食" },
+      { "id": "08", "word": "성인병", "meaning": "成人病" },
+      { "id": "09", "word": "유기농", "meaning": "有机" },
+      { "id": "10", "word": "건강 검진", "meaning": "健康检查/体检" },
+      { "id": "11", "word": "만성피로", "meaning": "慢性疲劳/常年疲劳" },
+      { "id": "12", "word": "종합영양제", "meaning": "综合营养剂" },
+      { "id": "13", "word": "건강보조식품", "meaning": "健康补品" }
+    ]
+  },
+  {
+    "chapter": "10-4",
+    "title": "의사소통이 단절되어 문제가 나타납니다",
+    "vocab": [
+      { "id": "01", "word": "의사소통", "meaning": "沟通" },
+      { "id": "02", "word": "단절", "meaning": "断绝" },
+      { "id": "03", "word": "자살", "meaning": "自杀" },
+      { "id": "04", "word": "증가하다", "meaning": "增加" },
+      { "id": "05", "word": "보급되다", "meaning": "普及" },
+      { "id": "06", "word": "터놓다", "meaning": "敞开/开诚布公" },
+      { "id": "07", "word": "또한", "meaning": "并且/而且" },
+      { "id": "08", "word": "반면", "meaning": "相反/另-方面" },
+      { "id": "09", "word": "우선", "meaning": "首先" },
+      { "id": "10", "word": "그 결과", "meaning": "其结果" },
+      { "id": "11", "word": "따라서", "meaning": "因此" },
+      { "id": "12", "word": "예를 들면", "meaning": "比如" },
+      { "id": "13", "word": "이외에도", "meaning": "此外" },
+      { "id": "14", "word": "마지막으로", "meaning": "最后" }
+    ]
+  }
+]

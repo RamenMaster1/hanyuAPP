@@ -1,0 +1,78 @@
+{
+  "remaining_structured_content": {
+    "section_title_1": "分类词汇 (Classified Vocabulary)",
+    "classified_vocabulary": [
+      {
+        "category": "1. 历史与文化",
+        "page": "298"
+      },
+      {
+        "category": "2. 社会与家庭",
+        "page": "299"
+      },
+      {
+        "category": "3. 生活科学",
+        "page": "299"
+      },
+      {
+        "category": "4. 职场生活",
+        "page": "301"
+      },
+      {
+        "category": "5. 政策与经济",
+        "page": "301"
+      },
+      {
+        "category": "6. 大学生活",
+        "page": "303"
+      },
+      {
+        "category": "7. 音乐与美术",
+        "page": "303"
+      },
+      {
+        "category": "8. 自然与生物",
+        "page": "303"
+      },
+      {
+        "category": "9. 天文地理",
+        "page": "304"
+      }
+    ],
+    "section_title_2": "附录 (Appendix)",
+    "appendix": [
+      {
+        "summary": "1. 副词总结",
+        "page": "305"
+      },
+      {
+        "summary": "2. 惯用语总结",
+        "page": "305"
+      },
+      {
+        "summary": "3. 成语总结",
+        "page": "307"
+      },
+      {
+        "summary": "4. 俗语总结",
+        "page": "307"
+      },
+      {
+        "summary": "5. 近义词总结",
+        "page": "309"
+      },
+      {
+        "summary": "6. 反义词总结",
+        "page": "311"
+      },
+      {
+        "summary": "7. 多义词总结",
+        "page": "312"
+      },
+      {
+        "summary": "8. 听力必备动词",
+        "page": "318"
+      }
+    ]
+  }
+}

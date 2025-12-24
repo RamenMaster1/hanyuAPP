@@ -1,0 +1,1139 @@
+{
+  "intermediate_unit_7": [
+    {
+      "id": "1282",
+      "term": "단지",
+      "origin": "但只",
+      "definition": "仅仅, 只不过",
+      [cite_start]"example": "단지 평범한 학생일 뿐이다. / 我仅仅是平凡的学生，而不是最显眼的学生。 [cite: 1282]"
+    },
+    {
+      "id": "1283",
+      "term": "전역",
+      "origin": "全域",
+      "definition": "全地区",
+      "example": "전역에 대중교통을 확대 실시해야 한다. [cite_start]/ 应该在交通不便的地区增加公共交通设施。 [cite: 1283]"
+    },
+    {
+      "id": "1284",
+      "term": "수명",
+      "origin": "寿命",
+      "definition": "寿命",
+      "example": "수명 연장이 삶의 질을 높인다. [cite_start]/ 寿命延长提高了生活质量。 [cite: 1284]"
+    },
+    {
+      "id": "1285",
+      "term": "건조하다",
+      "origin": "乾燥",
+      "definition": "干燥",
+      "example": "건조한 날씨에는 가습기를 틀어야 한다. [cite_start]/ 干燥的天气，应该打开加湿器。 [cite: 1285]"
+    },
+    {
+      "id": "1286",
+      "term": "거리",
+      "definition": "几尺",
+      "example": "발밑의 돌은 거리와는 상관없이 굴러간다. [cite_start]/ 脚下的石头和距离无关地滚来滚去。 [cite: 1286]"
+    },
+    {
+      "id": "1287",
+      "term": "바르다",
+      "definition": "涂, 抹",
+      "example": "연고를 바르면 상처가 빨리 낫는다. [cite_start]/ 涂药膏的话，伤口会快点愈合。 [cite: 1287]"
+    },
+    {
+      "id": "1288",
+      "term": "시청자",
+      "origin": "视聴者",
+      "definition": "观众",
+      "example": "드라마의 시청률이 높다. [cite_start]/ 电视剧的收视率高。 [cite: 1288]"
+    },
+    {
+      "id": "1289",
+      "term": "공격하다",
+      "origin": "攻撃",
+      "definition": "攻击",
+      "example": "동물들이 곤충을 공격한다. [cite_start]/ 动物们攻击昆虫。 [cite: 1289]"
+    },
+    {
+      "id": "1290",
+      "term": "사료",
+      "origin": "饲料",
+      "definition": "饲料",
+      "example": "사료를 먹였다. [cite_start]/ 喂了饲料。 [cite: 1290]"
+    },
+    {
+      "id": "1291",
+      "term": "서투르다",
+      "definition": "不熟练, 生疏",
+      "example": "운전이 서투르다. [cite_start]/ 驾驶不熟练。 [cite: 1291]"
+    },
+    {
+      "id": "1292",
+      "term": "분별",
+      "origin": "分別",
+      "definition": "分辨, 分类",
+      "example": "좋은 것과 나쁜 것을 분별해야 한다. [cite_start]/ 必须分辨好坏。 [cite: 1292]"
+    },
+    {
+      "id": "1293",
+      "term": "팽창",
+      "origin": "膨胀",
+      "definition": "膨胀",
+      "example": "풍선이 팽창했다. [cite_start]/ 气球膨胀了。 [cite: 1293]"
+    },
+    {
+      "id": "1294",
+      "term": "정착",
+      "origin": "定着",
+      "definition": "定居, 扎根",
+      "example": "정착 생활을 시작했다. [cite_start]/ 开始了定居生活。 [cite: 1294]"
+    },
+    {
+      "id": "1295",
+      "term": "당당하다",
+      "origin": "堂堂",
+      "definition": "正派, 堂正",
+      "example": "당당하게 행동했다. [cite_start]/ 行为堂正。 [cite: 1295]"
+    },
+    {
+      "id": "1296",
+      "term": "달리",
+      "definition": "不同",
+      "example": "그는 다른 사람들과 달리 행동했다. [cite_start]/ 他和别人不同地行动了。 [cite: 1296]"
+    },
+    {
+      "id": "1297",
+      "term": "방지하다",
+      "origin": "防止",
+      "definition": "防止, 预防",
+      "example": "사고를 방지해야 한다. [cite_start]/ 必须预防事故。 [cite: 1297]"
+    },
+    {
+      "id": "1298",
+      "term": "신중하다",
+      "origin": "慎重",
+      "definition": "慎重, 慎重",
+      "example": "신중하게 행동했다. [cite_start]/ 慎重地行动了。 [cite: 1298]"
+    },
+    {
+      "id": "1299",
+      "term": "우아하다",
+      "origin": "优雅",
+      "definition": "优雅",
+      "example": "우아한 모습이다. [cite_start]/ 是优雅的样子。 [cite: 1299]"
+    },
+    {
+      "id": "1300",
+      "term": "맡다",
+      "definition": "承担, 负责",
+      "example": "일을 맡았다. [cite_start]/ 负责了工作。 [cite: 1300]"
+    },
+    {
+      "id": "1301",
+      "term": "그닥",
+      "origin": "그다지",
+      "definition": "不怎么, 那个程度",
+      "example": "그닥 어렵지 않다. [cite_start]/ 不怎么难。 [cite: 1301]"
+    },
+    {
+      "id": "1302",
+      "term": "늘어나다",
+      "definition": "增加",
+      "example": "예산이 늘어났다. [cite_start]/ 预算增加了。 [cite: 1302]",
+      "antonym": "줄어들다 (减少)"
+    },
+    {
+      "id": "1303",
+      "term": "승낙",
+      "origin": "承諾",
+      "definition": "承诺",
+      "example": "부탁을 승낙했다. [cite_start]/ 承诺了请求。 [cite: 1303]"
+    },
+    {
+      "id": "1304",
+      "term": "궁금하다",
+      "origin": "好奇",
+      "definition": "好奇",
+      "example": "결과가 궁금하다. [cite_start]/ 对结果感到好奇。 [cite: 1304]"
+    },
+    {
+      "id": "1305",
+      "term": "목격하다",
+      "origin": "目擊",
+      "definition": "目击",
+      "example": "사고를 목격했다. [cite_start]/ 目击了事故。 [cite: 1305]"
+    },
+    {
+      "id": "1306",
+      "term": "똑똑하다",
+      "definition": "聪明",
+      "example": "똑똑한 학생이다. [cite_start]/ 是聪明的学生。 [cite: 1306]"
+    },
+    {
+      "id": "1307",
+      "term": "독점",
+      "origin": "独占",
+      "definition": "垄断",
+      "example": "시장을 독점했다. [cite_start]/ 垄断了市场。 [cite: 1307]"
+    },
+    {
+      "id": "1308",
+      "term": "식량",
+      "origin": "食糧",
+      "definition": "粮食",
+      "example": "식량이 부족하다. [cite_start]/ 粮食不足。 [cite: 1308]"
+    },
+    {
+      "id": "1309",
+      "term": "섞다",
+      "definition": "混合",
+      "example": "물을 섞었다. [cite_start]/ 混合了水。 [cite: 1309]"
+    },
+    {
+      "id": "1310",
+      "term": "발휘하다",
+      "origin": "發揮",
+      "definition": "发挥",
+      "example": "능력을 발휘했다. [cite_start]/ 发挥了能力。 [cite: 1310]"
+    },
+    {
+      "id": "1311",
+      "term": "달력",
+      "origin": "日历",
+      "definition": "日历",
+      "example": "달력을 봤다. [cite_start]/ 看了日历。 [cite: 1311]"
+    },
+    {
+      "id": "1312",
+      "term": "피부병",
+      "origin": "皮膚病",
+      "definition": "皮肤病",
+      "example": "피부병에 걸렸다. [cite_start]/ 得了皮肤病。 [cite: 1312]"
+    },
+    {
+      "id": "1313",
+      "term": "악하다",
+      "definition": "恶毒, 坏",
+      "example": "악한 사람이다. [cite_start]/ 是个恶毒的人。 [cite: 1313]",
+      "antonym": "선하다 (善良)"
+    },
+    {
+      "id": "1314",
+      "term": "지치다",
+      "definition": "疲劳",
+      "example": "지쳐서 쓰러졌다. [cite_start]/ 疲劳得晕倒了。 [cite: 1314]"
+    },
+    {
+      "id": "1315",
+      "term": "가르치다",
+      "definition": "教",
+      "example": "학생들을 가르쳤다. [cite_start]/ 教了学生。 [cite: 1315]"
+    },
+    {
+      "id": "1316",
+      "term": "평가",
+      "origin": "評価",
+      "definition": "评价",
+      "example": "평가가 좋다. [cite_start]/ 评价好。 [cite: 1316]"
+    },
+    {
+      "id": "1317",
+      "term": "세계",
+      "origin": "世界",
+      "definition": "世界",
+      "example": "세계적으로 유명하다. [cite_start]/ 世界有名。 [cite: 1317]"
+    },
+    {
+      "id": "1318",
+      "term": "감시",
+      "origin": "監視",
+      "definition": "监视",
+      "example": "CCTV로 감시한다. [cite_start]/ 用CCTV监视。 [cite: 1318]"
+    },
+    {
+      "id": "1319",
+      "term": "대규모",
+      "origin": "大规模",
+      "definition": "大规模",
+      "example": "대규모 행사를 개최했다. [cite_start]/ 举办了大规模活动。 [cite: 1319]"
+    },
+    {
+      "id": "1320",
+      "term": "관공서",
+      "origin": "官公署",
+      "definition": "政府机关",
+      "example": "관공서에 방문했다. [cite_start]/ 访问了政府机关。 [cite: 1320]"
+    },
+    {
+      "id": "1321",
+      "term": "생기다",
+      "definition": "发生, 产生",
+      "example": "문제가 생겼다. [cite_start]/ 发生了问题。 [cite: 1321]"
+    }
+  ],
+  "intermediate_unit_8": [
+    {
+      "id": "1322",
+      "term": "착각",
+      "origin": "錯覺",
+      "definition": "错觉",
+      "example": "착각에 빠졌다. [cite_start]/ 陷入了错觉。 [cite: 1322]"
+    },
+    {
+      "id": "1323",
+      "term": "피하다",
+      "definition": "避开",
+      "example": "피해 다녀야 한다. [cite_start]/ 应该避开。 [cite: 1323]"
+    },
+    {
+      "id": "1324",
+      "term": "검진",
+      "origin": "検診",
+      "definition": "检查",
+      "example": "건강 검진을 받았다. [cite_start]/ 接受了健康检查。 [cite: 1324]"
+    },
+    {
+      "id": "1325",
+      "term": "실내",
+      "origin": "室內",
+      "definition": "室内",
+      "example": "실내 온도를 유지했다. [cite_start]/ 维持了室内温度。 [cite: 1325]",
+      "antonym": "실외 (室外)"
+    },
+    {
+      "id": "1326",
+      "term": "가사",
+      "origin": "歌辞",
+      "definition": "歌词",
+      "example": "노래 가사가 좋다. [cite_start]/ 歌词好。 [cite: 1326]"
+    },
+    {
+      "id": "1327",
+      "term": "두통",
+      "origin": "頭痛",
+      "definition": "头痛",
+      "example": "두통이 심하다. [cite_start]/ 头痛严重。 [cite: 1327]"
+    },
+    {
+      "id": "1328",
+      "term": "타인",
+      "origin": "他人",
+      "definition": "他人",
+      "example": "타인의 행동을 비난했다. [cite_start]/ 批判他人的行为。 [cite: 1328]"
+    },
+    {
+      "id": "1329",
+      "term": "글자",
+      "definition": "字",
+      "example": "글자가 작다. [cite_start]/ 字小。 [cite: 1329]"
+    },
+    {
+      "id": "1330",
+      "term": "파리",
+      "origin": "Paris",
+      "definition": "巴黎",
+      "example": "파리에서 패션쇼를 봤다. [cite_start]/ 在巴黎看了时装秀。 [cite: 1330]"
+    },
+    {
+      "id": "1331",
+      "term": "동창회",
+      "origin": "同窓会",
+      "definition": "同学会",
+      "example": "동창회에 참석했다. [cite_start]/ 参加了同学会。 [cite: 1331]"
+    },
+    {
+      "id": "1332",
+      "term": "공통점",
+      "origin": "共同点",
+      "definition": "共同点",
+      "example": "공통점을 찾았다. [cite_start]/ 找到了共同点。 [cite: 1332]",
+      "antonym": "차이점 (差别, 不同点)"
+    },
+    {
+      "id": "1333",
+      "term": "불리",
+      "origin": "不利",
+      "definition": "不利",
+      "example": "불리한 조건이다. [cite_start]/ 是不利的条件。 [cite: 1333]"
+    },
+    {
+      "id": "1334",
+      "term": "교사",
+      "origin": "敎師",
+      "definition": "教师",
+      "example": "교사가 되었다. [cite_start]/ 成为教师了。 [cite: 1334]"
+    },
+    {
+      "id": "1335",
+      "term": "피곤하다",
+      "origin": "疲困",
+      "definition": "疲惫, 辛苦",
+      "example": "피곤해서 잠들었다. [cite_start]/ 疲惫得睡着了。 [cite: 1335]"
+    },
+    {
+      "id": "1336",
+      "term": "유산",
+      "origin": "遺産",
+      "definition": "遗产",
+      "example": "유산을 물려받았다. [cite_start]/ 继承了遗产。 [cite: 1336]"
+    },
+    {
+      "id": "1337",
+      "term": "낙천적",
+      "origin": "樂天的",
+      "definition": "乐观的",
+      "example": "낙천적인 성격이다. [cite_start]/ 是乐观的性格。 [cite: 1337]"
+    },
+    {
+      "id": "1338",
+      "term": "가득하다",
+      "definition": "满满",
+      "example": "방이 가득하다. [cite_start]/ 房间满满的。 [cite: 1338]"
+    },
+    {
+      "id": "1339",
+      "term": "폭우",
+      "origin": "暴雨",
+      "definition": "暴雨",
+      "example": "폭우로 인해 피해가 컸다. [cite_start]/ 因为暴雨，损失很大。 [cite: 1339]"
+    },
+    {
+      "id": "1340",
+      "term": "근무조건",
+      "origin": "勤務條件",
+      "definition": "工作条件",
+      "example": "근무조건이 좋다. [cite_start]/ 工作条件好。 [cite: 1340]"
+    },
+    {
+      "id": "1341",
+      "term": "불규칙",
+      "origin": "不規則",
+      "definition": "不规则",
+      "example": "불규칙한 생활 습관. [cite_start]/ 不规则的生活习惯。 [cite: 1341]"
+    },
+    {
+      "id": "1342",
+      "term": "넘다",
+      "definition": "超过",
+      "example": "10km를 넘는 거리. [cite_start]/ 超过10km的距离。 [cite: 1342]"
+    },
+    {
+      "id": "1343",
+      "term": "물리치다",
+      "definition": "击退",
+      "example": "적군을 물리쳤다. [cite_start]/ 击退了敌军。 [cite: 1343]"
+    },
+    {
+      "id": "1344",
+      "term": "견디다",
+      "definition": "忍耐",
+      "example": "고통을 견디다. [cite_start]/ 忍耐痛苦。 [cite: 1344]"
+    },
+    {
+      "id": "1345",
+      "term": "중동",
+      "origin": "中東",
+      "definition": "中东",
+      "example": "중동 지역에 진출했다. [cite_start]/ 进军中东地区。 [cite: 1345]"
+    },
+    {
+      "id": "1346",
+      "term": "경영",
+      "origin": "經營",
+      "definition": "经营",
+      "example": "경영 상태가 좋다. [cite_start]/ 经营状态好。 [cite: 1346]"
+    },
+    {
+      "id": "1347",
+      "term": "동호회",
+      "origin": "同好会",
+      "definition": "同好会",
+      "example": "동호회에 가입했다. [cite_start]/ 加入了同好会。 [cite: 1347]"
+    },
+    {
+      "id": "1348",
+      "term": "되찾다",
+      "definition": "找回",
+      "example": "건강을 되찾았다. [cite_start]/ 找回了健康。 [cite: 1348]"
+    },
+    {
+      "id": "1349",
+      "term": "성별",
+      "origin": "性別",
+      "definition": "性别",
+      "example": "성별을 확인했다. [cite_start]/ 确认了性别。 [cite: 1349]"
+    },
+    {
+      "id": "1350",
+      "term": "설문",
+      "origin": "設問",
+      "definition": "问卷, 提问",
+      "example": "설문 조사를 했다. [cite_start]/ 进行了问卷调查。 [cite: 1350]"
+    },
+    {
+      "id": "1351",
+      "term": "출판사",
+      "origin": "出版社",
+      "definition": "出版社",
+      "example": "출판사를 찾았다. [cite_start]/ 找到了出版社。 [cite: 1351]"
+    },
+    {
+      "id": "1352",
+      "term": "세탁소",
+      "origin": "洗濯所",
+      "definition": "洗衣店",
+      "example": "세탁소에 옷을 맡겼다. [cite_start]/ 把衣服送到了洗衣店。 [cite: 1352]"
+    },
+    {
+      "id": "1353",
+      "term": "장학금",
+      "origin": "奬學金",
+      "definition": "奖学金",
+      "example": "장학금을 받았다. [cite_start]/ 获得了奖学金。 [cite: 1353]"
+    },
+    {
+      "id": "1354",
+      "term": "무기",
+      "origin": "武器",
+      "definition": "武器",
+      "example": "무기를 사용했다. [cite_start]/ 使用了武器。 [cite: 1354]"
+    },
+    {
+      "id": "1355",
+      "term": "외모",
+      "origin": "外貌",
+      "definition": "外貌",
+      "example": "외모가 뛰어나다. [cite_start]/ 外貌出众。 [cite: 1355]"
+    },
+    {
+      "id": "1356",
+      "term": "음주",
+      "origin": "飮酒",
+      "definition": "饮酒",
+      "example": "음주 운전은 위험하다. [cite_start]/ 酒驾危险。 [cite: 1356]"
+    },
+    {
+      "id": "1357",
+      "term": "떨리다",
+      "definition": "颤抖",
+      "example": "손이 떨린다. [cite_start]/ 手颤抖。 [cite: 1357]"
+    },
+    {
+      "id": "1358",
+      "term": "시력",
+      "origin": "視力",
+      "definition": "视力",
+      "example": "시력이 나쁘다. [cite_start]/ 视力不好。 [cite: 1358]"
+    },
+    {
+      "id": "1359",
+      "term": "신입 사원",
+      "origin": "新入社員",
+      "definition": "新职员",
+      "example": "신입 사원을 채용했다. [cite_start]/ 聘用了新职员。 [cite: 1359]"
+    },
+    {
+      "id": "1360",
+      "term": "인생",
+      "origin": "人生",
+      "definition": "人生",
+      "example": "인생의 목표를 세웠다. [cite_start]/ 设立了人生的目标。 [cite: 1360]"
+    },
+    {
+      "id": "1361",
+      "term": "예의",
+      "origin": "禮儀",
+      "definition": "礼仪, 礼貌",
+      "example": "예의 바르다. [cite_start]/ 有礼貌。 [cite: 1361]"
+    },
+    {
+      "id": "1362",
+      "term": "미루다",
+      "definition": "推迟",
+      "example": "숙제를 미루다. [cite_start]/ 推迟作业。 [cite: 1362]"
+    }
+  ],
+  "intermediate_unit_9": [
+    {
+      "id": "1366",
+      "term": "실천하다",
+      "origin": "实践",
+      "definition": "实践, 实行",
+      "example": "계획을 실천했다. [cite_start]/ 实践了计划。 [cite: 1366]"
+    },
+    {
+      "id": "1367",
+      "term": "그래프",
+      "origin": "graph",
+      "definition": "图表",
+      "example": "그래프를 그렸다. [cite_start]/ 画了图表。 [cite: 1367]"
+    },
+    {
+      "id": "1368",
+      "term": "매출",
+      "origin": "販賣",
+      "definition": "销售额",
+      "example": "매출이 증가했다. [cite_start]/ 销售额增加了。 [cite: 1368]"
+    },
+    {
+      "id": "1369",
+      "term": "연말",
+      "origin": "年末",
+      "definition": "年末",
+      "example": "연말 파티를 했다. [cite_start]/ 举办了年末派对。 [cite: 1369]"
+    },
+    {
+      "id": "1370",
+      "term": "과거",
+      "origin": "過去",
+      "definition": "过去",
+      "example": "과거를 후회했다. [cite_start]/ 后悔过去。 [cite: 1370]"
+    },
+    {
+      "id": "1371",
+      "term": "물리치다",
+      "definition": "击退",
+      "example": "적을 물리쳤다. [cite_start]/ 击退了敌人。 [cite: 1371]"
+    },
+    {
+      "id": "1372",
+      "term": "콜롬비아",
+      "origin": "Colombia",
+      "definition": "哥伦比亚",
+      "example": "콜롬비아 커피가 유명하다. [cite_start]/ 哥伦比亚咖啡有名。 [cite: 1372]"
+    },
+    {
+      "id": "1373",
+      "term": "돋다",
+      "definition": "涌动, 冒出",
+      "example": "땀이 돋다. [cite_start]/ 冒汗。 [cite: 1373]"
+    },
+    {
+      "id": "1374",
+      "term": "일찍",
+      "definition": "早",
+      "example": "일찍 일어났다. [cite_start]/ 早起了。 [cite: 1374]"
+    },
+    {
+      "id": "1375",
+      "term": "제한하다",
+      "origin": "制限",
+      "definition": "限制",
+      "example": "출입을 제한했다. [cite_start]/ 限制出入。 [cite: 1375]"
+    },
+    {
+      "id": "1376",
+      "term": "직장인",
+      "origin": "职场人",
+      "definition": "上班族",
+      "example": "직장인들의 고민. [cite_start]/ 上班族的烦恼。 [cite: 1376]"
+    },
+    {
+      "id": "1377",
+      "term": "물품",
+      "origin": "物品",
+      "definition": "物品",
+      "example": "필요한 물품. [cite_start]/ 需要的物品。 [cite: 1377]"
+    },
+    {
+      "id": "1378",
+      "term": "마트",
+      "origin": "mart",
+      "definition": "超市",
+      "example": "마트에 갔다. [cite_start]/ 去了超市。 [cite: 1378]"
+    },
+    {
+      "id": "1379",
+      "term": "고생",
+      "origin": "苦生",
+      "definition": "辛苦, 苦劳",
+      "example": "고생을 많이 했다. [cite_start]/ 辛苦了很多。 [cite: 1379]"
+    },
+    {
+      "id": "1380",
+      "term": "열대야",
+      "origin": "熱帶夜",
+      "definition": "热带夜",
+      "example": "열대야로 잠을 못 잤다. [cite_start]/ 因为热带夜没睡好觉。 [cite: 1380]"
+    },
+    {
+      "id": "1381",
+      "term": "가슴이 뛰다",
+      "definition": "心跳加速",
+      "example": "가슴이 설렌다. [cite_start]/ 心跳加速。 [cite: 1381]"
+    },
+    {
+      "id": "1382",
+      "term": "여유",
+      "origin": "余裕",
+      "definition": "从容",
+      "example": "마음의 여유를 가졌다. [cite_start]/ 心情从容。 [cite: 1382]"
+    },
+    {
+      "id": "1383",
+      "term": "반복되다",
+      "origin": "反覆",
+      "definition": "重复",
+      "example": "같은 실수가 반복되다. [cite_start]/ 同样的失误被重复。 [cite: 1383]"
+    },
+    {
+      "id": "1384",
+      "term": "넘어지다",
+      "definition": "跌倒",
+      "example": "넘어져서 다쳤다. [cite_start]/ 跌倒受伤了。 [cite: 1384]"
+    },
+    {
+      "id": "1385",
+      "term": "심각하다",
+      "origin": "深刻",
+      "definition": "严重",
+      "example": "심각한 문제다. [cite_start]/ 是严重的问题。 [cite: 1385]"
+    },
+    {
+      "id": "1386",
+      "term": "다루다",
+      "definition": "处理, 使用",
+      "example": "문제를 다루다. [cite_start]/ 处理问题。 [cite: 1386]"
+    },
+    {
+      "id": "1387",
+      "term": "관점",
+      "origin": "観点",
+      "definition": "观点",
+      "example": "다른 관점에서 보다. [cite_start]/ 从不同的观点来看。 [cite: 1387]"
+    },
+    {
+      "id": "1388",
+      "term": "괴롭다",
+      "definition": "辛苦, 不舒服",
+      "example": "몸이 괴롭다. [cite_start]/ 身体不舒服。 [cite: 1388]"
+    },
+    {
+      "id": "1389",
+      "term": "더럽다",
+      "definition": "脏",
+      "example": "옷이 더럽다. [cite_start]/ 衣服脏。 [cite: 1389]",
+      "antonym": "깨끗하다 (干净)"
+    },
+    {
+      "id": "1390",
+      "term": "충족",
+      "origin": "充足",
+      "definition": "满足",
+      "example": "요구를 충족시키다. [cite_start]/ 满足要求。 [cite: 1390]"
+    },
+    {
+      "id": "1391",
+      "term": "재활용",
+      "origin": "再활용",
+      "definition": "再利用",
+      "example": "재활용 쓰레기. [cite_start]/ 可回收垃圾。 [cite: 1391]"
+    },
+    {
+      "id": "1392",
+      "term": "어쩌다",
+      "definition": "偶尔",
+      "example": "어쩌다 한 번. [cite_start]/ 偶尔一次。 [cite: 1392]"
+    },
+    {
+      "id": "1393",
+      "term": "털어놓다",
+      "definition": "倾诉",
+      "example": "고민을 털어놓다. [cite_start]/ 倾诉烦恼。 [cite: 1393]"
+    },
+    {
+      "id": "1394",
+      "term": "심각하다",
+      "origin": "深刻",
+      "definition": "严重",
+      "example": "심각한 문제. [cite_start]/ 严重的问题。 [cite: 1394]"
+    },
+    {
+      "id": "1395",
+      "term": "우선시하다",
+      "origin": "優先視",
+      "definition": "优先考虑",
+      "example": "자신의 이익을 우선시하다. [cite_start]/ 优先考虑自己的利益。 [cite: 1395]"
+    },
+    {
+      "id": "1396",
+      "term": "다루다",
+      "definition": "处理, 使用",
+      "example": "문제를 다루다. [cite_start]/ 处理问题。 [cite: 1396]"
+    },
+    {
+      "id": "1397",
+      "term": "환경",
+      "origin": "環境",
+      "definition": "环境",
+      "example": "환경 보호. [cite_start]/ 环境保护。 [cite: 1397]"
+    },
+    {
+      "id": "1398",
+      "term": "전쟁",
+      "origin": "戦争",
+      "definition": "战争",
+      "example": "전쟁 장면. [cite_start]/ 战争场面。 [cite: 1398]"
+    },
+    {
+      "id": "1399",
+      "term": "태양열",
+      "origin": "太陽熱",
+      "definition": "太阳能",
+      "example": "태양열 발전. [cite_start]/ 太阳能发电。 [cite: 1399]"
+    },
+    {
+      "id": "1400",
+      "term": "독서",
+      "origin": "讀書",
+      "definition": "读书",
+      "example": "독서 습관. [cite_start]/ 读书习惯。 [cite: 1400]"
+    },
+    {
+      "id": "1401",
+      "term": "폐수",
+      "origin": "廢水",
+      "definition": "污水",
+      "example": "폐수를 처리하다. [cite_start]/ 处理污水。 [cite: 1401]"
+    },
+    {
+      "id": "1402",
+      "term": "재산",
+      "origin": "財産",
+      "definition": "财产",
+      "example": "재산을 모으다. [cite_start]/ 积累财产。 [cite: 1402]"
+    },
+    {
+      "id": "1403",
+      "term": "의사",
+      "origin": "医師",
+      "definition": "医生",
+      "example": "의사에게 진료를 받다. [cite_start]/ 接受医生诊疗。 [cite: 1403]"
+    },
+    {
+      "id": "1404",
+      "term": "장소",
+      "origin": "场所",
+      "definition": "场所",
+      "example": "모임 장소. [cite_start]/ 聚会场所。 [cite: 1404]"
+    },
+    {
+      "id": "1405",
+      "term": "세계화",
+      "origin": "世界化",
+      "definition": "全球化",
+      "example": "세계화 시대. [cite_start]/ 全球化时代。 [cite: 1405]"
+    },
+    {
+      "id": "1406",
+      "term": "바닥",
+      "origin": "地板",
+      "definition": "地板",
+      "example": "바닥에 먼지가 많다. [cite_start]/ 地板上灰尘多。 [cite: 1406]"
+    },
+    {
+      "id": "1407",
+      "term": "봉사",
+      "origin": "奉仕",
+      "definition": "服务",
+      "example": "봉사 활동. [cite_start]/ 服务活动。 [cite: 1407]"
+    },
+    {
+      "id": "1408",
+      "term": "노트북",
+      "origin": "notebook",
+      "definition": "笔记本电脑",
+      "example": "노트북을 샀다. [cite_start]/ 买了笔记本电脑。 [cite: 1408]"
+    },
+    {
+      "id": "1409",
+      "term": "아니다",
+      "definition": "不是",
+      "example": "문제가 아니다. [cite_start]/ 不是问题。 [cite: 1409]"
+    },
+    {
+      "id": "1410",
+      "term": "해석되다",
+      "origin": "解释",
+      "definition": "被解释",
+      "example": "오해로 해석되다. [cite_start]/ 被解释为误会。 [cite: 1410]"
+    },
+    {
+      "id": "1411",
+      "term": "언어",
+      "origin": "言语",
+      "definition": "语言",
+      "example": "언어 능력을 키우다. [cite_start]/ 培养语言能力。 [cite: 1411]"
+    },
+    {
+      "id": "1412",
+      "term": "탑",
+      "origin": "塔",
+      "definition": "塔",
+      "example": "탑을 쌓다. [cite_start]/ 堆塔。 [cite: 1412]"
+    },
+    {
+      "id": "1413",
+      "term": "동네",
+      "definition": "村庄, 小区",
+      "example": "동네 이웃. [cite_start]/ 小区邻居。 [cite: 1413]"
+    },
+    {
+      "id": "1414",
+      "term": "가구",
+      "origin": "家具",
+      "definition": "家具",
+      "example": "새 가구를 샀다. [cite_start]/ 买了新家具。 [cite: 1414]"
+    },
+    {
+      "id": "1415",
+      "term": "설득하다",
+      "origin": "説得",
+      "definition": "说服",
+      "example": "상대방을 설득했다. [cite_start]/ 说服了对方。 [cite: 1415]"
+    },
+    {
+      "id": "1416",
+      "term": "굶다",
+      "definition": "饿, 饿着",
+      "example": "밥을 굶었다. [cite_start]/ 饿着肚子。 [cite: 1416]"
+    },
+    {
+      "id": "1417",
+      "term": "낫다",
+      "definition": "好, 强",
+      "example": "이것이 저것보다 낫다. [cite_start]/ 这个比那个好。 [cite: 1417]"
+    },
+    {
+      "id": "1418",
+      "term": "매연",
+      "origin": "煤烟",
+      "definition": "煤烟, 尾气",
+      "example": "매연이 심하다. [cite_start]/ 尾气严重。 [cite: 1418]"
+    },
+    {
+      "id": "1419",
+      "term": "달리다",
+      "definition": "跑, 挂",
+      "example": "차는 달리지만, 오염은 심각하다. [cite_start]/ 汽车跑着，但是污染严重。 [cite: 1419]"
+    }
+  ],
+  "intermediate_unit_10": [
+    {
+      "id": "1420",
+      "term": "아낀다",
+      "definition": "节省, 珍惜",
+      "example": "돈을 아낀다. [cite_start]/ 节省金钱。 [cite: 1420]"
+    },
+    {
+      "id": "1421",
+      "term": "오아시스",
+      "origin": "oasis",
+      "definition": "绿洲",
+      "example": "사막의 오아시스. [cite_start]/ 沙漠的绿洲。 [cite: 1421]"
+    },
+    {
+      "id": "1422",
+      "term": "상승하다",
+      "origin": "上昇",
+      "definition": "上升",
+      "example": "가격이 상승했다. [cite_start]/ 价格上升了。 [cite: 1422]"
+    },
+    {
+      "id": "1423",
+      "term": "퇴원",
+      "origin": "退院",
+      "definition": "出院",
+      "example": "병원에서 퇴원했다. [cite_start]/ 从医院出院了。 [cite: 1423]"
+    },
+    {
+      "id": "1424",
+      "term": "관람객",
+      "origin": "観覧客",
+      "definition": "观众",
+      "example": "관람객이 많다. [cite_start]/ 观众多。 [cite: 1424]"
+    },
+    {
+      "id": "1425",
+      "term": "이해",
+      "origin": "理解",
+      "definition": "理解",
+      "example": "상대방을 이해하다. [cite_start]/ 理解对方。 [cite: 1425]"
+    },
+    {
+      "id": "1426",
+      "term": "수돗물",
+      "definition": "自来水",
+      "example": "수돗물을 마시다. [cite_start]/ 喝自来水。 [cite: 1426]"
+    },
+    {
+      "id": "1427",
+      "term": "챙기다",
+      "definition": "整理, 准备",
+      "example": "짐을 챙기다. [cite_start]/ 整理行李。 [cite: 1427]"
+    },
+    {
+      "id": "1428",
+      "term": "민박",
+      "origin": "民泊",
+      "definition": "住宿",
+      "example": "민박집에 묵었다. [cite_start]/ 住在民宿。 [cite: 1428]"
+    },
+    {
+      "id": "1429",
+      "term": "유지하다",
+      "origin": "維持",
+      "definition": "维持, 保持",
+      "example": "건강을 유지하다. [cite_start]/ 维持健康。 [cite: 1429]"
+    },
+    {
+      "id": "1430",
+      "term": "가요",
+      "origin": "歌謠",
+      "definition": "歌, 歌曲",
+      "example": "가요를 듣다. [cite_start]/ 听歌。 [cite: 1430]"
+    },
+    {
+      "id": "1431",
+      "term": "포기하다",
+      "origin": "抛棄",
+      "definition": "放弃",
+      "example": "꿈을 포기하지 않았다. [cite_start]/ 没有放弃梦想。 [cite: 1431]"
+    },
+    {
+      "id": "1432",
+      "term": "감시 카메라",
+      "origin": "監視 camera",
+      "definition": "监控摄像头",
+      "example": "감시 카메라를 설치하다. [cite_start]/ 安装监控摄像头。 [cite: 1432]"
+    },
+    {
+      "id": "1433",
+      "term": "모자라다",
+      "definition": "不足",
+      "example": "돈이 모자라다. [cite_start]/ 钱不足。 [cite: 1433]"
+    },
+    {
+      "id": "1434",
+      "term": "개막식",
+      "origin": "開幕式",
+      "definition": "开幕式",
+      "example": "개막식에 참석했다. [cite_start]/ 参加了开幕式。 [cite: 1442]"
+    },
+    {
+      "id": "1435",
+      "term": "바닥",
+      "origin": "底",
+      "definition": "地板",
+      "example": "바닥에 앉았다. [cite_start]/ 坐在地板上。 [cite: 1443]"
+    },
+    {
+      "id": "1436",
+      "term": "땀",
+      "origin": "汗",
+      "definition": "汗",
+      "example": "땀을 흘렸다. [cite_start]/ 流汗了。 [cite: 1444]"
+    },
+    {
+      "id": "1437",
+      "term": "불쾌하다",
+      "origin": "不快",
+      "definition": "不愉快",
+      "example": "불쾌한 표정. [cite_start]/ 不愉快的表情。 [cite: 1445]"
+    },
+    {
+      "id": "1438",
+      "term": "순진하다",
+      "origin": "純眞",
+      "definition": "单纯, 天真",
+      "example": "순진한 아이. [cite_start]/ 天真的孩子。 [cite: 1446]"
+    },
+    {
+      "id": "1439",
+      "term": "반성하다",
+      "origin": "反省",
+      "definition": "反省",
+      "example": "잘못을 반성하다. [cite_start]/ 反省错误。 [cite: 1447]"
+    },
+    {
+      "id": "1440",
+      "term": "특이",
+      "origin": "特異",
+      "definition": "特别, 尤其",
+      "example": "특이한 경험. [cite_start]/ 特别的经验。 [cite: 1448]"
+    },
+    {
+      "id": "1441",
+      "term": "매력",
+      "origin": "魅力",
+      "definition": "魅力",
+      "example": "매력이 넘치다. [cite_start]/ 充满魅力。 [cite: 1449]"
+    },
+    {
+      "id": "1442",
+      "term": "머뭇거리다",
+      "definition": "犹豫, 踌躇",
+      "example": "말을 머뭇거리다. [cite_start]/ 说话犹豫。 [cite: 1450]"
+    },
+    {
+      "id": "1443",
+      "term": "대인 관계",
+      "origin": "対人関係",
+      "definition": "人际关系",
+      "example": "대인 관계가 좋다. [cite_start]/ 人际关系好。 [cite: 1451]"
+    },
+    {
+      "id": "1444",
+      "term": "뱀",
+      "origin": "蛇",
+      "definition": "蛇",
+      "example": "뱀을 무서워하다. [cite_start]/ 害怕蛇。 [cite: 1452]"
+    },
+    {
+      "id": "1445",
+      "term": "끔찍하다",
+      "origin": "惨酷",
+      "definition": "可怕, 惨酷",
+      "example": "끔찍한 사고. [cite_start]/ 可怕的事故。 [cite: 1453]"
+    },
+    {
+      "id": "1446",
+      "term": "반영구적",
+      "origin": "半永久的",
+      "definition": "半永久的",
+      "example": "반영구적인 화장. [cite_start]/ 半永久化妆。 [cite: 1454]"
+    },
+    {
+      "id": "1447",
+      "term": "감동",
+      "origin": "感動",
+      "definition": "感动",
+      "example": "감동적인 이야기. [cite_start]/ 感人的故事。 [cite: 1455]"
+    },
+    {
+      "id": "1448",
+      "term": "녹차",
+      "origin": "綠茶",
+      "definition": "绿茶",
+      "example": "녹차를 마시다. [cite_start]/ 喝绿茶。 [cite: 1456]"
+    },
+    {
+      "id": "1449",
+      "term": "제대로",
+      "definition": "顺利地, 正常地",
+      "example": "제대로 작동하다. [cite_start]/ 正常运作。 [cite: 1457]"
+    },
+    {
+      "id": "1450",
+      "term": "맺다",
+      "definition": "结交",
+      "example": "친구를 맺다. [cite_start]/ 结交朋友。 [cite: 1458]"
+    },
+    {
+      "id": "1451",
+      "term": "빗길",
+      "definition": "雨中的路",
+      "example": "빗길 운전. [cite_start]/ 雨天驾驶。 [cite: 1459]"
+    }
+  ]
+}

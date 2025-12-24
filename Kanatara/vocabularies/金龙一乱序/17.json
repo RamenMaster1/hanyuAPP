@@ -1,0 +1,358 @@
+{
+  "advanced_unit_1": [
+    {
+      "id": "1984",
+      "term": "빽빽하다",
+      "definition": "密密麻麻",
+      "example": "일정이 빽빽하다. / 日程安排得密密麻麻。",
+      "related": "빽빽이 (密密麻麻地)"
+    },
+    {
+      "id": "1985",
+      "term": "부채",
+      "origin": "不才",
+      "definition": "无才, 没用",
+      "example": "부채를 느끼다. / 感到没用。",
+      "related": "부채질 (扇风)"
+    },
+    {
+      "id": "1986",
+      "term": "가로등",
+      "origin": "街路灯",
+      "definition": "路灯",
+      "example": "가로등이 켜지다. / 路灯亮了。"
+    },
+    {
+      "id": "1987",
+      "term": "사료",
+      "origin": "饲料",
+      "definition": "饲料",
+      "example": "사료를 먹이다. / 喂饲料。"
+    },
+    {
+      "id": "1988",
+      "term": "인권",
+      "origin": "人权",
+      "definition": "人权",
+      "example": "인권을 보호하다. / 保护人权。"
+    },
+    {
+      "id": "1989",
+      "term": "식량",
+      "origin": "食粮",
+      "definition": "食物, 口粮",
+      "example": "식량이 부족하다. / 食物不足。"
+    },
+    {
+      "id": "1990",
+      "term": "물웅덩이",
+      "definition": "水洼",
+      "example": "물웅덩이에 발이 빠지다. / 脚陷进了水洼里。"
+    },
+    {
+      "id": "1991",
+      "term": "습지",
+      "origin": "湿地",
+      "definition": "湿地",
+      "example": "습지에 살다. / 住在湿地。"
+    },
+    {
+      "id": "1992",
+      "term": "갓난",
+      "origin": "刚生",
+      "definition": "初生, 幼小",
+      "example": "갓난아이. / 幼小孩子。",
+      "related": "갓난아기 (婴儿)"
+    },
+    {
+      "id": "1993",
+      "term": "장르",
+      "origin": "genre",
+      "definition": "体裁, 种类",
+      "example": "새로운 장르. / 新的体裁。"
+    },
+    {
+      "id": "1994",
+      "term": "스미다",
+      "definition": "渗入",
+      "example": "비가 스미다. / 雨水渗入。"
+    },
+    {
+      "id": "1995",
+      "term": "포용하다",
+      "origin": "包容",
+      "definition": "包容, 宽容",
+      "example": "타인을 포용하다. / 宽容他人。"
+    },
+    {
+      "id": "1996",
+      "term": "실현하다",
+      "origin": "实现",
+      "definition": "实现",
+      "example": "꿈을 실현하다. / 实现梦想。"
+    },
+    {
+      "id": "1997",
+      "term": "각박하다",
+      "origin": "刻薄",
+      "definition": "苛刻, 冷酷",
+      "example": "세상이 각박하다. / 世道冷酷。"
+    },
+    {
+      "id": "1998",
+      "term": "뒤얽히다",
+      "definition": "纠缠, 混杂",
+      "example": "사건이 뒤얽히다. / 事件纠缠不清。"
+    },
+    {
+      "id": "1999",
+      "term": "곁",
+      "definition": "旁边, 附近",
+      "example": "친구의 곁. / 朋友的身边。"
+    },
+    {
+      "id": "2000",
+      "term": "기혼",
+      "origin": "已婚",
+      "definition": "已婚",
+      "example": "기혼 여성. / 已婚女性。"
+    },
+    {
+      "id": "2001",
+      "term": "숙성되다",
+      "origin": "熟成",
+      "definition": "熟成, 陈化",
+      "example": "치즈가 숙성되다. / 奶酪陈化。"
+    },
+    {
+      "id": "2002",
+      "term": "마뜩하다",
+      "definition": "满意, 称心",
+      "example": "마뜩한 표정. / 满意的表情。"
+    },
+    {
+      "id": "2003",
+      "term": "지출",
+      "origin": "支出",
+      "definition": "支出",
+      "example": "가계 지출. / 家庭支出。"
+    },
+    {
+      "id": "2004",
+      "term": "출산율",
+      "origin": "出産率",
+      "definition": "出生率",
+      "example": "출산율이 낮아지다. / 出生率下降。"
+    },
+    {
+      "id": "2005",
+      "term": "직결되다",
+      "origin": "直结",
+      "definition": "直接联系",
+      "example": "성공에 직결되다. / 与成功直接联系。"
+    }
+  ],
+  "advanced_unit_2": [
+    {
+      "id": "2006",
+      "term": "공직자",
+      "origin": "公职者",
+      "definition": "公职人员",
+      "example": "공직자의 책임. / 公职人员的责任。"
+    },
+    {
+      "id": "2007",
+      "term": "이끌다",
+      "definition": "引导, 带领",
+      "example": "팀을 이끌다. / 带领团队。"
+    },
+    {
+      "id": "2008",
+      "term": "보수적",
+      "origin": "保守的",
+      "definition": "保守的",
+      "example": "보수적인 태도. / 保守的态度。"
+    },
+    {
+      "id": "2009",
+      "term": "넉넉하다",
+      "definition": "足够, 充分",
+      "example": "넉넉한 시간. / 充足的时间。"
+    },
+    {
+      "id": "2010",
+      "term": "연력",
+      "origin": "連力",
+      "definition": "影响力, 联系",
+      "example": "연력을 발휘하다. / 发挥影响力。"
+    },
+    {
+      "id": "2011",
+      "term": "궁극적",
+      "origin": "究极的",
+      "definition": "最终的, 根本的",
+      "example": "궁극적인 목표. / 最终目标。"
+    },
+    {
+      "id": "2012",
+      "term": "과시하다",
+      "origin": "誇示",
+      "definition": "夸耀, 显示",
+      "example": "재능을 과시하다. / 夸耀才能。"
+    },
+    {
+      "id": "2013",
+      "term": "모성애",
+      "origin": "母性爱",
+      "definition": "母爱",
+      "example": "모성애가 강하다. / 母爱强烈。"
+    },
+    {
+      "id": "2014",
+      "term": "섬유",
+      "origin": "纤维",
+      "definition": "纤维",
+      "example": "천연 섬유. / 天然纤维。"
+    },
+    {
+      "id": "2015",
+      "term": "일조",
+      "origin": "一助",
+      "definition": "一份帮助",
+      "example": "일조하다. / 尽一份力。"
+    },
+    {
+      "id": "2016",
+      "term": "다양하다",
+      "origin": "多样",
+      "definition": "各种各样",
+      "example": "다양한 의견. / 各种意见。"
+    },
+    {
+      "id": "2017",
+      "term": "연극",
+      "origin": "演劇",
+      "definition": "话剧",
+      "example": "연극 공연. / 话剧演出。"
+    },
+    {
+      "id": "2018",
+      "term": "호화식",
+      "origin": "豪華食",
+      "definition": "豪华餐",
+      "example": "호화로운 식사. / 豪华的餐食。"
+    },
+    {
+      "id": "2019",
+      "term": "마땅하다",
+      "origin": "当",
+      "definition": "理所当然, 合适",
+      "example": "마땅한 대우. / 合适的待遇。"
+    },
+    {
+      "id": "2020",
+      "term": "유혹",
+      "origin": "诱惑",
+      "definition": "诱惑",
+      "example": "유혹에 빠지다. / 陷入诱惑。"
+    },
+    {
+      "id": "2021",
+      "term": "사양하다",
+      "origin": "辞让",
+      "definition": "辞让, 推辞",
+      "example": "초대를 사양했다. / 推辞了邀请。"
+    },
+    {
+      "id": "2022",
+      "term": "재원",
+      "origin": "财源",
+      "definition": "财源, 资金来源",
+      "example": "재원을 마련하다. / 筹集财源。"
+    },
+    {
+      "id": "2023",
+      "term": "과반수",
+      "origin": "过半数",
+      "definition": "过半数, 大多数",
+      "example": "과반수 득표. / 获得过半数选票。"
+    },
+    {
+      "id": "2024",
+      "term": "거창하다",
+      "origin": "巨大",
+      "definition": "巨大, 宏大",
+      "example": "거창한 계획. / 宏大的计划。"
+    },
+    {
+      "id": "2025",
+      "term": "장애인",
+      "origin": "障碍人",
+      "definition": "残疾人",
+      "example": "장애인 복지. / 残疾人福利。"
+    },
+    {
+      "id": "2026",
+      "term": "거스르다",
+      "definition": "违背, 逆",
+      "example": "법을 거스르다. / 违背法律。"
+    },
+    {
+      "id": "2027",
+      "term": "오싹",
+      "definition": "寒战, 发毛",
+      "example": "오싹한 느낌. / 发毛的感觉。"
+    },
+    {
+      "id": "2028",
+      "term": "천적",
+      "origin": "天敌",
+      "definition": "天敌",
+      "example": "천적이 없다. / 没有天敌。"
+    }
+  ],
+  "advanced_unit_3": [
+    {
+      "id": "2029",
+      "term": "유입되다",
+      "origin": "流入",
+      "definition": "流入, 被引入",
+      "example": "해외 자본 유입. / 海外资本流入。"
+    },
+    {
+      "id": "2030",
+      "term": "교란",
+      "origin": "交乱",
+      "definition": "扰乱, 紊乱",
+      "example": "생태계 교란. / 生态系统紊乱。"
+    },
+    {
+      "id": "2031",
+      "term": "검증되다",
+      "origin": "検証",
+      "definition": "被验证",
+      "example": "사실이 검증되다. / 事实被验证。"
+    },
+    {
+      "id": "2032",
+      "term": "무모하다",
+      "origin": "无谋",
+      "definition": "鲁莽, 无谋",
+      "example": "무모한 도전. / 鲁莽的挑战。"
+    },
+    {
+      "id": "2033",
+      "term": "수칙",
+      "origin": "守則",
+      "definition": "守则, 规程",
+      "example": "안전 수칙. / 安全规程。"
+    },
+    {
+      "id": "2034",
+      "term": "일괄적",
+      "origin": "一括的",
+      "definition": "一律, 统一的",
+      "example": "일괄적인 적용. / 统一适用。"
+    }
+  ]
+}

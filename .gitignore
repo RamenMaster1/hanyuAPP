@@ -1,0 +1,8 @@
+# 忽略数据库数据文件夹
+mysql_data/
+redis_data/
+
+# 忽略依赖和构建产物（如果你还没忽略的话）
+node_modules/
+.next/
+*.log
